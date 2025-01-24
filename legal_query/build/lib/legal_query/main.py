@@ -148,12 +148,20 @@ def call_o1(scenario):
     
     Please provide the next steps in your plan.
     """
+
+    full_response = ""
     response = client.chat.completions.create(
         model=O1_MODEL,
-        messages=[{'role': 'user', 'content': prompt}]
+        messages=[{'role': 'user', 'content': prompt}],
+        stream=True
     )
-    plan = response.choices[0].message.content
-    return plan
+
+    for chunk in response:
+        if chunk.choices[0].delta.content is not None:
+            print(chunk.choices[0].delta.content, end='')
+            full_response += chunk.choices[0].delta.content
+            
+    return full_response  
 
 def call_gpt4o(message_list, plan):
     gpt4o_policy_prompt = gpt4o_system_prompt.replace("{policy}", plan)
@@ -242,7 +250,7 @@ def process_scenario(message_list, scenario):
 
     plan = call_o1(scenario)
 
-    append_message(message_list, {'type': 'plan', 'content': plan})
+    # append_message(message_list, {'type': 'plan', 'content': plan})
 
     append_message(message_list, {'type': 'status', 'message': 'Executing plan...'})
 
