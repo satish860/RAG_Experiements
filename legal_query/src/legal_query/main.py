@@ -169,10 +169,11 @@ def call_gpt4o(message_list, plan):
         )
         
         assistant_message = response.choices[0].message.to_dict()
-        print(assistant_message)
+        # print(assistant_message)
         messages.append(assistant_message)
 
-        append_message(message_list, {'type': 'assistant', 'content': assistant_message.get('content', '')})
+        if 'tool_calls' not in assistant_message:
+            append_message(message_list, {'type': 'assistant', 'content': assistant_message.get('content', '')})
 
         if (response.choices[0].message.tool_calls and
             response.choices[0].message.tool_calls[0].function.name == 'instructions_complete'):
