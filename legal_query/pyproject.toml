@@ -1,0 +1,9 @@
+[project]
+name = "legal_query"
+version = "0.1.0"
+description = "Summarize legal documents with AI."
+authors = [{ name = "Satish Venkatakrishnan", email = "satish@askjunior.ai" }]
+dependencies = ["typer", "pypdf", "litellm", "openai"]
+
+[project.scripts]
+legal_query = "legal_query.cli:app"

@@ -1,0 +1,11 @@
+pyproject.toml
+src/legal_query/__init__.py
+src/legal_query/__main__.py
+src/legal_query/cli.py
+src/legal_query/main.py
+src/legal_query.egg-info/PKG-INFO
+src/legal_query.egg-info/SOURCES.txt
+src/legal_query.egg-info/dependency_links.txt
+src/legal_query.egg-info/entry_points.txt
+src/legal_query.egg-info/requires.txt
+src/legal_query.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+legal_query = legal_query.cli:app

@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: legal_query
+Version: 0.1.0
+Summary: Summarize legal documents with AI.
+Author-email: Satish Venkatakrishnan <satish@askjunior.ai>
+Requires-Dist: typer
+Requires-Dist: pypdf
+Requires-Dist: litellm
+Requires-Dist: openai
