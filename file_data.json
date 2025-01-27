@@ -138,5 +138,81 @@
     {
         "file_name": "ADOBE_2022_10K.pdf",
         "description": "This Adobe Inc. 10-K report details the company's fiscal year 2022 performance and operations.  It covers business overview, product offerings (Digital Media & Digital Experience), market analysis, competition, risk factors, financial statements (including balance sheets, income statements, and cash flows), accounting policies, and significant acquisitions (like Figma).  The report also includes information on executive leadership, stock information, and legal matters.  Detailed notes to the financial statements provide further explanation of key accounting policies and figures."
+    },
+    {
+        "file_name": "AMAZON_2015_10K.pdf",
+        "description": "This Amazon.com, Inc. Form 10-K filing details the company's 2015 business operations, financial performance, and risk factors.  It includes a business overview, competitive analysis, risk assessment, management information, financial statements (including consolidated statements of operations, cash flows, and balance sheets), accounting policies, and auditor reports.  Significant segments cover revenue recognition, cost of sales, operating expenses,  and liquidity.  Executive certifications confirm the report's accuracy and compliance."
+    },
+    {
+        "file_name": "AMAZON_2016_10K.pdf",
+        "description": "This is Amazon.com, Inc.'s 2016 Form 10-K report, a comprehensive annual filing.  It details Amazon's business overview, competitive landscape, risk factors, financial performance (including statements of operations, cash flows, and balance sheets), accounting policies, and significant subsidiaries.  The report also includes management's discussion and analysis, auditor's reports, and certifications from key executives.  Key financial data and segment breakdowns (North America, International, AWS) are provided.  Legal proceedings and other relevant disclosures are included."
+    },
+    {
+        "file_name": "AMAZON_2017_10K.pdf",
+        "description": "This is Amazon's 2017 10-K report, detailing its financial performance and business operations.  The report includes business overview, risk factors, financial statements (income statement, balance sheet, cash flow statement), segment information (North America, International, AWS), accounting policies, notes to the financial statements, and auditor's report.  Key executives certify the report's accuracy.  The document also covers competitive landscape, intellectual property, stock information, and significant subsidiaries."
+    },
+    {
+        "file_name": "AMAZON_2018_10K.pdf",
+        "description": "This Amazon 10-K filing details the company's business operations, financial performance (2016-2018), and risk factors.  It covers business segments (North America, International, AWS), competition, intellectual property,  legal proceedings, and financial statements (income statement, balance sheet, cash flow).  Significant accounting policies and judgments are explained, along with management's discussion and analysis.  The filing includes certifications from executives regarding financial reporting and compliance.  Finally, it includes details on stock-based compensation and a global restricted stock unit award agreement."
+    },
+    {
+        "file_name": "AMAZON_2019_10K.pdf",
+        "description": "This Amazon.com, Inc. 2019 Form 10-K report details the company's business operations, financial performance, and risk factors.  It includes consolidated financial statements (income statement, balance sheet, cash flow statement), management's discussion and analysis, segment information (North America, International, AWS),  risk factors, legal proceedings, and auditor reports.  The report also covers stock information, accounting policies, and certifications from executives.  The document complies with SEC regulations and includes disclosures on debt,  stockholders' equity, and internal controls."
+    },
+    {
+        "file_name": "AMAZON_2020_10K.pdf",
+        "description": "This document is Amazon.com, Inc.'s 2020 Form 10-K filing.  It details the company's business overview, competitive landscape, risk factors, financial performance (including consolidated statements of operations, cash flows, and balance sheets), segment information (North America, International, AWS), accounting policies, and internal controls.  Significant attention is given to the impact of COVID-19 on operations and financial results.  The filing also includes auditor reports, management certifications, and information on legal proceedings and stock activity."
+    },
+    {
+        "file_name": "AMAZON_2021_10K.pdf",
+        "description": "This document is Amazon.com, Inc.'s 2021 Form 10-K annual report.  It details Amazon's business operations, competitive landscape, risk factors, and financial performance.  Key sections include management's discussion and analysis of financial condition and results of operations, consolidated financial statements, and segment information.  The report also includes disclosures on intellectual property, human capital, and legal proceedings.  Finally, it contains exhibits, including a significant amended credit agreement with detailed loan terms, conditions, covenants, and default provisions."
+    },
+    {
+        "file_name": "AMAZON_2022_10K.pdf",
+        "description": "This Amazon.com, Inc. Form 10-K report (2022) details the company's business operations, financial performance, and risks.  It covers the company's business segments (North America, International, AWS), competitive landscape,  risk factors, financial statements (including cash flows, income statement, and balance sheet),  accounting policies, executive compensation (referenced in the Proxy Statement), and corporate governance.  The report includes certifications from the CEO and CFO, affirming the accuracy of the information and compliance with SEC regulations.  Significant subsidiaries are also listed."
+    },
+    {
+        "file_name": "AMCOR_2019_10K.pdf",
+        "description": "This Amcor plc Form 10-K report covers fiscal year 2019, detailing the company's business overview post-Bemis acquisition, including its segments and risk factors.  It presents financial results, including consolidated statements of income, cash flows, and balance sheets, along with notes explaining significant accounting policies and judgments.  The report also includes information on executive compensation (deferred), corporate governance, internal controls (with material weaknesses identified), and exhibits such as the code of ethics and auditor consent."
+    },
+    {
+        "file_name": "AMCOR_2020_10K.pdf",
+        "description": "This Amcor plc 10-K report details the company's fiscal year 2020 performance, including financial statements, segment information (Flexibles and Rigid Packaging), risk factors (strategic, operational, financial, legal), and the Bemis Company acquisition.  It discusses accounting policies, critical estimates (pension plans, goodwill),  liquidity, and debt.  Executive compensation and certain other details are deferred to a forthcoming proxy statement.  The report includes auditor opinions and certifications from the CEO and CFO regarding financial statement accuracy and internal controls.  A deferred compensation plan is also described."
+    },
+    {
+        "file_name": "AMCOR_2021_10K.pdf",
+        "description": "Amcor PLC's 2021 Form 10-K provides a comprehensive overview of its business, including its segments (Flexibles and Rigid Packaging), financial performance, and risk factors.  The report details its financial statements, accounting policies, and significant accounting estimates.  It also includes information on executive compensation (deferred to a proxy statement), risk factors, legal proceedings,  shareholder information, and debt obligations, along with the required certifications from the CEO and CFO.  The document extensively covers the Bemis acquisition and its impact on the company's financials."
+    },
+    {
+        "file_name": "AMCOR_2022_10K.pdf",
+        "description": "This document is Amcor plc's 2022 SEC Form 10-K annual report.  It details the company's business overview, including its segments (Flexibles and Rigid Packaging), financial performance (revenues, expenses, cash flow), risk factors, and accounting information.  Significant sections cover the company's financial statements, notes to the financial statements,  liquidity and capital resources, and  risk disclosures.  It also includes information on executive compensation (to be detailed in a future proxy statement), corporate governance, and legal and regulatory compliance.  Finally, it features exhibits and certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "AMCOR_2022_8K_2022-04-26.pdf",
+        "description": "This document details Amcor plc's entry into a three-year and a five-year syndicated facility agreement.  It includes the full text of the three-year agreement, outlining definitions of financial terms, borrowing conditions, lender commitments, fees, and default provisions.  The five-year agreement is also summarized, presenting key articles covering definitions, credits, representations, and warranties.  Both agreements specify roles of agents, conditions for effectiveness, and governing law, concluding with numerous signature pages from participating financial institutions."
+    },
+    {
+        "file_name": "AMCOR_2022_8K_2022-07-01.pdf",
+        "description": "This Form 8-K filing announces the substitution of Amcor Flexibles North America, Inc. as the issuer under a Second Supplemental Indenture (dated June 30, 2022), replacing a previous entity.  The filing includes the full text of both the Second and First Supplemental Indentures, detailing the agreement between the former and substitute issuers, and a list of related exhibits.  The document confirms the report via authorized signatures.  It primarily details a corporate restructuring event involving debt obligations."
+    },
+    {
+        "file_name": "AMCOR_2022_8K_dated-2022-04-26.pdf",
+        "description": "This document details Amcor plc's entry into three-year and five-year syndicated facility agreements.  It includes the agreements' terms and conditions, definitions of key financial and legal terms (e.g., EBITDA, default,  various loan types),  representations and warranties from Amcor,  covenants,  procedures for loan drawdowns, repayments, and defaults, and  signature pages from numerous participating banks.  The document also outlines the roles of administrative agents and addresses regulatory compliance."
+    },
+    {
+        "file_name": "AMCOR_2022_8K_dated-2022-07-01.pdf",
+        "description": "This Form 8-K filing by Amcor PLC reports on a significant corporate event: the substitution of Amcor Finance (USA), Inc. for Amcor Flexibles North America, Inc. as the issuer under a Second Supplemental Indenture, detailed in Exhibit 4.6.  The filing includes the full text of both the First and Second Supplemental Indentures, outlining the agreements with Deutsche Bank Trust Company Americas.  Additionally, it lists related exhibits and includes the required signatures confirming the report's accuracy.  The core focus is the legal restructuring detailed in the supplemental indentures."
+    },
+    {
+        "file_name": "AMCOR_2023Q2_10Q.pdf",
+        "description": "This Form 10-Q report for Amcor plc covers the six months ended December 31, 2022.  It includes unaudited condensed consolidated financial statements (income, comprehensive income, balance sheets, cash flows, and equity), detailed notes explaining key accounting policies and activities (including restructuring, acquisitions, and derivatives), management's discussion and analysis of financial condition and results of operations, and disclosures about market risk and internal controls.  The report also contains certifications from the CEO and CFO.  Significant events include the sale of the Russian business and acquisitions."
+    },
+    {
+        "file_name": "AMCOR_2023Q4_EARNINGS.pdf",
+        "description": "Amcor's fiscal 2023 results announcement details financial performance, including segment breakdowns, net sales, and adjusted EBIT.  The report analyzes volume weakness and provides fiscal 2024 guidance.  Information on cash returns to shareholders (dividends and share repurchases),  net interest and tax expenses, and adjusted free cash flow are included.  The document contains unaudited financial statements (income and cash flow), reconciliations of non-GAAP measures, and a conference call announcement.  Forward-looking statements and a cautionary note are also presented."
+    },
+    {
+        "file_name": "AMCOR_2023_10K.pdf",
+        "description": "Amcor PLC's 2023 Form 10-K annual report details its business overview, including segments (Flexibles and Rigid Packaging),  intellectual property, sustainability initiatives, and risk factors (financial, operational, legal).  It presents financial statements (income, cash flow, balance sheet) and notes, analyzing fiscal year 2023 performance against prior years and discussing key accounting policies and judgments.  Executive compensation, share ownership, and corporate governance information are included, along with certifications by the CEO and CFO.  The report also covers debt obligations, including details on senior notes and guarantees."
     }
 ]
