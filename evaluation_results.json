@@ -1,0 +1,134 @@
+[
+    {
+        "question_number": 1,
+        "question": "What is the FY2019 fixed asset turnover ratio for Activision Blizzard? Fixed asset turnover ratio is defined as: FY2019 revenue / (average PP&E between FY2018 and FY2019). Round your answer to two decimal places. Base your judgments on the information provided primarily in the statement of income and the statement of financial position.",
+        "reference_answer": "24.26",
+        "generated_answer": "Fixed Asset Turnover Ratio Analysis for Activision Blizzard (FY2019):\n\n- Total Revenue (FY2019): $6,489 million\n- PP&E (FY2018): $282 million\n- PP&E (FY2019): $253 million\n- Average PP&E: $267.5 million\n- Fixed Asset Turnover Ratio: 24.26\n\nInterpretation: The Fixed Asset Turnover Ratio of 24.26 indicates that Activision Blizzard generated $24.26 in revenue for every $1 invested in fixed assets during FY2019. This suggests the company is highly efficient in using its fixed assets to generate revenue."
+    },
+    {
+        "question_number": 2,
+        "question": "What is the FY2017 - FY2019 3 year average of capex as a % of revenue for Activision Blizzard? Answer in units of percents and round to one decimal place. Calculate (or extract) the answer from the statement of income and the cash flow statement.",
+        "reference_answer": "1.9%",
+        "generated_answer": "Activision Blizzard's 3-Year Average Capex as a Percentage of Revenue (FY2017-FY2019):\n\nFY2017: 2.2%\nFY2018: 1.7%\nFY2019: 1.8%\n\n3-Year Average: 1.9%\n\nThe company showed a gradual decline in capital expenditures as a percentage of revenue during this period, indicating potentially more efficient capital allocation or reduced investment needs."
+    },
+    {
+        "question_number": 3,
+        "question": "You are an investment banker and your only resource(s) to answer the following question is (are): the statement of financial position and the cash flow statement. Here's the question: what is the FY2015 operating cash flow ratio for Adobe? Operating cash flow ratio is defined as: cash from operations / total current liabilities. Round your answer to two decimal places.",
+        "reference_answer": "0.66",
+        "generated_answer": "Adobe's Operating Cash Flow Ratio for FY2015:\n- Cash from Operations: $1.47 billion\n- Total Current Liabilities: $2.21 billion\n- Operating Cash Flow Ratio: 0.66\n\nInterpretation: The ratio of 0.66 indicates that Adobe generated 66 cents of operating cash flow for every dollar of current liabilities in fiscal year 2015. This suggests the company had a moderate ability to cover its short-term obligations through its operating cash flow."
+    },
+    {
+        "question_number": 4,
+        "question": "What is Adobe's year-over-year change in unadjusted operating income from FY2015 to FY2016 (in units of percents and round to one decimal place)? Give a solution to the question by using the income statement.",
+        "reference_answer": "65.4%",
+        "generated_answer": "Adobe's unadjusted operating income increased significantly by 65.4% from $903,095,000 in FY2015 to $1,493,602,000 in FY2016, demonstrating strong operational performance and potential business growth during this period."
+    },
+    {
+        "question_number": 5,
+        "question": "What is the FY2017 operating cash flow ratio for Adobe? Operating cash flow ratio is defined as: cash from operations / total current liabilities. Round your answer to two decimal places. Please utilize information provided primarily within the balance sheet and the cash flow statement.",
+        "reference_answer": "0.83",
+        "generated_answer": "Adobe's Operating Cash Flow Ratio for FY2017:\n\n- Cash from Operations: $2.91 billion\n- Total Current Liabilities: $3.53 billion\n- Operating Cash Flow Ratio: 0.82\n\nInterpretation: For every $1 of current liabilities, Adobe generated $0.82 in operating cash flow during fiscal year 2017. This indicates that the company was generating substantial cash from its core business operations, though not quite covering all of its short-term liabilities."
+    },
+    {
+        "question_number": 6,
+        "question": "Does Adobe have an improving operating margin profile as of FY2022? If operating margin is not a useful metric for a company like this, then state that and explain why.",
+        "reference_answer": "No the operating margins of Adobe have recently declined from 36.8% in FY 2021 to 34.6% in FY2022. A drop by 2.2% in a year.",
+        "generated_answer": "Adobe's Operating Margin Analysis (FY2020-2022):\n\nOperating Margins:\n- FY2020: 32.93%\n- FY2021: 36.76%\n- FY2022: 34.64%\n\nKey Findings:\n1. Operating margin remains relatively stable, ranging between 32-37%\n2. Slight variations reflect Adobe's dynamic subscription-based business model\n3. Consistent margins indicate strong operational efficiency and cost management\n\nRecommendation:\nWhile operating margin provides valuable insights, it should be considered alongside other metrics like revenue growth, customer retention, and R&D investments to comprehensively assess Adobe's financial performance."
+    },
+    {
+        "question_number": 7,
+        "question": "Does Adobe have an improving Free cashflow conversion as of FY2022?",
+        "reference_answer": "Yes, the FCF conversion (using net income as the denominator) for Adobe has improved by ~13% from 143% in 2021 to 156% in 2022",
+        "generated_answer": "Adobe's Free Cash Flow Conversion analysis reveals a substantial improvement from 76.58% in FY2021 to 155.51% in FY2022, representing a 78.93% increase. This significant enhancement is attributed to increased operational efficiency, reduced investing activities, and effective management of cash flows. Compared to industry benchmarks, Adobe demonstrates strong cash generation capabilities and financial resilience in the competitive software market."
+    },
+    {
+        "question_number": 8,
+        "question": "What is the quantity of restructuring costs directly outlined in AES Corporation's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.",
+        "reference_answer": "0",
+        "generated_answer": "After a thorough review of AES Corporation's FY2022 financial statements, no explicit restructuring costs were identified. The reported restructuring costs for the fiscal year 2022 are $0."
+    },
+    {
+        "question_number": 9,
+        "question": "Roughly how many times has AES Corporation sold its inventory in FY2022? Calculate inventory turnover ratio for the FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.",
+        "reference_answer": "AES has converted inventory 9.5 times in FY 2022.",
+        "generated_answer": "Financial Analysis of AES Corporation's Inventory Turnover Ratio for FY2022\n\nKey Findings:\n1. Inventory Turnover Ratio: 12.14\n2. Average Inventory: $829.5 million\n3. Cost of Goods Sold: $10,069 million\n4. Total Assets: $38,363 million\n5. Total Revenue: $12,617 million\n\nInsights:\n- AES Corporation's Inventory Turnover Ratio of 12.14 is above the energy sector median of 10.09\n- Inventory represents 2.16% of Total Assets and 6.58% of Total Revenue\n- The high ratio indicates efficient inventory management in the energy sector\n- Significant inventory increase from $604M to $1,055M suggests strategic inventory planning\n\nRecommendations:\n- Continue monitoring inventory levels and turnover efficiency\n- Investigate reasons for substantial inventory increase\n- Maintain focus on supply chain optimization and cost management\n\nConclusion:\nThe Inventory Turnover Ratio is meaningful and provides valuable insights into AES Corporation's operational efficiency in the energy sector."
+    },
+    {
+        "question_number": 10,
+        "question": "Based on the information provided primarily in the statement of financial position and the statement of income, what is AES's FY2022 return on assets (ROA)? ROA is defined as: FY2022 net income / (average total assets between FY2021 and FY2022). Round your answer to two decimal places.",
+        "reference_answer": "-0.02",
+        "generated_answer": "AES Corporation's Return on Assets (ROA) for FY2022:\n\n- Net Income (FY2022): $(505) million\n- Total Assets (FY2022): $38,363 million\n- Total Assets (FY2021): $32,963 million\n- Average Total Assets: $35,663 million\n- Return on Assets (ROA): -1.42%\n\nThe negative ROA indicates that AES Corporation experienced a net loss relative to its total assets in FY2022. This could be due to various factors such as operational challenges, market conditions, or significant investments."
+    },
+    {
+        "question_number": 11,
+        "question": "What is Amazon's FY2017 days payable outstanding (DPO)? DPO is defined as: 365 * (average accounts payable between FY2016 and FY2017) / (FY2017 COGS + change in inventory between FY2016 and FY2017). Round your answer to two decimal places. Address the question by using the line items and information shown within the balance sheet and the P&L statement.",
+        "reference_answer": "93.86",
+        "generated_answer": "Amazon's Days Payable Outstanding (DPO) for FY2017:\n\nKey Inputs:\n- Accounts Payable FY2016: $25,309 million\n- Accounts Payable FY2017: $34,616 million\n- Average Accounts Payable: $29,962.5 million\n- Cost of Goods Sold (COGS) FY2017: $111,900 million\n- Inventory FY2016: $11,461 million\n- Inventory FY2017: $16,047 million\n- Change in Inventory: $4,586 million\n\nCalculation:\nDPO = 365 * (Average Accounts Payable) / (FY2017 COGS + Change in Inventory)\nDPO = 93.89 days\n\nInterpretation: Amazon took approximately 94 days on average to pay its suppliers in FY2017."
+    },
+    {
+        "question_number": 12,
+        "question": "What is Amazon's year-over-year change in revenue from FY2016 to FY2017 (in units of percents and round to one decimal place)? Calculate what was asked by utilizing the line items clearly shown in the statement of income.",
+        "reference_answer": "30.8%",
+        "generated_answer": "Amazon's Year-Over-Year Revenue Analysis (FY2016 to FY2017):\n\n- FY2016 Revenue: $135,987 million\n- FY2017 Revenue: $177,866 million\n- Absolute Revenue Change: $41,879 million\n- Year-Over-Year Revenue Growth Rate: 30.8%\n\nAmazon experienced significant revenue growth of 30.8% from fiscal year 2016 to fiscal year 2017, increasing its total revenue by $41,879 million."
+    },
+    {
+        "question_number": 13,
+        "question": "By drawing conclusions from the information stated only in the income statement, what is Amazon's FY2019 net income attributable to shareholders (in USD millions)?",
+        "reference_answer": "$11588.00",
+        "generated_answer": "Amazon's Net Income Attributable to Shareholders for Fiscal Year 2019:\n- Amount: $11,588 million\n- Currency: USD millions\n- Verification: \n  * Confirmed after all expenses\n  * Confirmed after taxes\n  * Reflects amount attributable to Amazon shareholders"
+    },
+    {
+        "question_number": 14,
+        "question": "What is Amcor's year end FY2020 net AR (in USD millions)? Address the question by adopting the perspective of a financial analyst who can only use the details shown within the balance sheet.",
+        "reference_answer": "$1616.00",
+        "generated_answer": "Amcor's Year-End FY2020 Net Accounts Receivable: $1,615.9 million\n\nKey Details:\n- Source: Consolidated Balance Sheet (page 50)\n- Reserves for Doubtful Accounts: $35.3 million\n- Currency: USD\n- Units: Millions\n\nValidation: Direct \"receivables, net\" value used, with supporting documentation of reserves."
+    },
+    {
+        "question_number": 15,
+        "question": "What was the key agenda of the AMCOR's 8k filing dated 1st July 2022?",
+        "reference_answer": "Amcor Finance (USA), Inc. and Amcor Flexibles North America, Inc., entered into supplemental indentures relating to Guaranteed Senior Notes due 2026 and 2028. This involved the substitution of the Substitute Issuer (Amcor Flexibles North America) for the Former Issuer (Amcor Finance) and the assumption of covenants under the indentures. (In essence a novation agreement)",
+        "generated_answer": "AMCOR 8-K Filing (July 1, 2022) - Key Findings:\n\nPrimary Agenda: Corporate Financial Restructuring\n- Substitution of Issuers for Senior Notes\n- Amcor Finance (USA), Inc. replaced by Amcor Flexibles North America, Inc.\n- Affects senior notes due in 2026 and 2028\n- Involves two supplemental indentures dated June 30, 2022\n- Part of a broader financial restructuring process initiated in previous years\n\nSignificance:\n- Demonstrates ongoing corporate financial management\n- Involves legal and financial repositioning of note issuance\n- Consistent with previous financial restructuring efforts since 2016"
+    },
+    {
+        "question_number": 16,
+        "question": "Has AMCOR's quick ratio improved or declined between FY2023 and FY2022? If the quick ratio is not something that a financial analyst would ask about a company like this, then state that and explain why.",
+        "reference_answer": "The quick ratio has slightly improved from 0.67 times to 0.69 times between FY 2023 and FY 2022.(3.4% jump)",
+        "generated_answer": "Financial Analysis of AMCOR's Quick Ratio (FY2022 to FY2023)\n\nKey Findings:\n1. Quick Ratio FY2022: 0.95\n2. Quick Ratio FY2023: 0.97\n3. Change in Quick Ratio: Slight Improvement (+0.02)\n\nAnalysis:\n- The quick ratio marginally improved between FY2022 and FY2023\n- Improvements were driven by:\n  a) Reduction in current liabilities from $5,103M to $4,476M\n  b) Inventory reduction initiatives\n  c) Maintained relatively stable current assets\n\nLimitations:\n- Exact inventory values were estimated due to data constraints\n- The improvement is minimal and may not significantly impact overall financial flexibility\n\nRecommendation:\nContinue monitoring liquidity metrics and inventory management strategies to further improve short-term financial health."
+    },
+    {
+        "question_number": 17,
+        "question": "What are major acquisitions that AMCOR has done in FY2023, FY2022 and FY2021?",
+        "reference_answer": "Amcor completed these acquisitions during FY2023:\n-100% equity interest of a flexibles manufacturing company in the Czech Republic\n- 100% equity interest in a medical device packaging manufacturing site in\nShanghai, China.\n-acquisition of a New Zealand-based leading manufacturer of state-of-the-art, automated protein\npackaging machines.",
+        "generated_answer": "Amcor's Acquisition Strategy (FY2021-2023)\n\nKey Findings:\n1. Limited major acquisitions in FY2021 and FY2022\n2. FY2023 saw targeted acquisitions in medical device, protein packaging, and flexible packaging sectors\n3. Significant upcoming merger with Berry Global in 2024, valued at $8.4 billion\n\nStrategic Focus:\n- Geographical expansion (China, New Zealand, India)\n- Technology and capability enhancement\n- Positioning in high-growth packaging segments\n\nFuture Outlook:\n- Continued strategic acquisitions\n- Strong emphasis on healthcare and sustainable packaging solutions"
+    },
+    {
+        "question_number": 18,
+        "question": "What industry does AMCOR primarily operate in?",
+        "reference_answer": "Amcor is a global leader in packaging production for various use cases.",
+        "generated_answer": "AMCOR Primary Industry Analysis:\n\nPrimary Industry: Packaging Manufacturing\n- Two Main Segments: Flexibles (76% of sales) and Rigid Packaging (24% of sales)\n- Global Presence: 40+ countries, 212 sites, 41,000 employees\n- Key Markets: Food, Beverage, Pharmaceutical, Personal Care\n- Revenue (FY23): $14.7 billion\n- Sustainability Focus: Committed to recyclable, compostable, or reusable packaging by 2025\n\nDominant Segment: Flexibles Packaging, which represents the majority of the company's revenue and global operations."
+    },
+    {
+        "question_number": 19,
+        "question": "Does AMCOR have an improving gross margin profile as of FY2023? If gross margin is not a useful metric for a company like this, then state that and explain why.",
+        "reference_answer": "No. For AMCOR there has been a slight decline in gross margins by 0.8%.",
+        "generated_answer": "Financial Analysis of AMCOR's Gross Margin Profile (FY2019-FY2023)\n\nKey Findings:\n1. Gross Margin Trend:\n   - Initial increase from 19.0% (2019) to 21.2% (2021)\n   - Decline in recent years: 19.4% (2022) and 18.5% (2023)\n\n2. Performance Assessment:\n   - Gross margin below industry average (20-23%)\n   - Indicates potential challenges in maintaining profitability\n   - Suggests need for operational efficiency improvements\n\n3. Contextual Considerations:\n   - Complex cost structure with significant fixed costs\n   - Gross margin should be evaluated alongside other financial metrics\n   - Ongoing investments in technology and supply chain optimization\n\nRecommendations:\n- Investigate reasons for margin compression\n- Focus on cost management and operational efficiency\n- Continue investing in technological innovations\n- Monitor raw material costs and supply chain dynamics\n\nOverall, AMCOR's gross margin profile shows signs of strain, underperforming slightly against industry benchmarks and experiencing a downward trend in recent years."
+    },
+    {
+        "question_number": 20,
+        "question": "What is the nature & purpose of AMCOR's restructuring liability as oF Q2 of FY2023 close?",
+        "reference_answer": "87% of the total restructuring liability is related Employee liabilities.",
+        "generated_answer": "Amcor's Q2 FY2023 Restructuring Liability Analysis:\n\nComprehensive restructuring strategy focused on operational efficiency and cost reduction, with a $93 million liability primarily targeting workforce optimization. The initiative aims to deliver $50 million in annualized pre-tax benefits by FY2025, demonstrating a strategic approach to market challenges and positioning for future growth, including the pending merger with Berry Global Group."
+    },
+    {
+        "question_number": 21,
+        "question": "What Was AMCOR's Adjusted Non GAAP EBITDA for FY 2023",
+        "reference_answer": "AMCOR's Adj. EBITDA was $2,018mn in FY 2023",
+        "generated_answer": "AMCOR FY 2023 Adjusted Non GAAP EBITDA Analysis:\n\nLimitations in Data:\n- Complete EBITDA calculation not possible due to missing depreciation and amortization figures\n- Detailed reconciliation available for Adjusted EBIT\n\nKey Findings:\n- GAAP EBIT: $1,510 million\n- Total Adjustments: $98 million\n- Adjusted EBIT: $1,608 million\n\nRecommended Next Steps:\n1. Obtain full depreciation and amortization figures\n2. Add these figures to EBIT to calculate complete EBITDA\n3. Apply identified adjustments to arrive at final Adjusted Non GAAP EBITDA\n\nNon-Recurring Adjustments Include:\n- Restructuring programs\n- Amortization of acquired intangible assets\n- Hyperinflation impacts\n- Pension settlements\n- Property and other losses\n- Russia-Ukraine conflict impacts"
+    },
+    {
+        "question_number": 22,
+        "question": "How much was the Real change in Sales for AMCOR in FY 2023 vs FY 2022, if we exclude the impact of FX movement, passthrough costs and one-off items?",
+        "reference_answer": "The Real Growth was flat in FY 2023 vs FY 2022.",
+        "generated_answer": "AMCOR FY 2023 Sales Analysis Report:\n\n1. Total Sales:\n   - FY 2022: $14,544 million\n   - FY 2023: $14,694 million\n   - Nominal Growth: 1.03%\n\n2. Key Adjustments:\n   - Passthrough Costs Reduction: From $1,530M to $776M\n   - FX Impact: Continued currency challenges\n   - One-off Items: Minimal impact\n\n3. Performance Insights:\n   - Sales Growth Aligned with Industry Trends\n   - Significant Improvement in Cost Management\n   - Maintained Stable Performance Despite Economic Challenges\n\n4. Comparative Analysis:\n   - Performance Consistent with U.S. Flexible Packaging Industry Growth (3.4%)\n   - Demonstrated Resilience in Challenging Market Conditions\n\nRecommendation: Continue focus on cost management, sustainable packaging innovations, and strategic pricing to drive future growth."
+    }
+]
