@@ -1,70 +1,142 @@
 [
-  {
-    "file_name": "3M_2023Q2_10Q.pdf",
-    "description": "This 3M Company report (Q2 2023) details financial performance (including income statement, balance sheet, and cash flow), segment revenue, and significant accounting policies. It extensively addresses ongoing legal proceedings, primarily focusing on PFAS-related environmental litigation, Aearo Technologies' bankruptcy, and other product liability lawsuits. The report also covers restructuring actions, risk factors (economic, legal, and operational), and management's discussion and analysis of the company's financial condition. Finally, it includes the required certifications and disclosures."
-  },
-  {
-    "file_name": "3M_2022_10K.pdf",
-    "description": "This 3M Company 10-K report details financial performance (2021-2022), including sales by segment and geography, operating margins, and cash flow. Significant litigation costs related to PFAS and earplugs are discussed, along with risk factors and critical accounting estimates. The report includes financial statements, auditor's report, management's discussion and analysis, and details on executive compensation and equity plans (stock options, RSUs). Extensive disclosures regarding legal proceedings and compliance are also present."
-  },
-  {
-    "file_name": "3M_2018_10K.pdf",
-    "description": "This 3M Company 2018 Form 10-K report details its business operations, financial performance, and risk factors. It includes management's discussion and analysis, audited financial statements, segment breakdowns of sales and operating income, information on significant accounting estimates, legal proceedings (especially concerning PFAS and asbestos), executive compensation, and corporate governance information. The report also addresses compliance with Sarbanes-Oxley Act requirements and includes certifications from key executives."
-  },
-  {
-    "file_name": "3M_2015_10K.pdf",
-    "description": "This 3M Company 10-K report covers 2015 financial performance and operations. It details business segments (Industrial, Safety & Graphics, Health Care, Electronics & Energy, Consumer), financial statements (income, comprehensive income, balance sheet, cash flow, equity), accounting policies, and risk management. Significant accounting estimates (legal proceedings, pensions, assets) are discussed. The report includes management certifications (Sarbanes-Oxley), auditor's report, and details on stock-based compensation, debt, and pension plans. Finally, it lists subsidiaries and exhibits filed with the SEC."
-  },
-  {
-    "file_name": "3M_2016_10K.pdf",
-    "description": "This 3M Company 10-K report details the company's 2016 financial performance and operational overview. It includes financial statements, management's discussion and analysis, risk factors, legal proceedings, and disclosures on accounting policies and estimates. The report also covers 3M's business segments (Industrial, Safety & Graphics, Health Care, Electronics & Energy, Consumer), geographic performance, and significant accounting estimates. Finally, it includes details of several 3M nonqualified pension plans including eligibility, contributions, and benefit distribution."
-  },
-  {
-    "file_name": "3M_2017_10K.pdf",
-    "description": "This 3M Company 2017 10-K report details the company's financial performance, business segments (Industrial, Safety & Graphics, Healthcare, Electronics & Energy, Consumer), research & development, and risk factors. It includes consolidated financial statements, analyses of sales and operating income by segment and geography, discussions of critical accounting estimates (including legal proceedings and pensions), cash flow information, and disclosures on debt, stock repurchases, and dividends. Executive compensation and corporate governance details are also provided, along with required certifications."
-  },
-  {
-    "file_name": "3M_2019_10K.pdf",
-    "description": "This 3M Company 10-K report details financial performance for 2019, including sales by segment and geography, operating income analysis, and cash flow statements. It covers risk factors, legal proceedings (particularly extensive PFAS litigation), management and governance, accounting policies, and significant accounting estimates. The report also includes consolidated financial statements, auditor's opinion, management certifications (SOX 302 & 906), and descriptions of executive compensation and benefit plans. Finally, it provides detailed information on debt securities and stock-based compensation."
-  },
-  {
-    "file_name": "3M_2020_10K.pdf",
-    "description": "This 3M Company 10-K report details the company's business operations, financial performance (2018-2020), and risk factors. It includes discussion of business segments, financial statements, significant accounting policies, litigation (especially concerning PFAS), executive compensation, and corporate governance. The report also addresses risk factors, including economic conditions and legal proceedings, and provides certifications under Sarbanes-Oxley Act. Financial data includes net sales, income, cash flow, and debt."
-  },
-  {
-    "file_name": "3M_2021_10K.pdf",
-    "description": "This 3M Company 10-K report details the company's fiscal year performance and operations. It covers business segments (Safety & Industrial, Transportation & Electronics, Health Care, Consumer), financial results (GAAP and non-GAAP), risk factors (economic conditions, litigation), accounting policies, and financial statements. Significant legal proceedings, particularly those related to PFAS and earplugs, are extensively discussed. The report also includes information on executive compensation, corporate governance, and the 3M VIP Excess Plan. Finally, it contains the required certifications and exhibits."
-  },
-  {
-    "file_name": "AES_2015_10K.pdf",
-    "description": "This is AES Corporation's 2015 Form 10-K annual report.  It details the company's business operations focusing on generation and utility businesses.  The report includes financial statements, Management's Discussion & Analysis, risk factors (regulatory, environmental, financial), and a significant section detailing a merger agreement.  Key financial metrics, segment performance, and cash flow analyses are provided, along with disclosures on accounting policies and significant events."
-  },
-  {
-    "file_name": "AES_2016_10K.pdf",
-    "description": "This is AES Corporation's 2016 Form 10-K annual report.  It details the company's business operations across various global regions (U.S., Andes, Brazil, MCAC, Europe, Asia), focusing on generation and utility businesses.  The report includes financial statements, Management's Discussion & Analysis, risk factors (regulatory, environmental, financial), and a significant section detailing a merger agreement.  Key financial metrics, segment performance, and cash flow analyses are provided, along with disclosures on accounting policies and significant events."
-  },
-  {
-    "file_name": "AES_2017_10K.pdf",
-    "description": "This is AES Corporation's 10-K annual report, detailing its 2017 performance.  The report covers business operations across various global Strategic Business Units (SBUs), focusing on generation and utility services.  It includes financial statements, Management's Discussion & Analysis, risk factors (high indebtedness, market volatility), and significant accounting policies.  The report also addresses environmental regulations, legal proceedings, and executive compensation, referencing supplementary information in the 2018 Proxy Statement."
-  },
-  {
-    "file_name": "AES_2018_10K.pdf",
-    "description": "This 10-K report for AES Corporation details its 2018 financial performance and operations.  It covers business segments (US Utilities, South America, MCAC, Eurasia), risk factors (financial, operational, regulatory, and environmental), and financial statements (balance sheet, income statement, cash flow).  The report also includes management's discussion and analysis, critical accounting policies, and disclosures regarding debt, commitments, and contingencies.  Significant attention is given to regulatory frameworks and environmental compliance across its global operations."
-  },
-  {
-    "file_name": "AES_2019_10K.pdf",
-    "description": "This document is The AES Corporation's 2019 annual report, detailing its global energy generation and distribution businesses.  It covers the company's business overview, strategic highlights, segment performance (US & Utilities, South America, MCAC, Eurasia), financial statements (including income statement, balance sheet, and cash flow statement), and risk factors.  Significant attention is given to operational details in various countries, regulatory environments, and financial performance analysis, including discussion of  economic challenges and decarbonization initiatives.  The report also includes management's discussion and analysis, accounting policies, and corporate governance information."
-  },
-  {
-    "file_name": "AES_2020_10K.pdf",
-    "description": "This document is The AES Corporation's financial report, covering business overview, operational performance across various global segments (US Utilities, South America, MCAC, Eurasia),  financial statements (including MD&A), and significant risk factors.  It details generation assets, regulatory environments,  strategic initiatives,  financial results, and critical accounting policies for the years 2018-2020.  The report also includes information on executive officers, risk mitigation, and compliance with environmental regulations."
-  },
-  {
-    "file_name": "AES_2021_10K.pdf",
-    "description": "This document is The AES Corporation's 2021 Form 10-K annual report.  It details the company's business operations across diverse global regions, focusing on its generation and utility businesses,  renewable energy initiatives, and strategic acquisitions.  The report includes a comprehensive financial analysis, risk factors, management discussion, consolidated financial statements, and certifications by executive officers.  Significant attention is given to operational details in the Americas, Eurasia, and details on key subsidiaries like AES Indiana and AES Ohio.  A substantial portion covers financial statements, notes, and related disclosures."
-  },
-  {
-    "file_name": "AES_2022_10K.pdf",
-    "description": "This is The AES Corporation's 2022 Form 10-K filing.  It details the company's business operations across various global regions, including the US, South America, and Eurasia, focusing on generation and utility businesses.  The report includes a comprehensive financial analysis, risk factors (operational, regulatory, financial, environmental),  management's discussion and analysis, audited financial statements, and compliance certifications.  Significant subsidiaries and projects and their performance are highlighted, along with executive compensation and corporate governance information.  Numerous exhibits and supplementary data are appended."
-  }
+    {
+        "file_name": "3M_2023Q2_10Q.pdf",
+        "description": "This 3M Company report (Q2 2023) details financial performance (including income statement, balance sheet, and cash flow), segment revenue, and significant accounting policies. It extensively addresses ongoing legal proceedings, primarily focusing on PFAS-related environmental litigation, Aearo Technologies' bankruptcy, and other product liability lawsuits. The report also covers restructuring actions, risk factors (economic, legal, and operational), and management's discussion and analysis of the company's financial condition. Finally, it includes the required certifications and disclosures."
+    },
+    {
+        "file_name": "3M_2022_10K.pdf",
+        "description": "This 3M Company 10-K report details financial performance (2021-2022), including sales by segment and geography, operating margins, and cash flow. Significant litigation costs related to PFAS and earplugs are discussed, along with risk factors and critical accounting estimates. The report includes financial statements, auditor's report, management's discussion and analysis, and details on executive compensation and equity plans (stock options, RSUs). Extensive disclosures regarding legal proceedings and compliance are also present."
+    },
+    {
+        "file_name": "3M_2018_10K.pdf",
+        "description": "This 3M Company 2018 Form 10-K report details its business operations, financial performance, and risk factors. It includes management's discussion and analysis, audited financial statements, segment breakdowns of sales and operating income, information on significant accounting estimates, legal proceedings (especially concerning PFAS and asbestos), executive compensation, and corporate governance information. The report also addresses compliance with Sarbanes-Oxley Act requirements and includes certifications from key executives."
+    },
+    {
+        "file_name": "3M_2015_10K.pdf",
+        "description": "This 3M Company 10-K report covers 2015 financial performance and operations. It details business segments (Industrial, Safety & Graphics, Health Care, Electronics & Energy, Consumer), financial statements (income, comprehensive income, balance sheet, cash flow, equity), accounting policies, and risk management. Significant accounting estimates (legal proceedings, pensions, assets) are discussed. The report includes management certifications (Sarbanes-Oxley), auditor's report, and details on stock-based compensation, debt, and pension plans. Finally, it lists subsidiaries and exhibits filed with the SEC."
+    },
+    {
+        "file_name": "3M_2016_10K.pdf",
+        "description": "This 3M Company 10-K report details the company's 2016 financial performance and operational overview. It includes financial statements, management's discussion and analysis, risk factors, legal proceedings, and disclosures on accounting policies and estimates. The report also covers 3M's business segments (Industrial, Safety & Graphics, Health Care, Electronics & Energy, Consumer), geographic performance, and significant accounting estimates. Finally, it includes details of several 3M nonqualified pension plans including eligibility, contributions, and benefit distribution."
+    },
+    {
+        "file_name": "3M_2017_10K.pdf",
+        "description": "This 3M Company 2017 10-K report details the company's financial performance, business segments (Industrial, Safety & Graphics, Healthcare, Electronics & Energy, Consumer), research & development, and risk factors. It includes consolidated financial statements, analyses of sales and operating income by segment and geography, discussions of critical accounting estimates (including legal proceedings and pensions), cash flow information, and disclosures on debt, stock repurchases, and dividends. Executive compensation and corporate governance details are also provided, along with required certifications."
+    },
+    {
+        "file_name": "3M_2019_10K.pdf",
+        "description": "This 3M Company 10-K report details financial performance for 2019, including sales by segment and geography, operating income analysis, and cash flow statements. It covers risk factors, legal proceedings (particularly extensive PFAS litigation), management and governance, accounting policies, and significant accounting estimates. The report also includes consolidated financial statements, auditor's opinion, management certifications (SOX 302 & 906), and descriptions of executive compensation and benefit plans. Finally, it provides detailed information on debt securities and stock-based compensation."
+    },
+    {
+        "file_name": "3M_2020_10K.pdf",
+        "description": "This 3M Company 10-K report details the company's business operations, financial performance (2018-2020), and risk factors. It includes discussion of business segments, financial statements, significant accounting policies, litigation (especially concerning PFAS), executive compensation, and corporate governance. The report also addresses risk factors, including economic conditions and legal proceedings, and provides certifications under Sarbanes-Oxley Act. Financial data includes net sales, income, cash flow, and debt."
+    },
+    {
+        "file_name": "3M_2021_10K.pdf",
+        "description": "This 3M Company 10-K report details the company's fiscal year performance and operations. It covers business segments (Safety & Industrial, Transportation & Electronics, Health Care, Consumer), financial results (GAAP and non-GAAP), risk factors (economic conditions, litigation), accounting policies, and financial statements. Significant legal proceedings, particularly those related to PFAS and earplugs, are extensively discussed. The report also includes information on executive compensation, corporate governance, and the 3M VIP Excess Plan. Finally, it contains the required certifications and exhibits."
+    },
+    {
+        "file_name": "AES_2015_10K.pdf",
+        "description": "This is AES Corporation's 2015 Form 10-K annual report.  It details the company's business operations focusing on generation and utility businesses.  The report includes financial statements, Management's Discussion & Analysis, risk factors (regulatory, environmental, financial), and a significant section detailing a merger agreement.  Key financial metrics, segment performance, and cash flow analyses are provided, along with disclosures on accounting policies and significant events."
+    },
+    {
+        "file_name": "AES_2016_10K.pdf",
+        "description": "This is AES Corporation's 2016 Form 10-K annual report.  It details the company's business operations across various global regions (U.S., Andes, Brazil, MCAC, Europe, Asia), focusing on generation and utility businesses.  The report includes financial statements, Management's Discussion & Analysis, risk factors (regulatory, environmental, financial), and a significant section detailing a merger agreement.  Key financial metrics, segment performance, and cash flow analyses are provided, along with disclosures on accounting policies and significant events."
+    },
+    {
+        "file_name": "AES_2017_10K.pdf",
+        "description": "This is AES Corporation's 10-K annual report, detailing its 2017 performance.  The report covers business operations across various global Strategic Business Units (SBUs), focusing on generation and utility services.  It includes financial statements, Management's Discussion & Analysis, risk factors (high indebtedness, market volatility), and significant accounting policies.  The report also addresses environmental regulations, legal proceedings, and executive compensation, referencing supplementary information in the 2018 Proxy Statement."
+    },
+    {
+        "file_name": "AES_2018_10K.pdf",
+        "description": "This 10-K report for AES Corporation details its 2018 financial performance and operations.  It covers business segments (US Utilities, South America, MCAC, Eurasia), risk factors (financial, operational, regulatory, and environmental), and financial statements (balance sheet, income statement, cash flow).  The report also includes management's discussion and analysis, critical accounting policies, and disclosures regarding debt, commitments, and contingencies.  Significant attention is given to regulatory frameworks and environmental compliance across its global operations."
+    },
+    {
+        "file_name": "AES_2019_10K.pdf",
+        "description": "This document is The AES Corporation's 2019 annual report, detailing its global energy generation and distribution businesses.  It covers the company's business overview, strategic highlights, segment performance (US & Utilities, South America, MCAC, Eurasia), financial statements (including income statement, balance sheet, and cash flow statement), and risk factors.  Significant attention is given to operational details in various countries, regulatory environments, and financial performance analysis, including discussion of  economic challenges and decarbonization initiatives.  The report also includes management's discussion and analysis, accounting policies, and corporate governance information."
+    },
+    {
+        "file_name": "AES_2020_10K.pdf",
+        "description": "This document is The AES Corporation's financial report, covering business overview, operational performance across various global segments (US Utilities, South America, MCAC, Eurasia),  financial statements (including MD&A), and significant risk factors.  It details generation assets, regulatory environments,  strategic initiatives,  financial results, and critical accounting policies for the years 2018-2020.  The report also includes information on executive officers, risk mitigation, and compliance with environmental regulations."
+    },
+    {
+        "file_name": "AES_2021_10K.pdf",
+        "description": "This document is The AES Corporation's 2021 Form 10-K annual report.  It details the company's business operations across diverse global regions, focusing on its generation and utility businesses,  renewable energy initiatives, and strategic acquisitions.  The report includes a comprehensive financial analysis, risk factors, management discussion, consolidated financial statements, and certifications by executive officers.  Significant attention is given to operational details in the Americas, Eurasia, and details on key subsidiaries like AES Indiana and AES Ohio.  A substantial portion covers financial statements, notes, and related disclosures."
+    },
+    {
+        "file_name": "AES_2022_10K.pdf",
+        "description": "This is The AES Corporation's 2022 Form 10-K filing.  It details the company's business operations across various global regions, including the US, South America, and Eurasia, focusing on generation and utility businesses.  The report includes a comprehensive financial analysis, risk factors (operational, regulatory, financial, environmental),  management's discussion and analysis, audited financial statements, and compliance certifications.  Significant subsidiaries and projects and their performance are highlighted, along with executive compensation and corporate governance information.  Numerous exhibits and supplementary data are appended."
+    },
+    {
+        "file_name": "ACTIVISIONBLIZZARD_2015_10K.pdf",
+        "description": "This Activision Blizzard, Inc. 10-K report details the company's 2015 performance and financial position.  Key highlights include the King Digital Entertainment acquisition, business segment overviews (Activision, Blizzard, and others),  a comprehensive risk assessment encompassing market competition, regulatory compliance, and technological changes, and consolidated financial statements.  The report also includes management's discussion and analysis, accounting policies, and certifications.  Significant risks detailed include reliance on digital sales, competition, and platform licensors."
+    },
+    {
+        "file_name": "ACTIVISIONBLIZZARD_2016_10K.pdf",
+        "description": "This Activision Blizzard 10-K report details the company's 2016 performance and financial status.  It covers business operations across its segments (Activision Publishing, Blizzard Entertainment, King Digital Entertainment),  key products, marketing strategies, competitive landscape, and significant risk factors.  The report includes audited financial statements, management's discussion and analysis,  detailed accounting policies,  information on debt, liquidity, and share-based compensation, as well as various certifications and exhibits, including details of the King acquisition and executive compensation from the proxy statement."
+    },
+    {
+        "file_name": "ACTIVISIONBLIZZARD_2017_10K.pdf",
+        "description": "This document is Activision Blizzard, Inc.'s 2017 annual report, covering company overview, acquisition of King Digital Entertainment, business operations, and financial performance.  It details the company's strategic objectives, risk factors (including legal, regulatory, and market risks),  selected financial data, management's discussion and analysis,  consolidated financial statements, and accounting policies.  The report also includes certifications from the CEO and CFO as required by the Sarbanes-Oxley Act."
+    },
+    {
+        "file_name": "ACTIVISIONBLIZZARD_2018_10K.pdf",
+        "description": "This Activision Blizzard, Inc. 2018 10-K report details the company's business overview, including its three reportable segments (Activision Publishing, Blizzard Entertainment, King Digital Entertainment), products, marketing, and financial results.  Significant discussion focuses on 2018 financial performance, net bookings analysis, and key risk factors such as competition, reliance on key franchises, and regulatory compliance.  The report also includes audited financial statements, notes to the statements, executive compensation details, and various exhibits including employment agreements and incentive plan documents."
+    },
+    {
+        "file_name": "ACTIVISIONBLIZZARD_2019_10K.pdf",
+        "description": "This is Activision Blizzard, Inc.'s 10-K annual report, covering financial performance and risk factors for 2019.  The report details the company's business overview, key franchises, executive team, and significant financial data including revenues by segment (Activision, Blizzard, King) and distribution channel.  It also addresses risk factors like competition, regulatory compliance, and cybersecurity.  Significant accounting policies and internal controls are explained, followed by audited financial statements, exhibits, and certifications from the CEO and CFO.  The report includes an employment agreement as an exhibit."
+    },
+    {
+        "file_name": "ACTIVISIONBLIZZARD_2020_10K.pdf",
+        "description": "This Activision Blizzard, Inc. Form 10-K for the year ended December 31, 2020, details the company's financial performance and operational activities.  It covers business segments (Activision Publishing, Blizzard Entertainment, King), key franchises, risks (COVID-19 impact, competition, reliance on key titles), financial statements (including consolidated balance sheets, income statements, and cash flows), critical accounting policies, and executive certifications.  The report also includes notes to financial statements,  exhibits, and disclosures regarding share-based compensation and legal proceedings."
+    },
+    {
+        "file_name": "ACTIVISIONBLIZZARD_2021_10K.pdf",
+        "description": "This Activision Blizzard, Inc. 10-K report covers the fiscal year ending December 31, 2021.  It details the company's business overview, including its merger agreement with Microsoft and the impact of the COVID-19 pandemic.  The report extensively analyzes financial performance across various segments (Activision, Blizzard, King),  discusses key risks (competition, regulatory, technological), and includes audited financial statements, management's discussion and analysis, and certifications.  Significant sections cover intellectual property, workplace initiatives, and risk factors, along with detailed notes and exhibits, including stock option and restricted share unit award terms."
+    },
+    {
+        "file_name": "ACTIVISIONBLIZZARD_2022_10K.pdf",
+        "description": "This is Activision Blizzard's 2022 10-K report, detailing its financial performance, business operations, and risks.  The report covers the company's three segments (Activision Publishing, Blizzard Entertainment, King Digital Entertainment), its pending Microsoft merger,  significant risks (competition, reliance on franchises, legal matters), and detailed financial statements.  It also includes certifications from the CEO and CFO and extensive information regarding a Restricted Share Unit Award, including country-specific appendices."
+    },
+    {
+        "file_name": "ACTIVISIONBLIZZARD_2023Q2_10Q.pdf",
+        "description": "This document is Activision Blizzard's condensed consolidated financial statements for the second quarter of 2023.  It includes unaudited financial statements (income, cash flow, equity), segment and regional revenue breakdowns (by distribution channel and platform),  key operating metrics (MAUs, net bookings),  management's discussion and analysis,  details on the Microsoft merger,  legal proceedings (including employment-related matters), and disclosures on critical accounting policies and risk factors.  The report also highlights financial performance, including revenue by segment (Activision, Blizzard, King) and key performance indicators."
+    },
+    {
+        "file_name": "ADOBE_2015_10K.pdf",
+        "description": "This Adobe Systems Incorporated 10-K report details the company's fiscal year 2015 performance and business overview.  It covers business segments (Digital Media, Digital Marketing, Print & Publishing), product offerings (Creative Cloud, Document Cloud), competitive landscape, and risk factors.  The report includes comprehensive financial statements (balance sheets, income statements, cash flows), notes to the financials,  management's discussion and analysis, and information on corporate governance and executive compensation.  Forward-looking statements and significant accounting policies are also disclosed."
+    },
+    {
+        "file_name": "ADOBE_2016_10K.pdf",
+        "description": "This Adobe Systems Incorporated 10-K report details the company's fiscal year 2016 performance and financial condition.  It covers business operations across Digital Media, Digital Marketing, and Print & Publishing segments,  analyzes competitive landscapes and risk factors (including subscription model, economic, and legal risks), and presents consolidated financial statements with accompanying notes.  Management's discussion and analysis of financial results are included, along with information on executive compensation, stock ownership, and corporate governance.  The report concludes with exhibits and signatures."
+    },
+    {
+        "file_name": "ADOBE_2017_10K.pdf",
+        "description": "This Adobe Systems Incorporated 10-K report details the company's fiscal year 2017 performance and financial position.  It covers business operations, including product offerings (Creative Cloud, Document Cloud, Experience Cloud) and market competition.  Significant risks, such as security breaches and regulatory changes, are analyzed.  The report presents consolidated financial statements, including balance sheets, income statements, and cash flow statements, along with management's discussion and analysis.  Key financial metrics, segment performance, and  accounting policies are explained, concluding with  auditor's report and corporate governance information."
+    },
+    {
+        "file_name": "ADOBE_2018_10K.pdf",
+        "description": "This Adobe Inc. 10-K report (fiscal year 2018) details the company's business overview, encompassing its three segments (Digital Media, Digital Experience, Publishing), market analysis, competitive landscape, and key products/services.  It includes a comprehensive financial analysis, covering revenue, expenses, profitability, cash flow, and significant accounting policies.  Risk factors, including security breaches, regulatory concerns, and market volatility, are discussed.  The report also provides information on executive compensation, corporate governance, and financial statements, certified by company officers."
+    },
+    {
+        "file_name": "ADOBE_2019_10K.pdf",
+        "description": "This Adobe Inc. 10-K report covers the fiscal year ending November 29, 2019.  It details the company's business overview, including its Digital Media, Digital Experience, and Publishing segments, strategies, and competitive landscape.  The report includes financial statements (balance sheets, income statements, cash flows), management's discussion and analysis, risk factors, legal proceedings, and information on stock and executive leadership.  Significant accounting policies, including revenue recognition and recent acquisitions, are also explained.  The report is certified by independent auditors."
+    },
+    {
+        "file_name": "ADOBE_2020_10K.pdf",
+        "description": "This Adobe Inc. 10-K report details the company's fiscal year 2020 performance and business overview.  It covers segments (Digital Media, Digital Experience, Publishing & Advertising), competitive landscape,  products/services, marketing, and human capital.  Financial statements, including income, cash flow, and balance sheets, are presented along with management's discussion and analysis.  Significant accounting policies,  risk factors (including COVID-19 impact), legal proceedings, and market risk disclosures are also included.  The report concludes with audit information, internal control evaluations, and exhibits."
+    },
+    {
+        "file_name": "ADOBE_2021_10K.pdf",
+        "description": "This Adobe Inc. 10-K report details the company's fiscal year 2021 performance, focusing on its Digital Media and Digital Experience segments.  It covers business overview, product offerings, market analysis, competition, risk factors (including COVID-19 impact), financial statements, accounting policies, executive compensation, and corporate governance.  Strong revenue growth is highlighted, along with details on acquisitions and  stock repurchase programs.  Consolidated financial statements and auditor's report are included.  Significant risk factors and accounting policies are thoroughly discussed."
+    },
+    {
+        "file_name": "ADOBE_2022Q2_10Q.pdf",
+        "description": "This is Adobe Inc.'s Form 10-Q for the quarter ended June 2, 2023.  The report includes condensed consolidated financial statements (balance sheets, income statements, cash flows, and statements of comprehensive income and stockholders' equity), detailed notes explaining accounting policies and significant transactions (including the Figma acquisition), and management's discussion and analysis of financial condition and results of operations.  It also covers risk factors, legal proceedings, and details on stock repurchases.  The report concludes with signatures and a trademark summary."
+    },
+    {
+        "file_name": "ADOBE_2022_10K.pdf",
+        "description": "This Adobe Inc. 10-K report details the company's fiscal year 2022 performance and operations.  It covers business overview, product offerings (Digital Media & Digital Experience), market analysis, competition, risk factors, financial statements (including balance sheets, income statements, and cash flows), accounting policies, and significant acquisitions (like Figma).  The report also includes information on executive leadership, stock information, and legal matters.  Detailed notes to the financial statements provide further explanation of key accounting policies and figures."
+    }
 ]
