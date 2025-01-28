@@ -214,5 +214,81 @@
     {
         "file_name": "AMCOR_2023_10K.pdf",
         "description": "Amcor PLC's 2023 Form 10-K annual report details its business overview, including segments (Flexibles and Rigid Packaging),  intellectual property, sustainability initiatives, and risk factors (financial, operational, legal).  It presents financial statements (income, cash flow, balance sheet) and notes, analyzing fiscal year 2023 performance against prior years and discussing key accounting policies and judgments.  Executive compensation, share ownership, and corporate governance information are included, along with certifications by the CEO and CFO.  The report also covers debt obligations, including details on senior notes and guarantees."
+    },
+    {
+        "file_name": "AMD_2015_10K.pdf",
+        "description": "This is Advanced Micro Devices, Inc.'s (AMD) 2015 annual report.  It details AMD's business overview, including its product offerings, market position, competitive landscape, and 2015 restructuring plan.  Significant attention is given to risk factors, such as reliance on third-party manufacturers and market cyclicality.  The report includes extensive financial statements, management's discussion and analysis, notes to the financial statements, and information on stock options and other equity compensation plans, along with the required certifications and auditor's report."
+    },
+    {
+        "file_name": "AMD_2016_10K.pdf",
+        "description": "This Form 10-K is Advanced Micro Devices' (AMD) annual report, covering business operations, financial performance, and risk factors for the fiscal year ending December 31, 2016.  It details AMD's semiconductor business within the competitive landscape, including market segments, products, sales strategies, and manufacturing.  The report includes audited financial statements, management's discussion and analysis, risk factors (e.g., market conditions, reliance on third parties), and significant accounting estimates.  Further, it contains details on debt agreements, stock options, and restricted stock units, along with executive certifications."
+    },
+    {
+        "file_name": "AMD_2017_10K.pdf",
+        "description": "This document is AMD's 2017 Form 10-K annual report.  It details AMD's business operations, including its product offerings (microprocessors, GPUs), market analysis (competition with Intel and Nvidia), and financial performance.  Significant risk factors are identified, along with financial statements, notes, and management's discussion and analysis.  The report also includes information on debt obligations, stock-based compensation, legal proceedings, and details of various agreements and employee stock plans, including extensive country-specific terms and conditions.  Finally, executive certifications regarding financial reporting and internal controls are provided."
+    },
+    {
+        "file_name": "AMD_2018_10K.pdf",
+        "description": "This is Advanced Micro Devices, Inc.'s (AMD) 10-K filing for 2018.  The report details AMD's business operations, including market analysis, competitive landscape,  and research & development.  Significant sections cover financial performance (including risk factors and MD&A),  financial statements, notes to the financials,  stock-based compensation plans, and internal controls.  Executive certifications and a list of subsidiaries are also included, with many sections referencing the 2019 Proxy Statement for additional detail."
+    },
+    {
+        "file_name": "AMD_2019_10K.pdf",
+        "description": "This is Advanced Micro Devices, Inc.'s annual report (2019), incorporating the 2020 Proxy Statement.  It details AMD's business operations in computing and graphics, including products, markets, competition, and risks.  Significant sections cover financial performance (revenue, income, cash flow), debt obligations, accounting practices, and legal matters (litigation, contingencies). The report includes audited financial statements, management's discussion and analysis, and certifications from the CEO and CFO complying with Sarbanes-Oxley Act requirements.  Corporate governance and stockholder information are also provided."
+    },
+    {
+        "file_name": "AMD_2020_10K.pdf",
+        "description": "This is AMD's 2020 Form 10-K filing, detailing its business operations, financial performance, and risk factors.  It covers AMD's semiconductor market position, including its computing and graphics, and enterprise segments.  The report includes a discussion of the pending Xilinx acquisition, significant accounting policies, financial statements, and risk factors such as market competition and supply chain vulnerabilities.  The filing also includes certifications from the CEO and CFO, required by the Sarbanes-Oxley Act, and corporate governance information."
+    },
+    {
+        "file_name": "AMD_2021_10K.pdf",
+        "description": "This AMD Form 10-K annual report covers fiscal year 2021, detailing business operations, including the pending Xilinx acquisition and product lines (computing, graphics, data center).  It extensively addresses risk factors (COVID-19 impact, market competition, supply chain, legal, and financial risks).  The report includes consolidated financial statements, management's discussion and analysis, and certifications by the CEO and CFO, complying with Sarbanes-Oxley Act requirements.  Significant detail is provided on a wafer supply agreement with GLOBALFOUNDRIES."
+    },
+    {
+        "file_name": "AMD_2022_10K.pdf",
+        "description": "This document is Advanced Micro Devices, Inc.'s (AMD) 2022 annual report, encompassing business overview, strategy across key segments (data center, client, gaming, embedded), competitive analysis, risk factors (including COVID-19 impact and supply chain challenges), and detailed financial statements (including notes and auditor's report).  It also includes information on corporate governance, executive compensation, and compliance certifications (SOX and SEC).  The report incorporates data from the 2023 Proxy Statement and lists significant subsidiaries."
+    },
+    {
+        "file_name": "AMD_2022_annualreport.pdf",
+        "description": "AMD's 2022 Annual Report details a transformative year with record revenue driven by strong performance across Data Center, Client, Gaming, and Embedded segments, fueled by the Xilinx acquisition.  The report includes financial highlights, segment overviews,  CEO commentary, sustainability initiatives, risk factors (including those related to acquisitions and supply chain),  consolidated financial statements, notes to the statements, auditor's report, and corporate governance information.  Significant growth and strategic investments are emphasized, along with discussion of market risks and future prospects."
+    },
+    {
+        "file_name": "AMERICANEXPRESS_2022_10K.pdf",
+        "description": "This American Express 10-K filing details the company's 2022 performance and financial position.  It covers business operations, competitive landscape, regulatory environment, risk factors (strategic, legal, credit), and financial statements (income, cash flow, balance sheet).  Significant accounting policies and internal controls are explained.  Extensive notes address credit losses, investments, debt, and shareholder equity.  Executive compensation and governance information are also included, along with auditor reports and certifications.  Appendices detail employee benefit plans."
+    },
+    {
+        "file_name": "AMERICANWATERWORKS_2015_10K.pdf",
+        "description": "This Form 10-K is American Water Works Company's annual report.  It details the company's business operations (water supply, wastewater services, market-based businesses),  significant risks (regulatory, environmental, financial),  and 2015 financial performance.  The report includes audited consolidated financial statements, notes, and disclosures regarding accounting policies,  executive compensation, and various stock option and performance-based equity grants.  Significant attention is given to regulatory compliance and the impact of the Freedom Industries chemical spill."
+    },
+    {
+        "file_name": "AMERICANWATERWORKS_2016_10K.pdf",
+        "description": "This is American Water Works Company, Inc.'s 2016 Form 10-K annual report.  It details the company's business operations (regulated and market-based), financial performance, and risk factors, including regulatory, environmental, and financial risks.  The report includes consolidated financial statements, management's discussion and analysis, and disclosures on executive compensation, accounting policies, and legal proceedings.  Certifications from the CEO and CFO confirm the report's accuracy and compliance.  A settlement agreement related to a chemical spill is also included as an exhibit."
+    },
+    {
+        "file_name": "AMERICANWATERWORKS_2017_10K.pdf",
+        "description": "This is American Water Works Company's 2017 Form 10-K report.  It details the company's business operations, including regulated and market-based water and wastewater services,  capital investments, and regulatory environment.  Significant risk factors are discussed, along with financial results,  accounting policies, and legal proceedings, notably those related to the West Virginia Elk River chemical spill.  The report includes audited financial statements, executive compensation information, and certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "AMERICANWATERWORKS_2018_10K.pdf",
+        "description": "This document is American Water Works Company's 2018 Form 10-K report.  It details the company's business operations, including regulated and market-based water and wastewater services,  acquisitions, regulatory environment, and financial performance.  The report includes audited financial statements, notes to the statements,  information on executive compensation, and exhibits such as employment agreements and a nonqualified savings plan.  Significant attention is given to regulatory matters, environmental compliance, and risk factors."
+    },
+    {
+        "file_name": "AMERICANWATERWORKS_2019_10K.pdf",
+        "description": "This document is American Water Works Company, Inc.'s 2019 annual report (Form 10-K).  It details the company's business operations (regulated and market-based), regulatory environment, growth strategy (acquisitions),  risks (environmental, regulatory, financial, operational),  and financial performance.  Significant legal proceedings and  ESG initiatives are also discussed.  The report includes audited financial statements,  notes to the statements,  and information on executive compensation, corporate governance, and a detailed pension plan.  Finally, certifications from the CEO and CFO are included."
+    },
+    {
+        "file_name": "AMERICANWATERWORKS_2020_10K.pdf",
+        "description": "This is American Water Works Company's 2020 annual report (Form 10-K).  It details the company's business overview, including the sale of a New York subsidiary, water services, and market-based operations.  Significant sections cover sustainability initiatives, risk factors (regulatory, environmental, financial), financial statements (balance sheets, income statements, cash flows), accounting policies, and legal proceedings.  The report also includes certifications from executive officers and the independent auditor."
+    },
+    {
+        "file_name": "AMERICANWATERWORKS_2021_10K.pdf",
+        "description": "This American Water Works Company, Inc. (AWW) 2021 10-K report details the company's business overview, including regulated and market-based operations, strategic growth initiatives, and regulatory landscape.  It addresses industry legislation, competition, water management, and ESG principles.  Significant financial data, including results of operations, liquidity, and capital resources, are presented.  The report also discloses risk factors, accounting policies, legal proceedings, and governance information, along with executive compensation details and subsidiary listings.  Finally, auditor reports and certifications are included."
+    },
+    {
+        "file_name": "AMERICANWATERWORKS_2022_10K.pdf",
+        "description": "This is American Water Works Company, Inc.'s 2022 annual report (Form 10-K).  It covers financial performance (revenues, expenses, cash flow),  regulatory matters,  risk factors (including legal and environmental), capital investments,  competition,  ESG initiatives (social responsibility, governance, diversity),  employee benefits and compensation, and detailed accounting information.  The report also includes certifications from the CEO and CFO, and various appendices detailing stock grants and a comprehensive pension plan."
+    },
+    {
+        "file_name": "AMERICANWATERWORKS_2023Q2_10Q.pdf",
+        "description": "This document is American Water Works Company, Inc.'s quarterly report, covering financial results for the six months ended June 30, 2023.  It includes consolidated financial statements, management's discussion and analysis, regulatory updates (rate cases, surcharges), details on acquisitions, debt, and capital investments.  Significant accounting policies and risk factors are disclosed.  The report also contains certifications from the CEO and CFO, along with exhibits including a credit agreement amendment and stock unit grant."
     }
 ]
