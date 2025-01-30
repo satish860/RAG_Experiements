@@ -290,5 +290,97 @@
     {
         "file_name": "AMERICANWATERWORKS_2023Q2_10Q.pdf",
         "description": "This document is American Water Works Company, Inc.'s quarterly report, covering financial results for the six months ended June 30, 2023.  It includes consolidated financial statements, management's discussion and analysis, regulatory updates (rate cases, surcharges), details on acquisitions, debt, and capital investments.  Significant accounting policies and risk factors are disclosed.  The report also contains certifications from the CEO and CFO, along with exhibits including a credit agreement amendment and stock unit grant."
+    },
+    {
+        "file_name": "APPLE_2015_10K.pdf",
+        "description": "This Apple Inc. 10-K report details the company's financial performance and condition for fiscal year 2015.  It covers business overview, market analysis, R&D, risk factors, properties, legal proceedings, and financial statements (including income statements, balance sheets, and cash flows).  Significant accounting policies,  market risk analysis, liquidity, capital resources, share repurchase programs, and segment information are also included.  The report concludes with certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "APPLE_2016_10K.pdf",
+        "description": "This Apple Inc. Form 10-K report covers the fiscal year ending September 24, 2016.  It details Apple's business operations, including product lines, market analysis, and competitive landscape.  Significant sections include risk factors, financial statements (with notes), management's discussion and analysis, and executive compensation.  The report also addresses corporate governance, legal proceedings, and internal controls, concluding with exhibits and certifications.  Financial data covers sales, income, cash flows, and shareholder equity over multiple years.  Significant accounting policies and estimates are explained."
+    },
+    {
+        "file_name": "APPLE_2017_10K.pdf",
+        "description": "This Apple Inc. 10-K filing details the company's 2017 financial performance and business operations.  It covers business overview, products, markets, competition, risks, financial statements (including income statement, balance sheet, and cash flow statement), and significant accounting policies.  The report also includes information on executive compensation, corporate governance, risk factors, legal proceedings, and stock information.  Finally, it provides details on the company's employee stock plan and various exhibits, including auditor reports and certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "APPLE_2018_10K.pdf",
+        "description": "This Apple Inc. 10-K report covers the fiscal year ending September 29, 2018.  It details the company's business overview, market position, competitive landscape, and financial performance.  Key sections include risk factors, legal proceedings, management's discussion and analysis of financial condition, consolidated financial statements, and notes to the financial statements.  The report also addresses accounting policies, share-based compensation, debt, and capital return programs.  CEO and CFO certifications are included, ensuring compliance with the Securities Exchange Act of 1934."
+    },
+    {
+        "file_name": "APPLE_2019_10K.pdf",
+        "description": "This Apple Inc. 10-K report covers the fiscal year ending September 28, 2019.  It details the company's financial performance, including revenues by product line and geographic segment,  profitability, and liquidity.  Significant accounting policies and risk factors are disclosed, along with information on legal proceedings, executive compensation, and corporate governance.  Consolidated financial statements, auditor opinions, and certifications are included, along with descriptions of Apple's debt securities and employee stock plans."
+    },
+    {
+        "file_name": "APPLE_2020_10K.pdf",
+        "description": "This Apple Inc. Form 10-K for fiscal year 2020 details the company's financial performance, business overview, and risk factors.  It includes audited financial statements, management's discussion and analysis, information on products and services,  market risk disclosures, and details on debt, stock, and executive compensation.  The report also covers legal proceedings, corporate governance, and accounting policies, accompanied by auditor reports and certifications.  Significant financial data for the past three years is provided, alongside operational and segment performance analyses."
+    },
+    {
+        "file_name": "APPLE_2021_10K.pdf",
+        "description": "This Apple Inc. Form 10-K report covers the fiscal year ending September 25, 2021.  It details the company's business operations, financial performance (including statements of operations, cash flows, and balance sheets), risk factors, legal proceedings, and executive compensation (information mostly referenced to the 2022 Proxy Statement).  Significant sections address  market risk, liquidity, and debt.  Financial statements are accompanied by auditor reports and certifications from the CEO and CFO, complying with Sarbanes-Oxley Act requirements.  The report also includes details on the company's securities and subsidiaries."
+    },
+    {
+        "file_name": "APPLE_2022_10K.pdf",
+        "description": "This Apple Inc. Form 10-K annual report covers the fiscal year ending September 24, 2022.  It details the company's business overview, including product lines (iPhone, Mac, iPad, Services), market analysis, and risk factors.  The report includes comprehensive financial statements (income statement, balance sheet, cash flow), management's discussion and analysis of financial condition and results of operations, and notes to the financial statements.  Significant accounting policies, risk disclosures (market, financial, legal), and certifications from the CEO and CFO are also included.  Finally, it describes Apple's debt securities and lists its subsidiaries."
+    },
+    {
+        "file_name": "APPLE_2023Q3_10Q.pdf",
+        "description": "This Apple Inc. Form 10-Q (quarterly report) details financial results for the three months ended July 1, 2023.  It includes condensed consolidated financial statements (income statement, balance sheet, cash flows), accompanying notes, management's discussion and analysis of financial performance, segment performance (products and services, gross margin, operating expenses), liquidity and capital resources, legal proceedings, and share repurchase activity.  The report concludes with required certifications from the CEO and CFO, ensuring accuracy and compliance with Sarbanes-Oxley Act and SEC regulations."
+    },
+    {
+        "file_name": "BESTBUY_2015_10K.pdf",
+        "description": "This Best Buy Co., Inc. Form 10-K report for fiscal year 2015 details the company's business operations, financial performance, and risk factors.  It includes a business description, financial statements (balance sheets, income statements, cash flow statements), management's discussion and analysis,  segment performance summaries (Domestic and International),  risk factor analysis, and auditor's reports.  Significant accounting policies and critical accounting estimates are explained.  The report also includes information on executive officers, stock information, and a detailed description of the company's Deferred Compensation Plan."
+    },
+    {
+        "file_name": "BESTBUY_2016_10K.pdf",
+        "description": "This is Best Buy Co., Inc.'s Form 10-K annual report for fiscal year 2016.  The report details the company's business operations, financial performance, and risk factors.  It includes consolidated financial statements, management's discussion and analysis, information on executive compensation, corporate governance, and significant accounting policies.  The report also covers  domestic and international segment performance,  liquidity, capital resources, and debt.  Finally, it includes auditor reports and certifications."
+    },
+    {
+        "file_name": "BESTBUY_2017_10K.pdf",
+        "description": "Best Buy's 2017 Form 10-K details its financial performance and business operations.  The report covers business overview, merchandise, risk factors, store locations, executive information, financial statements (balance sheets, income statements, cash flows),  and significant accounting policies.  Management discusses financial results, strategy (\"Best Buy 2020\"), and liquidity.  The report also includes auditor's reports, certifications, and a list of subsidiaries, complying with Sarbanes-Oxley Act requirements.  Segments provide detailed financial data for both domestic and international operations."
+    },
+    {
+        "file_name": "BESTBUY_2018_10K.pdf",
+        "description": "Best Buy's 2018 Form 10-K annual report details its business operations, financial performance, and risk factors.  It includes management's discussion and analysis of financial condition and results of operations,  consolidated financial statements (balance sheets, income statements, cash flows, and shareholder equity), notes to the financial statements, and significant accounting policies.  The report also covers corporate governance, executive compensation, and legal proceedings, along with certifications from the CEO and CFO.  The report provides detailed segment information for both domestic and international operations."
+    },
+    {
+        "file_name": "BESTBUY_2019_10K.pdf",
+        "description": "Best Buy's 2019 Form 10-K annual report details its business operations, financial performance, and risk factors.  It includes a business overview, financial statements (balance sheets, income statements, cash flows), MD&A,  risk disclosures,  accounting policies,  executive compensation,  and corporate governance information.  The report also covers legal proceedings, store locations,  share repurchase programs, and compliance certifications under Sarbanes-Oxley and the Securities Exchange Act.  Deloitte & Touche LLP provided the independent auditor's report."
+    },
+    {
+        "file_name": "BESTBUY_2020_10K.pdf",
+        "description": "This document is Best Buy Co., Inc.'s financial report, covering business overview, operations, financial performance, and risk factors.  It includes details on segments (e.g., international performance),  financial statements (balance sheets, income statements, cash flows),  accounting policies,  management discussion and analysis,  risk factors (including COVID-19 impact),  executive leadership, and shareholder information.  The report also contains an independent auditor's opinion and disclosures on accounting estimates and market risks."
+    },
+    {
+        "file_name": "BESTBUY_2021_10K.pdf",
+        "description": "This Best Buy Co., Inc. Form 10-K annual report details the company's business operations, financial performance, and risk factors.  It covers business segments,  distribution strategies,  sustainability initiatives, and human capital management.  Significant financial data, including statements of earnings, cash flows, and balance sheets, are presented alongside discussions of critical accounting estimates and risks.  The report also includes information on executive compensation, stock options, and the company's severance plan, concluding with certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "BESTBUY_2022_10K.pdf",
+        "description": "This document is Best Buy Co., Inc.'s annual report, covering fiscal year 2022.  It details the company's business operations, including its segments, risks, and financial performance.  Significant sections include discussions of risk factors, financial statements (balance sheets, income statements, cash flows), executive compensation, and a detailed Long-Term Incentive Program Award Agreement.  The report also includes certifications from key executives and the independent auditor's report.  Financial data is presented, showing revenue, expenses, and profitability.  The report complies with SEC regulations."
+    },
+    {
+        "file_name": "BESTBUY_2023Q4_EARNINGS.pdf",
+        "description": "This document reports Best Buy's Q4 FY23 and FY24 financial results.  It details sales performance, earnings per share, and a dividend increase, along with segment-specific results (domestic and international).  FY24 financial guidance, including revenue projections and comparable sales decline, is provided.  Restructuring charges and shareholder returns are also discussed.  The report includes condensed financial statements (income statement, balance sheet, cash flow statement), segment information, revenue breakdowns, and reconciliations of GAAP and non-GAAP financial measures.  A conference call announcement is included."
+    },
+    {
+        "file_name": "BESTBUY_2023_10K.pdf",
+        "description": "Best Buy's 10-K report details its fiscal year 2023 performance and financial condition.  It includes business overviews, risk factors (external, strategic, operational, financial), financial statements (balance sheets, income statements, cash flows), and notes to the financials.  The report also covers  environmental and social responsibility, human capital management, executive compensation (referenced from the proxy statement), and corporate governance.  The report is certified by the CEO and CFO, complying with the Sarbanes-Oxley Act."
+    },
+    {
+        "file_name": "BESTBUY_2023_8K_dated-2023-04-12.pdf",
+        "description": "This document is a Form 8-K filing by Best Buy Co., Inc., announcing a new $1.25 billion, five-year senior unsecured revolving credit facility.  It details the agreement's terms, including borrowing, guarantees, covenants (affirmative and negative), events of default, and the roles of the Administrative Agent and lenders.  The filing includes the full credit agreement, defining key terms related to finance, environmental regulations, and loan specifics.  Signatures from Best Buy and participating lenders confirm the agreement."
+    },
+    {
+        "file_name": "BESTBUY_2023_8K_dated-2023-04-24.pdf",
+        "description": "Best Buy Co., Inc. filed Form 8-K, reporting the retirement of director Thomas L. Millner.  The filing details  Millner's resignation from the Board of Directors and the subsequent appointment of a new Audit Committee Chair.  The document includes standard introductory information and the required signatures confirming its submission.  The core focus is the announcement of a director's departure."
+    },
+    {
+        "file_name": "BESTBUY_2024Q2_10Q.pdf",
+        "description": "This Form 10-Q report presents a company's financial results for the three and six months ended July 29, 2023.  It includes condensed consolidated financial statements (balance sheets, earnings, cash flows, and equity), detailed notes on significant accounting policies, restructuring charges, debt, revenue recognition,  share repurchases, and market risk disclosures.  The report also offers segment information,  a financial performance overview, cash flow analysis, and legal proceedings information, concluding with exhibits and certifications."
+    },
+    {
+        "file_name": "BESTBUY_2024Q2_EARNINGS.pdf",
+        "description": "This document reports Best Buy's Q2 FY24 financial results, including revenue, earnings per share, and comparable sales.  It provides segment-specific analyses for domestic and international operations, detailing revenue, gross profit, and expenses.  Financial guidance for FY24 is offered, along with information on income taxes, share repurchases, and dividends.  The report includes condensed consolidated financial statements (earnings, balance sheet, and cash flow) and a reconciliation of GAAP and non-GAAP measures.  A conference call announcement and cautionary statements conclude the report."
     }
 ]
