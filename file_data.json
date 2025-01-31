@@ -382,5 +382,73 @@
     {
         "file_name": "BESTBUY_2024Q2_EARNINGS.pdf",
         "description": "This document reports Best Buy's Q2 FY24 financial results, including revenue, earnings per share, and comparable sales.  It provides segment-specific analyses for domestic and international operations, detailing revenue, gross profit, and expenses.  Financial guidance for FY24 is offered, along with information on income taxes, share repurchases, and dividends.  The report includes condensed consolidated financial statements (earnings, balance sheet, and cash flow) and a reconciliation of GAAP and non-GAAP measures.  A conference call announcement and cautionary statements conclude the report."
+    },
+    {
+        "file_name": "BLOCK_2015_10K.pdf",
+        "description": "This is Square, Inc.'s Form 10-K annual report for the year ended December 31, 2015.  The report details Square's business model, financial performance, risks, and accounting policies.  It includes consolidated financial statements, management's discussion and analysis,  risk factors (covering operational, regulatory, and market risks), and information on executive compensation and corporate governance.  Significant attention is given to revenue breakdown, operating expenses, and cash flow analysis.  The report also includes exhibits, such as the 2015 Employee Stock Purchase Plan and certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "BLOCK_2016_10K.pdf",
+        "description": "This is Square, Inc.'s 10-K filing, a comprehensive annual report.  It details the company's business model, financial performance (including revenue, expenses, and cash flow),  risk factors (operational, financial, and legal), and key operating metrics.  The report includes audited financial statements, notes to the statements, management's discussion and analysis, and certifications from the CEO and CFO.  It also covers corporate governance, executive compensation, and legal proceedings.  Finally, it includes exhibits and employment offer letters."
+    },
+    {
+        "file_name": "BLOCK_2017_10K.pdf",
+        "description": "This Square, Inc. Form 10-K annual report (2017) details the company's business overview, focusing on its payment solutions, hardware, software, and Cash App.  It includes financial statements (2015-2017),  management's discussion and analysis, risk factors (including competitive, regulatory, and operational risks), and significant accounting policies.  The report also covers stock information,  legal proceedings, and certifications from the CEO and CFO, complying with Sarbanes-Oxley Act requirements.  Appendices include exhibits and subsidiary information."
+    },
+    {
+        "file_name": "BLOCK_2018_10K.pdf",
+        "description": "This Square, Inc. Form 10-K annual report details the company's business overview, including its products (Cash App, Square Capital), seller base, and competitive landscape.  Significant risk factors are discussed, encompassing operational, market, and financial challenges.  The report presents financial statements (balance sheets, income statements, cash flows) and accompanying notes, along with key operating metrics and management's discussion and analysis.  It also includes certifications from the CEO and CFO and lists subsidiaries.  Finally, it addresses corporate governance and related party transactions."
+    },
+    {
+        "file_name": "BLOCK_2019_10K.pdf",
+        "description": "This Form 10-K is Square, Inc.'s annual report for the year ended December 31, 2019.  It details the company's business model (Seller Ecosystem and Cash App), financial performance, risk factors (including regulatory, competitive, and operational risks), and financial statements.  Significant attention is given to risk factors related to Bitcoin, payment networks, and third-party reliance.  The report includes audited financial statements, management's discussion and analysis, and certifications from the CEO and CFO.  Information on executive compensation and corporate governance is deferred to the Proxy Statement."
+    },
+    {
+        "file_name": "BLOCK_2020_10K.pdf",
+        "description": "This Form 10-K is Square, Inc.'s annual report, covering business overview, financial performance, and risk factors.  It details Square's Seller and Cash App ecosystems, COVID-19 impact, competitive landscape, and financial statements (including revenue, expenses, cash flow, and accounting policies).  Significant risk factors discussed include competition, regulatory compliance, and macroeconomic conditions.  The report also includes information on corporate governance, executive compensation, and certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "BLOCK_2021_10K.pdf",
+        "description": "This is Block, Inc.'s (formerly Square) 2021 10-K annual report, covering its financial performance and business operations.  Key sections detail the Square and Cash App ecosystems, risks (including those related to acquisitions like Afterpay, BNPL, and COVID-19), financial statements, and critical accounting policies.  The report also includes information on stock structure, corporate governance, executive compensation, and significant loan agreements, along with various subsidiary and plan details.  Financial highlights, including revenue breakdowns and key operating metrics, are presented alongside audit reports."
+    },
+    {
+        "file_name": "BLOCK_2022_10K.pdf",
+        "description": "Block, Inc.'s 2022 Form 10-K details its business model encompassing Square and Cash App ecosystems.  The report analyzes financial performance, including revenue streams and operating expenses, and discusses key operating metrics.  Significant attention is given to risk factors,  covering operational, economic, regulatory, and market risks, particularly those related to cryptocurrency, BNPL, and financial services regulations.  The document also includes audited financial statements, notes to the statements, management's discussion and analysis, and corporate governance information.  Finally, it contains certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "BLOCK_2022_8K_dated-2022-01-28.pdf",
+        "description": "This Form 8-K filing details Block, Inc.'s acquisition of Afterpay Limited.  Key aspects include the completion of the acquisition, issuance of Block stock to Afterpay shareholders, appointment of a new director, and a Fifth Amendment to Block's revolving credit agreement.  The filing also includes a comprehensive Trust Deed governing zero-coupon convertible notes issued by Afterpay, outlining terms, conditions, trustee responsibilities, and events of default.  The document extensively defines terms, details conversion rights, and specifies governing law and jurisdiction."
+    },
+    {
+        "file_name": "BOEING_2015_10K.pdf",
+        "description": "This is Boeing's 2015 Form 10-K annual report.  It details the company's business segments (Commercial Airplanes, Defense, Space & Security, etc.), financial performance (revenues, earnings, cash flow), risk factors, legal proceedings, and executive compensation.  The report includes audited financial statements, notes to the statements, and disclosures regarding accounting policies, pension plans, and share-based compensation.  It also includes certifications by key executives and a list of exhibits.  A significant portion is dedicated to the Supplemental Executive Retirement Plan."
+    },
+    {
+        "file_name": "BOEING_2016_10K.pdf",
+        "description": "This Boeing 10-K report details the company's 2016 performance and financial position.  It covers business segments (Commercial Airplanes, Defense, Space & Security, Global Services, Boeing Capital), financial results, and accounting policies.  The report also includes detailed financial statements, risk factors, legal proceedings, and executive compensation information."
+    },
+    {
+        "file_name": "BOEING_2017_10K.pdf",
+        "description": "This is Boeing's 2017 Form 10-K filing with the SEC.  The report details the company's business overview, including its four segments (Commercial Airplanes, Defense, Space & Security, Global Services, and Boeing Capital), financial performance, competitive landscape, and significant risks.  It includes consolidated financial statements, accounting policies, disclosures on executive compensation, and legal proceedings.  The report also covers significant accounting policies, risk factors, and contractual obligations, along with certifications by key executives."
+    },
+    {
+        "file_name": "BOEING_2018_10K.pdf",
+        "description": "This Boeing 10-K report details the company's 2018 financial performance and operations across its segments (Commercial Airplanes, Defense, Space & Security, Global Services, Boeing Capital).  It includes business overviews, risk factors, financial statements, segment results, liquidity and capital resources, accounting policies, executive compensation, and auditor reports.  Key financial metrics, backlog information, and details regarding legal proceedings and pension plans are also provided.  The report complies with Securities Exchange Act of 1934 regulations."
+    },
+    {
+        "file_name": "BOEING_2019_10K.pdf",
+        "description": "This Boeing 10-K report details the company's 2019 financial performance and operations across its commercial airplanes, defense, space & security, global services, and Boeing Capital segments.  It addresses the significant impact of the 737 MAX grounding, including legal issues and financial implications.  The report includes financial statements, risk factors,  management's discussion and analysis, and disclosures on accounting policies, executive compensation, and shareholder information.  Auditor opinions and certifications are also included."
+    },
+    {
+        "file_name": "BOEING_2020_10K.pdf",
+        "description": "Boeing's 2020 Form 10-K details the company's financial performance across its segments (Commercial Airplanes, Defense, Space & Security, Global Services, Boeing Capital), highlighting the impact of the 737 MAX grounding and the COVID-19 pandemic.  The report includes financial statements, risk factors (including legal and regulatory matters),  management's discussion and analysis, significant accounting policies, and auditor reports.  It also addresses  critical audit matters and executive compensation (information deferred to the 2021 Proxy Statement)."
+    },
+    {
+        "file_name": "BOEING_2021_10K.pdf",
+        "description": "This Boeing 10-K report details the company's 2021 performance and financial position.  It covers business segments (Commercial Airplanes, Defense, Space & Security, Global Services, Boeing Capital), significant risks (737 MAX, market conditions, liquidity),  financial results, and accounting policies.  The report also includes detailed financial statements, risk factors, legal proceedings, and executive compensation information.  Finally, it provides a comprehensive description of Boeing's Executive Supplemental Savings Plan."
+    },
+    {
+        "file_name": "BOEING_2022_10K.pdf",
+        "description": "This is Boeing's 2022 Form 10-K filing with the SEC.  The report details Boeing's business segments (Commercial Airplanes, Defense, Space & Security, Global Services, Boeing Capital), financial performance (including significant losses), operational risks, and legal proceedings.  It also includes detailed financial statements, accounting policies, executive compensation, and a description of Boeing's executive supplemental savings plan, along with auditor opinions and certifications.  The report highlights challenges faced by the company and its financial outlook."
     }
 ]
