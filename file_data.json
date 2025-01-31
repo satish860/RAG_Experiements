@@ -450,5 +450,169 @@
     {
         "file_name": "BOEING_2022_10K.pdf",
         "description": "This is Boeing's 2022 Form 10-K filing with the SEC.  The report details Boeing's business segments (Commercial Airplanes, Defense, Space & Security, Global Services, Boeing Capital), financial performance (including significant losses), operational risks, and legal proceedings.  It also includes detailed financial statements, accounting policies, executive compensation, and a description of Boeing's executive supplemental savings plan, along with auditor opinions and certifications.  The report highlights challenges faced by the company and its financial outlook."
+    },
+    {
+        "file_name": "WALMART_2015_10K.pdf",
+        "description": "This Walmart 10-K filing (FY2015) details the company's performance across its three segments: Walmart U.S., Walmart International, and Sam's Club.  It includes financial statements, management's discussion and analysis, risk factors (economic, competitive, legal, etc.), corporate governance information, and executive compensation.  Significant legal proceedings and the company's response to them are also discussed, along with detailed accounting policies and notes.  The filing incorporates information by reference from the Annual Report and Proxy Statement.  Exhibits include subsidiary listings, certifications from executives, and accounting firm consents."
+    },
+    {
+        "file_name": "WALMART_2016_10K.pdf",
+        "description": "This Walmart 2016 Form 10-K details the company's performance across its U.S., International, and Sam's Club segments, highlighting financial results, operational strategies, and competitive landscapes.  Significant risk factors are discussed, including e-commerce challenges, labor costs, international expansion hurdles, and legal proceedings.  The report includes audited financial statements, management's discussion and analysis, corporate governance information, and details of stock incentive and deferred compensation plans.  Executive certifications and a comprehensive exhibit index complete the filing."
+    },
+    {
+        "file_name": "WALMART_2017_10K.pdf",
+        "description": "This Walmart 10-K filing (fiscal year 2017) details the company's performance across its U.S., International, and Sam's Club segments.  It includes a business overview, segment-specific operational details, risk factors (including cybersecurity and legal concerns), financial statements, management's discussion and analysis, and corporate governance information.  Significant portions are dedicated to Walmart's 2015 Stock Incentive Plan, outlining various award types, terms, and conditions, including restricted stock, stock options and performance units.  The filing also includes executive compensation details and audit reports."
+    },
+    {
+        "file_name": "WALMART_2018_10K.pdf",
+        "description": "This Walmart Inc. Form 10-K annual report (fiscal year 2018) details the company's business overview, segment performance (Walmart U.S., International, Sam's Club), financial results, risk factors, and  management's discussion and analysis.  It includes consolidated financial statements, notes to the statements, and disclosures on legal proceedings, accounting policies, and executive compensation.  The report also contains several employee benefit plans including stock purchase, incentive, and deferred compensation plans for officers and directors.  Certifications by the CEO and CFO are included, along with subsidiary information and auditor consent."
+    },
+    {
+        "file_name": "WALMART_2019_10K.pdf",
+        "description": "This Walmart Inc. 10-K report details the company's fiscal year 2019 performance across its U.S., International, and Sam's Club segments.  It includes business overview, risk factors (financial, legal, and regulatory), financial statements, and management discussion & analysis.  Significant legal proceedings, including FCPA investigations and opiate litigation, are disclosed.  The report also outlines Walmart's deferred compensation plan and includes certifications from its CEO and CFO affirming the accuracy and compliance of the filing."
+    },
+    {
+        "file_name": "WALMART_2020_10K.pdf",
+        "description": "This Walmart Inc. document (likely a 10-K filing) details the company's fiscal year 2020 performance.  It covers business operations across its segments (Walmart U.S., Walmart International, Sam's Club), financial statements, risk factors (including legal and financial), executive leadership, and significant accounting policies.  The report also includes information on intellectual property, employee information,  shareholder data, and various legal proceedings.  Finally, it contains details on stock incentive plans, including restricted stock and performance-based units, along with employee separation agreements."
+    },
+    {
+        "file_name": "WALMART_2021_10K.pdf",
+        "description": "This Walmart Inc. 10-K filing reports fiscal year 2021 results, covering business operations across its U.S., International, and Sam's Club segments.  It details financial performance, risk factors (including legal and financial),  and significant accounting policies. The report includes consolidated financial statements, management's discussion and analysis, information on executive compensation and corporate governance, and a separation agreement with Marc Lore.  Key financial metrics, capital expenditures, and liquidity are also presented.  The filing concludes with certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "WALMART_2022_10K.pdf",
+        "description": "This Walmart Inc. 10-K filing reports fiscal year 2022 financial results, including segment performance (Walmart U.S., International, Sam's Club), and key metrics.  It details significant risks, such as cybersecurity threats, legal proceedings (including opioid litigation), and market risks.  The report includes audited financial statements, accounting policies, executive compensation information, and a description of the Walmart Deferred Compensation Matching Plan and stock incentive plans, along with country-specific provisions.  Finally, certifications and exhibits are included."
+    },
+    {
+        "file_name": "WALMART_2023_10K.pdf",
+        "description": "This Walmart Inc. 10-K report details the company's fiscal year 2023 performance and operations.  It covers business segments (Walmart U.S., International, Sam's Club), risk factors (operational, cybersecurity, legal), financial statements, and management's discussion and analysis.  Significant accounting policies are explained, along with liquidity and capital resources.  The report also includes information on executive compensation, corporate governance, and several deferred compensation plans for executives.  Finally, it provides certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "WALMART_2023_annualreport.pdf",
+        "description": "Walmart's 2023 Annual Report details the company's financial performance, strategic initiatives, and operational highlights.  It includes CEO commentary, segment performance reviews (Walmart U.S., International, Sam's Club),  a discussion of risk factors (including opioid litigation), financial statements, and independent auditor reports.  The report also addresses ESG priorities, human capital management, and corporate governance, providing comprehensive information for stakeholders.  Key financial data, including net sales, income, and cash flow, are presented, along with notes to the financial statements."
+    },
+    {
+        "file_name": "WALMART_2024Q1_10Q.pdf",
+        "description": "This Walmart Inc. 10-Q report (ending April 30, 2023) details the company's financial performance.  It includes condensed consolidated financial statements (income, comprehensive income, balance sheets, cash flows, shareholder equity),  notes to the statements, management's discussion and analysis, segment breakdowns (U.S., International, Sam's Club), liquidity and capital resources information, debt and dividend details,  share repurchases, legal proceedings (including opioid litigation), risk factors, and certifications.  Key performance indicators, return on assets/investment, and free cash flow are also analyzed."
+    },
+    {
+        "file_name": "VERIZON_2015_10K.pdf",
+        "description": "This document is Verizon Communications Inc.'s annual report, covering the fiscal year 2015.  It details the company's performance across its Wireless and Wireline segments, including financial results (revenues, expenses, cash flow), operational strategies, risk factors, and regulatory environment.  Significant transactions like the AOL acquisition and spectrum deals are discussed.  The report includes audited consolidated financial statements, management's discussion and analysis, and certifications from the CEO and CFO.  Key financial metrics and future outlook are also provided."
+    },
+    {
+        "file_name": "VERIZON_2016_10K.pdf",
+        "description": "This is Verizon Communications Inc.'s 2016 annual report (Form 10-K).  It details the company's business operations, including its wireless and wireline segments, service offerings, technology, marketing strategies, and financial performance.  The report covers financial statements, risk factors, legal proceedings, executive compensation, and corporate governance.  Significant accounting policies, acquisitions, divestitures, and debt are explained.  Independent auditor reports and certifications from the CEO and CFO are included."
+    },
+    {
+        "file_name": "VERIZON_2017_10K.pdf",
+        "description": "This document is Verizon Communications Inc.'s 2017 10-K report.  It details the company's business overview, including its wireless and wireline segments, strategic transactions, competitive landscape, and regulatory environment.  Significant financial information is presented, including debt levels, risk factors, and financial statements.  The report also covers executive compensation, legal proceedings, and internal controls.  Finally, it includes exhibits like the Executive Deferral Plan, aircraft leasing agreements, and certifications of the CEO and CFO."
+    },
+    {
+        "file_name": "VERIZON_2018_10K.pdf",
+        "description": "This Verizon Communications Inc. Form 10-K report (2018) details the company's business overview, encompassing its wireless and wireline segments, strategic transactions, network technology, and media services.  It includes financial statements, management's discussion and analysis, risk factors, legal proceedings, and information on executive compensation and internal controls.  Significant acquisitions like Yahoo! and AOL are discussed, along with detailed financial data and notes to the financial statements.  The report concludes with certifications and power of attorney documents."
+    },
+    {
+        "file_name": "VERIZON_2019_10K.pdf",
+        "description": "This Verizon Communications Inc. 10-K filing details the company's 2019 performance and financial condition.  It covers business operations (wireless, wireline, Verizon Media), competitive landscape, risk factors, and financial statements.  Key segments include management's discussion and analysis, consolidated financial statements, notes to the financial statements explaining accounting policies and significant transactions (including acquisitions and divestitures), and certifications from executive officers.  The report also addresses regulatory compliance, internal controls, and market risks."
+    },
+    {
+        "file_name": "VERIZON_2020_10K.pdf",
+        "description": "This Verizon Communications Inc. 2020 Form 10-K report details the company's financial performance, business operations, and risk factors.  It covers business segments (Consumer and Business Groups), competitive landscape, network infrastructure (including 5G), human capital, and regulatory environment.  The report includes detailed financial statements, accounting policies, discussion of the COVID-19 pandemic's impact, debt obligations, and executive certifications,  along with disclosures on market risk and executive compensation.  Significant acquisitions and divestitures are also reported."
+    },
+    {
+        "file_name": "VERIZON_2021_10K.pdf",
+        "description": "Verizon Communications Inc.'s 2021 Form 10-K details its financial performance and business operations.  The report covers business segments (Consumer and Business Groups), service offerings, competitive landscape, network infrastructure (including 5G), financial statements (income, balance sheet, cash flow), and significant accounting policies.  It also includes risk factors, legal proceedings, executive compensation, and certifications by the CEO and CFO affirming the accuracy of the information.  The TracFone acquisition is a key focus."
+    },
+    {
+        "file_name": "VERIZON_2022_10K.pdf",
+        "description": "This is Verizon Communications Inc.'s 2022 Form 10-K annual report.  It details the company's business operations, financial performance, and risk factors.  Key sections cover the Consumer and Business segments' revenues, expenses, and operating metrics;  a comprehensive analysis of financial statements and cash flows;  information on debt,  equity, and employee benefits; and disclosures regarding executive compensation, corporate governance, and accounting practices.  The report also includes certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "ULTABEAUTY_2023Q1_EARNINGS.pdf",
+        "description": "Ulta Beauty's first-quarter fiscal 2023 results announcement details strong financial performance, including net sales, comparable sales, and earnings per share.  The report provides a comprehensive overview of the company's financial highlights, balance sheet, and updated fiscal 2023 outlook.  Consolidated statements of income, balance sheets, and cash flows are included, along with information on store updates and sales by category.  A conference call announcement and forward-looking statements complete the document."
+    },
+    {
+        "file_name": "ULTABEAUTY_2023Q2_EARNINGS.pdf",
+        "description": "Ulta Beauty's fiscal 2023 second-quarter results announcement details strong financial performance, including net sales, comparable sales, and earnings per share.  The report provides detailed financial statements (income statements, balance sheet, cash flow statement) for both the quarter and the first six months.  It also covers store updates, a fiscal 2023 outlook, and includes information about upcoming conference calls and investor contacts.  Sales by category are analyzed, and forward-looking statements are included with the appropriate disclaimers."
+    },
+    {
+        "file_name": "ULTABEAUTY_2023Q4_EARNINGS.pdf",
+        "description": "This document presents Ulta Beauty's Fiscal 2022 fourth-quarter and full-year financial results, including net sales, comparable sales, and profitability.  It details key financial metrics, balance sheet highlights, store expansion plans, and a 2023 outlook.  Financial statements (income statement, balance sheet, and cash flow statement) are included as exhibits, along with information on store updates and sales by category.  A conference call to discuss the results is announced, and forward-looking statements and risk factors are disclosed."
+    },
+    {
+        "file_name": "ULTABEAUTY_2023_10K.pdf",
+        "description": "This Ulta Beauty Annual Report (Form 10-K) details the company's fiscal year 2023 performance, business overview, and future outlook.  It includes financial statements, risk factors (e.g., competition, economic conditions, COVID-19 impact), business strategy,  market analysis, operational details (supply chain, staffing),  sustainability initiatives, and corporate governance information.  Significant accounting policies and executive compensation are also disclosed, along with certifications and statements from independent auditors.  The report provides a comprehensive view of Ulta Beauty's financial health and business operations."
+    },
+    {
+        "file_name": "ULTABEAUTY_2023_8K_dated-2023-06-07.pdf",
+        "description": "This Form 8-K filing from Ulta Beauty, Inc. details the results of their 2023 annual meeting of stockholders.  Key actions included amendments to the company's bylaws (e.g., director removal, voting standards), declassification of the board, and ratification of Ernst & Young LLP.  The filing also includes the amended Certificate of Incorporation and Bylaws, outlining corporate governance, director nominations (proxy access), officer responsibilities, indemnification, and general operational procedures.  Voting results for each proposal are provided."
+    },
+    {
+        "file_name": "ULTABEAUTY_2023_8K_dated-2023-09-18.pdf",
+        "description": "This Ulta Beauty Form 8-K filing announces Kecia L. Steelman's appointment as President and Chief Operating Officer.  The document includes details of the appointment (Item 5.02), a related press release (Exhibit 99.1), a list of financial statements and exhibits (Item 9.01), and the required signatures.  Contact information for investors and media is also provided.  The filing primarily focuses on the leadership change within Ulta Beauty."
+    },
+    {
+        "file_name": "ULTABEAUTY_2024Q1_EARNINGS.pdf",
+        "description": "Ulta Beauty's first-quarter 2023 financial results announcement details strong financial performance, including net sales, comparable sales, and net income.  The report provides a detailed breakdown of financial highlights, balance sheet information, and a store update.  It offers a fiscal 2023 outlook and includes consolidated financial statements (income, balance sheet, and cash flow).  A conference call announcement and company description are also provided, along with a disclaimer about forward-looking statements.  Sales are analyzed by category, showing year-over-year comparisons."
+    },
+    {
+        "file_name": "ULTABEAUTY_2024Q2_EARNINGS.pdf",
+        "description": "Ulta Beauty's announcement covers its Q2 2023 financial results, including strong sales growth and net income.  The report details key performance indicators, balance sheet information, and a revised fiscal 2023 outlook.  It also provides updates on store openings and sales by category.  The document includes financial statements (income statement, balance sheet, cash flow statement), conference call details, and a forward-looking statement disclaimer.  Finally, contact information for investors and media is provided."
+    },
+    {
+        "file_name": "SALESFORCE_2021_8K_dated-2021-07-21.pdf",
+        "description": "This Salesforce Form 8-K announces the completion of its acquisition of Slack Technologies.  The filing details the merger agreement, the conversion of Slack shares, and the resulting financial obligations, including Convertible Senior Notes.  A press release announcing the closing is included, along with exhibits such as the merger agreement and supplemental indentures.  The document also addresses forward-looking statements and associated risks.  The filing confirms the acquisition's completion and its financial implications."
+    },
+    {
+        "file_name": "SALESFORCE_2021_8K_dated-2023-01-04.pdf",
+        "description": "Salesforce's Form 8-K filing announces a restructuring plan involving workforce reductions.  The filing details associated costs and includes a letter from CEO Marc Benioff to employees addressing the changes and support offered.  The document covers the filing overview, specifics of the cost-cutting measures, the required signature, and the employee letter as Exhibit 99.1.  The overall theme is Salesforce's response to economic pressures through a significant restructuring."
+    },
+    {
+        "file_name": "SALESFORCE_2023Q3_10Q.pdf",
+        "description": "This Salesforce, Inc. 10-Q report (covering the three and nine months ended October 31, 2022) details the company's financial performance, including condensed consolidated financial statements (balance sheets, statements of operations, cash flows, and stockholders' equity).  Significant accounting policies are explained, along with revenue recognition, cost accounting, and fair value measurements.  Management's discussion and analysis covers operating segments,  attrition, liquidity, and capital resources.  Risk factors address operational, legal, financial, and market risks, including the impact of COVID-19.  Finally, the report includes certifications from the Co-CEOs and CFO."
+    },
+    {
+        "file_name": "SALESFORCE_2023_10K.pdf",
+        "description": "This Salesforce, Inc. 10-K annual report covers fiscal year 2023.  It details the company's business overview, growth strategy, financial performance (including revenues, expenses, and cash flow), risk factors (market competition, regulatory compliance, financial risks), and management information.  Significant accounting policies and estimates are explained, along with consolidated financial statements and auditor's reports.  The report also includes exhibits outlining stock information, executive compensation, and settlement agreements."
+    },
+    {
+        "file_name": "SALESFORCE_2024Q1_EARNINGS.pdf",
+        "description": "This document reports Salesforce's strong first-quarter fiscal year 2024 results, including revenue, earnings per share, and operating margin.  It provides detailed guidance for Q2 and the full fiscal year, along with a breakdown of GAAP and non-GAAP financial data.  Condensed financial statements (income statement, balance sheet, and cash flow statement) are included, as well as revenue analysis by geography, headcount information, and explanations of non-GAAP measures.  The document also outlines product releases and conference call details, concluding with a safe harbor statement."
+    },
+    {
+        "file_name": "SALESFORCE_2024Q2_EARNINGS.pdf",
+        "description": "This Salesforce document reports strong Q2 FY24 financial results, including revenue, earnings per share, and operating margins.  It provides detailed financial guidance for Q3 FY24 and the full year,  breaking down GAAP and non-GAAP metrics.  The report includes condensed consolidated financial statements (income statement, balance sheet, cash flow statement),  product release information,  a safe harbor statement, and explanations of non-GAAP measures and key metrics like remaining performance obligations.  Revenue is disaggregated by service and geography."
+    },
+    {
+        "file_name": "PG_E_2015_10K.pdf",
+        "description": "This Form 10-K report covers PG&E Corporation and its subsidiary, Pacific Gas and Electric Company (PG&E), for the year ending December 31, 2015.  It details the company's business operations, regulatory environment, financial performance, and significant risk factors, including ongoing legal and regulatory investigations and environmental liabilities.  The report includes financial statements, management's discussion and analysis, and disclosures related to executive compensation, accounting policies, and risk management.  Significant attention is given to legal proceedings, especially those stemming from the San Bruno pipeline accident and the Butte Fire."
+    },
+    {
+        "file_name": "PG_E_2016_10K.pdf",
+        "description": "This 10-K report for PG&E Corporation details its 2016 financial performance and operations, including electricity and natural gas utilities.  It covers regulatory environments, risk factors (especially environmental and legal), financial statements, executive compensation, and corporate governance.  Significant attention is given to legal proceedings, including litigation related to the Butte fire and environmental remediation liabilities.  The report also includes detailed notes to the financial statements,  auditor reports, and certifications from executive officers."
+    },
+    {
+        "file_name": "PG_E_2017_10K.pdf",
+        "description": "This is PG&E Corporation's 2017 10-K report, detailing its business operations, financial performance, and risk factors.  Sections cover its electricity and natural gas utilities, regulatory environment (including wildfire liabilities and environmental regulations), and financial statements.  Significant attention is given to wildfire-related risks and legal proceedings.  The report also includes information on executive compensation, corporate governance, and the company's long-term incentive plan.  Consolidated financial statements for PG&E Corporation and its subsidiary, Pacific Gas and Electric Company, are included."
+    },
+    {
+        "file_name": "PG_E_2018_10K.pdf",
+        "description": "This PG&E Corporation and Pacific Gas and Electric Company 10-K filing details business operations, regulatory environment (including CPUC and FERC regulations), and financial performance for 2016-2018.  Significant attention is given to wildfire-related liabilities, Chapter 11 bankruptcy proceedings, and related legal and regulatory risks.  The report includes consolidated financial statements,  notes to the statements, executive compensation, and certifications, reflecting substantial uncertainty regarding the companies' future viability."
+    },
+    {
+        "file_name": "PG_E_2019_10K.pdf",
+        "description": "This document is PG&E Corporation's 2019 10-K report, heavily focused on the company's Chapter 11 bankruptcy filing and its impact on financials.  It details PG&E's business operations (electricity and natural gas), regulatory environment (CPUC, FERC, etc.), significant wildfire-related liabilities and litigation,  risk factors, and financial statements.  The report includes extensive disclosures on wildfire-related costs,  securitization efforts (SB 901), and the proposed plan of reorganization, along with numerous exhibits and amendments related to debt financing agreements."
+    },
+    {
+        "file_name": "PG_E_2020_10K.pdf",
+        "description": "This is PG&E Corporation's 2020 Form 10-K report, covering its financial statements and operations, including its subsidiary, Pacific Gas and Electric Company.  The report details the company's emergence from Chapter 11 bankruptcy,  focuses on wildfire-related liabilities and regulatory compliance, and includes discussions of ratemaking, environmental regulations,  risk factors (including wildfire risk and COVID-19 impact), executive compensation, and  auditor's reports.  Extensive financial statements and notes, as well as supporting exhibits and legal agreements related to financing and asset sales, are included."
+    },
+    {
+        "file_name": "PG_E_2021_10K.pdf",
+        "description": "This document is PG&E Corporation's 2021 10-K report, detailing its financial performance and regulatory environment.  It covers business operations, risk factors (especially wildfire liabilities and regulatory compliance), financial statements, and notes.  Significant sections address regulatory oversight (CPUC, FERC, NRC),  extensive wildfire-related litigation and liabilities,  debt, and executive compensation.  The report also includes numerous exhibits, including credit agreements and executive employment contracts."
+    },
+    {
+        "file_name": "PG_E_2022_10K.pdf",
+        "description": "This is PG&E Corporation's 2022 Form 10-K annual report.  It details the company's business operations, including electricity and natural gas services, regulatory environment (with heavy emphasis on wildfire risks and liabilities), financial condition (significant debt), and risk factors.  The report includes audited financial statements, management's discussion and analysis,  information on executive compensation, corporate governance, and various exhibits including agreements and plans.  Significant attention is given to wildfire-related legal proceedings, mitigation efforts, and financial implications."
     }
 ]
