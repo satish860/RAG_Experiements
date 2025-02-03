@@ -738,5 +738,37 @@
     {
         "file_name": "COSTCO_2023_8K_dated-2023-08-16.pdf",
         "description": "Costco Wholesale Corporation's Form 8-K filing announces the election of Helena Buonanno Foulkes to its Board of Directors.  The filing details her appointment, compensation, and committee assignments.  It also includes a press release announcing the election, highlighting Foulkes' background and statements from the Chairman.  Finally, the filing lists related exhibits and includes the required signature."
+    },
+    {
+        "file_name": "CVSHEALTH_2015_10K.pdf",
+        "description": "This 10-K report for CVS Health Corporation details its 2015 performance and financial condition.  It covers business operations across Pharmacy Services, Retail/LTC, and Corporate segments, highlighting key risks, including competition and regulatory changes.  The report includes financial statements, management's discussion and analysis, and information on executive compensation and corporate governance.  Furthermore, it outlines several employee benefit plans, including a deferred compensation plan, stock purchase plan, and management incentive plans, along with a severance plan for non-store employees.  The report concludes with certifications under the Sarbanes-Oxley Act."
+    },
+    {
+        "file_name": "CVSHEALTH_2016_10K.pdf",
+        "description": "This document is CVS Health Corporation's annual report, encompassing business operations, financial data, and risk factors.  It details the company's three segments (Pharmacy Services, Retail/LTC, and Corporate), regulatory environment, and significant risks.  The report includes consolidated financial statements, management's discussion and analysis, and information on executive compensation, governance, and various employee incentive plans.  A significant portion is dedicated to a detailed credit agreement outlining loan terms, covenants, and responsibilities.  Finally, it includes certifications required by the Sarbanes-Oxley Act."
+    },
+    {
+        "file_name": "CVSHEALTH_2017_10K.pdf",
+        "description": "This document is CVS Health Corporation's financial report for the year ending December 31, 2017.  It details the company's business operations across its Pharmacy Services, Retail/LTC, and Corporate segments, including financial performance, risk factors (regulatory, market, economic, and operational), and significant accounting policies.  It also covers corporate governance, executive compensation, and audited financial statements (income, comprehensive income, balance sheet, cash flows, and shareholder equity), along with notes to the financial statements and various certifications.  The Aetna acquisition is a recurring theme, with associated risks and financial implications discussed."
+    },
+    {
+        "file_name": "CVSHEALTH_2018_10K.pdf",
+        "description": "This 10-K report covers CVS Health Corporation's fiscal year 2018, detailing its business operations across Pharmacy Services, Retail/LTC, and Health Care Benefits segments (following the Aetna acquisition).  Significant attention is given to regulatory compliance, particularly concerning healthcare, insurance, and privacy laws.  The report also analyzes financial performance, including risks associated with the Aetna integration,  and includes management's discussion and analysis, financial statements, and supporting schedules, along with details of key executive compensation plans.  A substantial portion is dedicated to the Master Transaction Agreement for the Aetna acquisition."
+    },
+    {
+        "file_name": "CVSHEALTH_2019_10K.pdf",
+        "description": "This CVS Health Corporation 10-K report details its 2019 financial performance and operations across three segments: Pharmacy Services, Retail/LTC, and Health Care Benefits.  The report includes a business overview, financial statements, MD&A, risk factors (including legal and regulatory risks related to healthcare), critical accounting policies, and information on executive compensation and stock performance.  Significant attention is given to the Aetna acquisition and its impact.  The document also includes details on various deferred compensation and incentive plans, along with restrictive covenant agreements for key employees."
+    },
+    {
+        "file_name": "CVSHEALTH_2020_10K.pdf",
+        "description": "This is CVS Health Corporation's 2020 Form 10-K annual report.  It details the company's business operations across its Pharmacy Services, Retail/LTC, and Health Care Benefits segments, including the impact of COVID-19.  Significant attention is given to regulatory compliance (Medicare, Medicaid, HIPAA, etc.) and associated risks.  The report also includes financial statements, management's discussion and analysis,  risk factors, and information on executive compensation and corporate governance.  Finally, it lists subsidiaries and includes auditor certifications."
+    },
+    {
+        "file_name": "CVSHEALTH_2021_10K.pdf",
+        "description": "This is CVS Health Corporation's 2021 Form 10-K annual report.  It details the company's business overview, encompassing its three segments: Health Care Benefits, Pharmacy Services, and Retail/LTC.  The report includes financial statements, Management's Discussion and Analysis, risk factors (including COVID-19 impacts and regulatory risks), critical accounting policies, and information on executive compensation and corporate governance.  It also contains descriptions of stock options, deferred compensation plans, and severance plans.  Finally, it includes auditor reports and certifications."
+    },
+    {
+        "file_name": "CVSHEALTH_2022_10K.pdf",
+        "description": "This CVS Health Corporation 10-K filing reports 2022 financial performance across its Health Care Benefits, Pharmacy Services, and Retail/LTC segments.  It details business operations, including responses to the COVID-19 pandemic and  ESG initiatives.  Significant risk factors are outlined, encompassing regulatory compliance, competition, economic conditions, and operational challenges.  The filing includes audited consolidated financial statements, MD&A,  notes to the financials, and corporate governance information, along with required certifications."
     }
 ]
