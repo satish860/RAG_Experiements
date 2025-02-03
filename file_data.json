@@ -830,5 +830,65 @@
     {
         "file_name": "PFIZER_2023Q2_EARNINGS.pdf",
         "description": "Pfizer's second-quarter 2023 report details financial performance, including revenue breakdowns by segment,  adjusted and GAAP income statements, and capital allocation strategies.  The report compares Q2 2023 results to Q2 2022, highlighting revenue changes and operational growth.  Significant corporate developments, such as the Seagen acquisition, are discussed.  The document also includes notes on financial statements, reconciliations of GAAP to non-GAAP measures,  a geographic revenue breakdown, and disclosures regarding forward-looking statements and associated risks."
+    },
+    {
+        "file_name": "PEPSICO_2015_10K.pdf",
+        "description": "This PepsiCo, Inc. 2015 Form 10-K report details the company's business operations across six segments, distribution network, R&D efforts, and regulatory compliance.  It extensively covers risk factors, including those related to reputation, acquisitions, and employee retention.  The report provides a comprehensive financial overview, including consolidated and divisional results, liquidity analysis, and critical accounting policies.  Finally, it includes disclosures on related party transactions, debt obligations, and certifications from key executives."
+    },
+    {
+        "file_name": "PEPSICO_2016_10K.pdf",
+        "description": "This PepsiCo, Inc. annual report (Form 10-K) details the company's business overview, segment performance, and financial results for 2016 and prior years.  It includes discussions of risk factors (economic, regulatory, operational, etc.),  accounting policies,  and financial statements (income, cash flow, balance sheet).  The report also covers the company's organizational structure, brands, competitive landscape, and  executive compensation, along with extensive details on various pension and compensation plans for employees and directors."
+    },
+    {
+        "file_name": "PEPSICO_2017_10K.pdf",
+        "description": "This PepsiCo, Inc. (Form 10-K) annual report details the company's 2017 business performance and financial condition.  It covers business operations across various segments (Frito-Lay, Quaker, Beverages, international), risk factors, financial statements (including cash flow and balance sheets), and critical accounting policies.  The report also includes extensive detail on PepsiCo's executive compensation plans, including deferral programs and pension equalization plans for executives and directors, along with associated plan documents.  Finally, it includes certifications and signatures from key executives."
+    },
+    {
+        "file_name": "PEPSICO_2018_10K.pdf",
+        "description": "This PepsiCo, Inc. Form 10-K filing details the company's 2018 business performance across its global segments (Frito-Lay North America, Quaker Foods North America, North America Beverages, Latin America, Europe Sub-Saharan Africa, and Asia, Middle East and North Africa).  It includes financial statements, risk factors (cybersecurity, supply chain, climate change, etc.), a discussion of financial condition and results, and detailed information on PepsiCo's executive compensation, corporate governance, and its international retirement plans (defined benefit and defined contribution).  The document also includes the independent auditor's report and required certifications."
+    },
+    {
+        "file_name": "PEPSICO_2019_10K.pdf",
+        "description": "This PepsiCo, Inc. Form 10-K (2019) details the company's business operations, financial performance, and risk factors.  It covers PepsiCo's segments, brands, distribution, competition, and regulatory environment.  Significant attention is given to financial statements, including a detailed analysis of revenue, profits, and cash flow.  The report also includes extensive disclosures on risk factors, accounting policies, and executive compensation.  Finally, it incorporates various plan documents, including details on PepsiCo's pension and executive compensation deferral programs."
+    },
+    {
+        "file_name": "PEPSICO_2020_10K.pdf",
+        "description": "This PepsiCo, Inc. 10-K report details the company's 2020 performance, including business operations across its segments (Frito-Lay, Quaker Foods, PepsiCo Beverages), the impact of COVID-19, and its distribution network.  The report analyzes competitive landscape, risk factors (financial, operational, environmental, legal), and  financial statements (income statement, cash flow, balance sheet).  It also includes information on corporate governance, executive compensation,  and detailed descriptions of PepsiCo's debt securities and pension plans (defined benefit and contribution).  The SEC's staff had no unresolved written comments on the report."
+    },
+    {
+        "file_name": "PEPSICO_2021_10K.pdf",
+        "description": "This PepsiCo 2021 10-K report details the company's business overview, including its segments, brands, and distribution network.  It extensively covers risk factors (market, operational, financial, legal), financial performance (revenue, profit, cash flow), and accounting policies.  The report also includes information on executive compensation, corporate governance, and detailed descriptions of PepsiCo's common equity, debt securities, and two pension plans (International Retirement Plan Defined Contribution Program and PepsiCo Pension Equalization Plan).  Finally, it includes the auditor's report and required certifications."
+    },
+    {
+        "file_name": "PEPSICO_2022Q4_EARNINGS.pdf",
+        "description": "This document presents PepsiCo's financial results for the fourth quarter and full year 2022, including revenue, operating profit, and earnings per share.  It details performance across different divisions, highlighting key factors influencing results.  The report also provides 2023 financial guidance, along with consolidated financial statements (income statement, cash flow statement, balance sheet).  A significant portion explains the reconciliation of GAAP and non-GAAP financial measures, and concludes with a cautionary statement regarding forward-looking information."
+    },
+    {
+        "file_name": "PEPSICO_2022_10K.pdf",
+        "description": "This is PepsiCo's 2022 10-K report, detailing its business overview, brands, distribution, and human capital.  Significant sections cover risk factors (geopolitical, consumer preference shifts, economic conditions), financial results (revenue, operating profit by division), critical accounting policies, and liquidity.  The report also includes audited financial statements, management's discussion and analysis,  corporate governance information, and descriptions of PepsiCo's securities and various pension and compensation plans (including the PepsiCo Pension Equalization Plan and Executive Income Deferral Program)."
+    },
+    {
+        "file_name": "PEPSICO_2023Q1_EARNINGS.pdf",
+        "description": "This document presents PepsiCo's first-quarter 2023 financial results.  It details net revenue growth, earnings per share, and segment performance, providing regional breakdowns and operating profit changes.  Financial statements (income, cash flow, and balance sheet) are included, along with reconciliations of GAAP and non-GAAP measures, including organic revenue growth.  The report also offers 2023 guidance and a cautionary statement regarding forward-looking information and associated risks."
+    },
+    {
+        "file_name": "PEPSICO_2023Q2_EARNINGS.pdf",
+        "description": "This document reports PepsiCo's second-quarter and year-to-date 2023 financial results.  It details revenue growth, operating profit, and earnings per share (EPS), broken down by segment.  The report includes PepsiCo's guidance for fiscal year 2023, along with  condensed financial statements (income statement, cash flow statement, and balance sheet).  Non-GAAP measures and their reconciliation to GAAP are explained, and a cautionary statement regarding forward-looking information is included."
+    },
+    {
+        "file_name": "PEPSICO_2023_8K_dated-2023-05-05.pdf",
+        "description": "This Form 8-K filing by PepsiCo reports the results of its 2023 Annual Meeting of Shareholders.  The document includes introductory information, a list of registered securities, a detailed breakdown of shareholder votes on director elections and other proposals, and concluding signatures.  It serves as official notification of the meeting's outcome and related information to regulatory bodies."
+    },
+    {
+        "file_name": "PEPSICO_2023_8K_dated-2023-05-30.pdf",
+        "description": "This document is PepsiCo's Form 8-K filing, detailing the termination of existing and establishment of new credit agreements.  It includes a 364-Day Credit Agreement and a Five-Year Credit Agreement, both outlining terms for advances, interest rates (including SOFR), repayment, default provisions,  agent responsibilities (Citibank, N.A.),  and lender obligations.  The agreements specify conditions for effectiveness, representations, warranties, and covenants.  Numerous exhibits, including promissory notes,  assignment and assumption forms, and other related documentation, are included."
+    },
+    {
+        "file_name": "PAYPAL_2022_10K.pdf",
+        "description": "This is PayPal Holdings, Inc.'s 2022 Form 10-K annual report.  It details the company's business overview, key performance metrics, financial results, and risk factors.  Significant sections cover  revenue generation, competition, strategic initiatives, regulatory compliance (including AML and data privacy),  and financial statement analysis with accompanying notes.  The report includes audited financial statements, management's discussion and analysis, and certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "PAYPAL_2023Q2_10Q.pdf",
+        "description": "This document is PayPal Holdings, Inc.'s quarterly report (Form 10-Q) for the period ended June 30, 2023.  It presents condensed consolidated financial statements (balance sheets, income statements, cash flows, and statements of stockholders' equity), detailed notes explaining key accounting policies and significant financial aspects (revenue recognition, credit losses, debt, legal matters), and management's discussion and analysis of financial performance and condition.  The report also includes certifications from the CEO and CFO.  Key topics covered include revenue, expenses, credit losses, liquidity, risks, and regulatory matters."
     }
 ]
