@@ -425,7 +425,7 @@
     },
     {
         "file_name": "BOEING_2016_10K.pdf",
-        "description": "This Boeing 10-K report details the company's 2016 performance and financial position.  It covers business segments (Commercial Airplanes, Defense, Space & Security, Global Services, Boeing Capital), financial results, and accounting policies.  The report also includes detailed financial statements, risk factors, legal proceedings, and executive compensation information."
+        "description": "This Boeing 10-K report details the company's 2016 financial performance and business operations.  It covers business segments (Commercial Airplanes, Defense, Space & Security, Global Services & Support, Boeing Capital), financial statements, risk factors, legal proceedings, and executive compensation.  Significant accounting policies, including revenue recognition and pension plans, are explained.  The report also includes details on employee benefit plans (Supplemental Benefit Plan, Executive Layoff Benefits Plan, 2003 Incentive Stock Plan), and exhibits such as subsidiary lists and auditor's consent."
     },
     {
         "file_name": "BOEING_2017_10K.pdf",
@@ -450,5 +450,129 @@
     {
         "file_name": "BOEING_2022_10K.pdf",
         "description": "This is Boeing's 2022 Form 10-K filing with the SEC.  The report details Boeing's business segments (Commercial Airplanes, Defense, Space & Security, Global Services, Boeing Capital), financial performance (including significant losses), operational risks, and legal proceedings.  It also includes detailed financial statements, accounting policies, executive compensation, and a description of Boeing's executive supplemental savings plan, along with auditor opinions and certifications.  The report highlights challenges faced by the company and its financial outlook."
+    },
+    {
+        "file_name": "BOSTONPROPERTIES_2015_10K.pdf",
+        "description": "This is the combined 2015 Form 10-K report for Boston Properties, Inc. and its limited partnership.  The report details the company's real estate holdings, operational strategies, financial performance (including detailed income statements and balance sheets), and significant risks, including market conditions, competition, and debt financing.  It also covers corporate governance, sustainability initiatives, and compliance matters.  Financial data and analysis are presented for both the parent company and the partnership, along with auditor reports and certifications."
+    },
+    {
+        "file_name": "COCACOLA_2015_10K.pdf",
+        "description": "This is The Coca-Cola Company's 2015 10-K report.  It details the company's business operations, including its products, distribution, marketing, and competitive landscape.  Significant risk factors are outlined, followed by a comprehensive review of the company's financial statements and accounting policies.  The report includes management's discussion and analysis, notes to the financial statements, and supplementary data.  Finally, it contains corporate governance information, exhibits, and certifications, along with separation agreements and powers of attorney."
+    },
+    {
+        "file_name": "COCACOLA_2016_10K.pdf",
+        "description": "This is The Coca-Cola Company's 2016 Form 10-K filing.  The report details the company's business overview, including its operating segments, distribution system, marketing, and investments.  Significant risk factors are outlined, along with a comprehensive analysis of the company's financial condition and results of operations.  Consolidated financial statements, notes, and supplementary data are included, accompanied by management's discussion and analysis.  Finally, the report contains certifications and powers of attorney."
+    },
+    {
+        "file_name": "COCACOLA_2017_10K.pdf",
+        "description": "This is The Coca-Cola Company's 2017 Form 10-K annual report.  It details the company's business overview, including operations, marketing, and supply chain.  Significant sections cover risk factors, financial statements (income, cash flow, balance sheet), accounting policies, and disclosures regarding market risks,  pension plans, and executive compensation.  The report also includes auditor's opinions, certifications, powers of attorney, and employment offer letters.  Finally, it lists subsidiaries and exhibits supporting the financial data."
+    },
+    {
+        "file_name": "COCACOLA_2018_10K.pdf",
+        "description": "This is The Coca-Cola Company's 10-K report for the fiscal year ending December 31, 2018.  The report covers the company's business overview, including its operations, brands, and risk factors (extensive discussion of financial, operational, and regulatory risks).  Detailed financial statements, including income statements, balance sheets, and cash flow statements, are provided, along with critical accounting policies and segment information.  The report also includes information on corporate governance, executive compensation, and certifications.  Numerous exhibits and supporting documentation are appended."
+    },
+    {
+        "file_name": "COCACOLA_2019_10K.pdf",
+        "description": "This is The Coca-Cola Company's 2019 10-K report.  It details the company's business overview, including products, distribution, and bottling operations.  Significant sections cover risk factors (legal, environmental, economic), financial performance (revenues, expenses, cash flow), and accounting policies.  The report includes audited financial statements, notes, and independent auditor opinions, along with information on executive compensation, stock-based compensation and debt securities.  Several exhibits, including powers of attorney and certifications, are appended."
+    },
+    {
+        "file_name": "COCACOLA_2020_10K.pdf",
+        "description": "This is The Coca-Cola Company's 2020 10-K report, encompassing business overview, operating segments, distribution, marketing, and risk factors.  It details financial statements (income, cash flow, balance sheet), accounting policies, and significant events, including the impact of COVID-19.  The report also covers legal matters, litigation, market risk, executive compensation, and corporate governance, concluding with auditor opinions, certifications, and exhibits.  Extensive detail is provided on debt instruments and pension plans."
+    },
+    {
+        "file_name": "COCACOLA_2021_10K.pdf",
+        "description": "This document is The Coca-Cola Company's 2021 Annual Report (Form 10-K).  It details the company's business overview, including products, distribution, and investments.  Significant sections cover risk factors (operational, financial, regulatory, and ESG), Management's Discussion and Analysis of financial condition and results of operations, and consolidated financial statements.  Extensive notes clarify accounting policies and significant transactions.  Finally, the report includes corporate governance information, legal proceedings, and exhibits."
+    },
+    {
+        "file_name": "COCACOLA_2022_10K.pdf",
+        "description": "This is Coca-Cola's 2022 Form 10-K annual report.  It details the company's business overview, including operations, distribution, and marketing.  Significant sections cover risk factors (operational, regulatory, financial, environmental),  management's discussion and analysis of financial condition,  consolidated financial statements,  significant accounting policies, and notes to the financial statements.  The report also includes certifications from key executives, powers of attorney, and exhibits."
+    },
+    {
+        "file_name": "CORNING_2015_10K.pdf",
+        "description": "This document is a comprehensive report encompassing various aspects of multiple companies, primarily focusing on Corning and Gilead.  It details financial performance (including statements, ratios, and key metrics), operational strategies, risk management, executive leadership, significant accounting policies, and legal proceedings.  Sections also cover acquisitions, subsidiaries,  employee benefits, and various exhibits and agreements.  The document blends financial reporting with operational and strategic overviews across different time periods."
+    },
+    {
+        "file_name": "CORNING_2016_10K.pdf",
+        "description": "This is Corning Incorporated's 2016 annual report (Form 10-K).  It details the company's performance across its five business segments (Display Technologies, Optical Communications, Environmental Technologies, Specialty Materials, and Life Sciences), including financial results,  investments, and risk factors.  The report also covers corporate governance, executive biographies, legal matters, accounting policies, financial statements, and certifications required by the Sarbanes-Oxley Act.  Significant accounting estimates and  details on equity investments (including Dow Corning) are included."
+    },
+    {
+        "file_name": "CORNING_2017_10K.pdf",
+        "description": "Corning Incorporated's 2017 Form 10-K details the company's performance across its five segments (Display Technologies, Optical Communications, Environmental Technologies, Specialty Materials, and Life Sciences).  It includes business overview, risk factors, financial highlights (including net sales, income, and segment performance),  management's discussion and analysis,  consolidated financial statements, notes to the financial statements, and various certifications and exhibits.  The report also covers share repurchase programs, accounting policies, and key risks."
+    },
+    {
+        "file_name": "CORNING_2018_10K.pdf",
+        "description": "This document is Corning Incorporated's annual report, covering its 2018 performance.  It details the company's business segments (Display Technologies, Optical Communications, Specialty Materials, Environmental Technologies, and Life Sciences), financial results, risk factors, and corporate governance.  Significant attention is given to segment-specific financial performance analysis,  accounting policies, and the impact of the 2017 Tax Act.  The report includes audited financial statements, management's discussion and analysis, and certifications under the Sarbanes-Oxley Act."
+    },
+    {
+        "file_name": "CORNING_2019_10K.pdf",
+        "description": "This document is Corning Incorporated's annual report, covering the year 2019.  It details the company's business segments (Display Technologies, Optical Communications, Specialty Materials, Environmental Technologies, Life Sciences), financial performance (including net sales, income, and segment breakdowns),  risk factors, legal proceedings, and shareholder information.  The report also includes audited financial statements, notes to the financial statements, management's discussion and analysis, and certifications from the CEO and CFO.  Significant accounting policies and corporate governance information are also presented."
+    },
+    {
+        "file_name": "CORNING_2020_10K.pdf",
+        "description": "This Corning Incorporated 2020 Annual Report (Form 10-K) details the company's performance across its five segments: Display Technologies, Optical Communications, Specialty Materials, Environmental Technologies, and Life Sciences.  It includes business overviews, competitive analysis, financial statements (income, balance sheet, cash flow), risk factors, management discussions, and disclosures on accounting policies, internal controls, and corporate governance.  Significant accounting estimates and critical audit matters are also addressed, along with executive certifications and auditor's reports.  The report provides a comprehensive picture of Corning's financial and operational status for 2020."
+    },
+    {
+        "file_name": "CORNING_2021_10K.pdf",
+        "description": "This document is Corning Incorporated's annual report, providing a comprehensive overview of the company's performance in 2021.  It covers business segments (Display Technologies, Optical Communications, etc.), competitive landscape,  financial results (including income statements, balance sheets, and cash flows),  risk factors, corporate governance, and executive compensation.  Detailed financial analysis, segment performance breakdowns, and notes to the consolidated financial statements are included, along with certifications from the CEO and CFO.  The report also addresses  legal matters, intellectual property, and human capital management."
+    },
+    {
+        "file_name": "CORNING_2022_10K.pdf",
+        "description": "This is Corning Incorporated's 2022 Form 10-K annual report.  It details the company's business segments (Optical Communications, Display Technologies, Specialty Materials, Environmental Technologies, and Life Sciences), competitive landscape, financial performance (including segment analysis and core performance measures), risk factors, executive compensation, and corporate governance.  The report also includes audited financial statements, significant accounting policies, and plan documents for employee supplemental investment and executive pension plans.  CEO and CFO certifications are included."
+    },
+    {
+        "file_name": "CORNING_2023Q2_10Q.pdf",
+        "description": "This is Corning Incorporated's unaudited Form 10-Q quarterly report for the period ending June 30, 2023.  The report details the company's financial performance, including consolidated statements of income, comprehensive income, balance sheets, and cash flows.  Revenue by product line, segment information, and management's discussion and analysis are provided.  Significant accounting policies, risk factors,  legal proceedings, share-based compensation, and market risk disclosures are also included.  The report is certified by the CEO and CFO."
+    },
+    {
+        "file_name": "COSTCO_2015_10K.pdf",
+        "description": "This document is Costco Wholesale Corporation's annual report.  It details the company's business operations, financial performance (including income statements, balance sheets, and cash flow statements), risk factors, and significant accounting policies.  It also includes information on management, executive compensation, legal proceedings, and stock information.  Finally, it contains audited financial statements, certifications by executives, and various exhibits."
+    },
+    {
+        "file_name": "COSTCO_2016_10K.pdf",
+        "description": "This is Costco Wholesale Corporation's 10-K report for the fiscal year ending August 28, 2016.  The report details Costco's business operations, financial performance (including income statement, balance sheet, and cash flow statement), risk factors, and corporate governance.  It includes management's discussion and analysis of financial condition and results of operations, audited financial statements, and certifications by key executives.  The report also covers  stockholder information, legal proceedings, and significant accounting policies."
+    },
+    {
+        "file_name": "COSTCO_2017_10K.pdf",
+        "description": "This document is Costco Wholesale Corporation's 10-K filing, a comprehensive annual report.  It details Costco's business operations, including its membership model and competitive landscape.  Significant sections cover risk factors, financial performance (including income statements, balance sheets, and cash flows for fiscal year 2017),  management's discussion and analysis, and accounting disclosures.  The report also includes audited financial statements, management certifications, and independent auditor opinions.  Finally, it provides details on legal proceedings, properties, and executive officers."
+    },
+    {
+        "file_name": "COSTCO_2018_10K.pdf",
+        "description": "This document is Costco Wholesale Corporation's 10-K report for fiscal year 2018.  It details Costco's business operations, including its membership model and warehouse operations.  The report includes financial statements (balance sheets, income statements, cash flows),  management's discussion and analysis of financial performance, risk factors,  legal proceedings, and information on executive compensation and corporate governance.  Key financial data, such as net sales, gross margin, and membership statistics, are presented and analyzed.  The report also includes certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "COSTCO_2019_10K.pdf",
+        "description": "This is Costco Wholesale Corporation's 10-K filing, a comprehensive annual report covering fiscal year 2019.  It details Costco's business operations, financial performance, risk factors, and corporate governance.  The report includes financial statements (balance sheets, income statements, cash flows), management's discussion and analysis, information on membership, employee relations, and legal proceedings.  It also addresses risk factors, accounting policies, and internal controls, along with certifications from the CEO and CFO.  Finally, it includes exhibits and supplemental data."
+    },
+    {
+        "file_name": "COSTCO_2020_10K.pdf",
+        "description": "This is Costco Wholesale Corporation's 2020 Annual Report (Form 10-K).  It details Costco's business overview, including its membership model and operational strategies, financial performance (income statement, balance sheet, cash flow), risk factors, and significant accounting policies.  The report also includes information on the company's properties, legal proceedings,  liquidity, and stock market performance, along with management's discussion and analysis of financial results.  Finally, it contains certifications from the CEO and CFO regarding the report's accuracy and compliance."
+    },
+    {
+        "file_name": "COSTCO_2021_10K.pdf",
+        "description": "This document is Costco Wholesale Corporation's 10-K report for fiscal year 2021.  It details Costco's business operations, including membership warehouse and e-commerce activities, financial performance (net sales, comparable sales, profitability), risk factors, and financial statements.  The report also covers membership information, human capital, competition, legal matters, stock repurchases, and corporate governance.  Consolidated financial statements, including balance sheets, income statements, and cash flow statements, are provided along with accompanying notes and disclosures.  Finally, executive certifications of compliance are included."
+    },
+    {
+        "file_name": "COSTCO_2022_10K.pdf",
+        "description": "This document is Costco Wholesale Corporation's 2022 Form 10-K annual report.  It details Costco's business model, financial performance (including net sales, membership fees, and cash flows), risk factors, and financial statements for fiscal year 2022.  The report also covers its properties, legal proceedings, stock information, share repurchase programs, executive compensation (referenced), and corporate governance.  Financial statements are included, along with auditor reports and exhibits.  The report covers accounting policies, market risk disclosures, and internal controls."
+    },
+    {
+        "file_name": "COSTCO_2023Q1_EARNINGS.pdf",
+        "description": "Costco Wholesale Corporation's first-quarter fiscal year 2023 (ended November 20, 2022) results are reported, including net sales, comparable sales, and net income.  Detailed financial highlights, such as warehouse operations and net income, are presented alongside forward-looking statements.  Consolidated statements of income and balance sheets provide a comprehensive financial overview for the period, comparing figures to the previous year (ended November 21, 2021).  The document offers a complete picture of Costco's financial performance during the first quarter."
+    },
+    {
+        "file_name": "COSTCO_2023Q3_EARNINGS.pdf",
+        "description": "This Costco Wholesale Corporation news release announces fiscal year 2023 third-quarter and year-to-date operating results.  It highlights key financial metrics including net sales, comparable sales, and net income, providing both summaries and detailed consolidated statements of income and balance sheets.  Forward-looking statements and associated risks are disclosed, along with contact information for inquiries.  The document covers the 12 weeks and 36 weeks ended May 7, 2023, and comparative data from the prior year."
+    },
+    {
+        "file_name": "COSTCO_2023_8K_dated-2023-01-19.pdf",
+        "description": "This Form 8-K filing from Costco Wholesale Corporation announces a quarterly cash dividend and the reauthorization of its stock repurchase program.  The filing includes details on the dividend's amount and payment date,  a press release outlining both announcements, and supporting exhibits.  The document also provides standard reporting information such as registrant details and signatures.  The press release contains operational statistics and forward-looking statements."
+    },
+    {
+        "file_name": "COSTCO_2023_8K_dated-2023-08-09.pdf",
+        "description": "Costco Wholesale Corporation's Form 8-K filing reports amendments to its bylaws, effective August 9, 2023.  Key changes involve shareholder nominations and director indemnification.  The filing also announces a quarterly cash dividend.  The amended bylaws, included as an exhibit, detail shareholder rights, board responsibilities, officer roles, stock provisions, and record-keeping procedures.  The filing concludes with a press release detailing the dividend announcement."
+    },
+    {
+        "file_name": "COSTCO_2023_8K_dated-2023-08-16.pdf",
+        "description": "Costco Wholesale Corporation's Form 8-K filing announces the election of Helena Buonanno Foulkes to its Board of Directors.  The filing details her appointment, compensation, and committee assignments.  It also includes a press release announcing the election, highlighting Foulkes' background and statements from the Chairman.  Finally, the filing lists related exhibits and includes the required signature."
     }
 ]
