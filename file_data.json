@@ -1130,5 +1130,345 @@
     {
         "file_name": "LOCKHEEDMARTIN_2023_8K_dated-2023-08-24.pdf",
         "description": "This Form 8-K Current Report from Lockheed Martin Corporation announces an extension to their Revolving Credit Agreement.  The document details the extension agreement itself, including an overview, and exhibits such as the agreement and interactive data file.  The bulk of the report comprises multiple pages of signatures from participating lenders and Lockheed Martin, confirming their acceptance of the extended terms.  The report concludes with the final signatures and acceptance of the agreement."
+    },
+    {
+        "file_name": "PG_E_2023Q3_10Q.pdf",
+        "description": "This Form 10-Q filing by PG&E Corporation reports financial results for the three and nine months ended September 30, 2022.  It details operating results, wildfire-related risks and mitigation efforts,  liquidity, and regulatory matters.  Significant accounting policies, including those related to wildfire liabilities and securitization, are explained.  The report includes condensed consolidated financial statements, notes to the statements, and exhibits such as credit agreements and long-term incentive plans,  and certifications by executive and financial officers.  Extensive disclosures cover litigation and regulatory proceedings."
+    },
+    {
+        "file_name": "PG_E_2023_EARNINGS-dated-2023-06-01.pdf",
+        "description": "This Form 8-K filing details Pacific Gas and Electric Company's issuance of 6.100% First Mortgage Bonds due 2029 and 6.400% First Mortgage Bonds due 2033.  The document includes the underwriting agreement, indenture details, representations and warranties, conditions to closing, and the Twentieth Supplemental Indenture establishing the bonds.  It specifies bond terms, redemption provisions, and includes exhibits like the bond forms,  legal opinions, and county recording information for the related mortgages.  The filing confirms the issuance and outlines the legal framework governing the bonds."
+    },
+    {
+        "file_name": "PG_E_2023_EARNINGS-dated-2023-07-27.pdf",
+        "description": "This document reports PG&E Corporation's second-quarter 2023 earnings, including GAAP and non-GAAP results.  It details core earnings analysis,  provides 2023 earnings guidance, and explains the reconciliation between GAAP and non-GAAP figures.  The report also includes information on an upcoming earnings conference call, forward-looking statement disclaimers, condensed consolidated statements of income, and an explanation of non-GAAP financial measures.  Finally, it addresses investigation remedies and their financial impact."
+    },
+    {
+        "file_name": "PG_E_2023_EARNINGS_dated-2023-05-04.pdf",
+        "description": "This document presents PG&E Corporation's first-quarter 2023 earnings report.  It details GAAP and non-GAAP core earnings, including a reconciliation of the two.  Updated 2023 earnings guidance is provided, along with an explanation of influencing factors.  The report also includes information on the earnings call, investor information dissemination, a company overview, a disclaimer on forward-looking statements, and  condensed financial statements.  Finally, it addresses investigation costs and further explains non-GAAP financial measures."
+    },
+    {
+        "file_name": "PG_E_2023_EARNINGS_dated-2023-05-31.pdf",
+        "description": "This document details a settlement agreement between Pacific Gas and Electric Company (PG&E) and the Shasta County District Attorney's Office concerning the Zogg fire.  The agreement, reached on May 31, 2023, includes financial implications and commitments to improve wildfire safety.  The document also provides company information for PG&E Corporation and Pacific Gas and Electric Company, along with authorized signatures.  Supporting exhibits are referenced, and a blank page concludes the filing."
+    },
+    {
+        "file_name": "PFIZER_2015_10K.pdf",
+        "description": "This is Pfizer Inc.'s 2015 Form 10-K annual report.  It details the company's business operations, including its innovative and established products, research and development, and global presence.  Significant risks and factors affecting future performance are outlined, along with a comprehensive financial review covering income statements, balance sheets, and cash flows.  The report also includes management's discussion and analysis, auditor's reports, and certifications under the Sarbanes-Oxley Act.  Information on executive compensation, corporate governance, and legal proceedings is also presented."
+    },
+    {
+        "file_name": "PFIZER_2016_10K.pdf",
+        "description": "This Pfizer Inc. 2016 10-K report details the company's global biopharmaceutical operations.  It covers business segments (Innovative Health and Essential Health), R&D,  international operations, marketing, competition, regulatory landscape (including biosimilars and  healthcare reform), and risk factors.  The report includes financial statements, management's discussion and analysis, and certifications by the CEO and CFO,  along with detailed notes and exhibits.  Key financial metrics and product performance are analyzed,  along with significant accounting policies and  risks impacting future results."
+    },
+    {
+        "file_name": "PFIZER_2017_10K.pdf",
+        "description": "This document is Pfizer Inc.'s 2017 Form 10-K, detailing its financial performance, business operations, and risk factors.  It covers Pfizer's two business segments (Innovative Health and Essential Health), R&D activities, global operations, competitive landscape, regulatory environment, and financial statements.  Significant accounting policies, internal controls, executive compensation, and various subsidiaries' pension plans are also described.  The report includes certifications from the CEO and CFO affirming the accuracy and compliance of the filing."
+    },
+    {
+        "file_name": "PFIZER_2018_10K.pdf",
+        "description": "This 2018 Pfizer Form 10-K report details the company's performance and financial statements.  It covers business operations (Innovative and Essential Health segments), R&D strategy, global market dynamics, regulatory landscape (including EU, China, and Brexit impacts), risk factors, and a significant stock and asset purchase agreement with GlaxoSmithKline.  The report includes management's discussion and analysis, financial statements, and certifications.  Key financial data and operational highlights for 2018 are presented, along with significant accounting policies and notes."
+    },
+    {
+        "file_name": "PFIZER_2019_10K.pdf",
+        "description": "This Pfizer Inc. 2019 Form 10-K report details the company's performance, financial condition, and risk factors.  It covers business operations across segments (Biopharma, Upjohn, Consumer Healthcare), R&D, international operations, marketing, and intellectual property.  Significant attention is given to pricing pressures, generic competition, healthcare reforms, and regulatory challenges.  The report includes consolidated financial statements, management's discussion and analysis, and certifications from executive officers.  Key strategic initiatives, including the Upjohn/Mylan combination, are discussed."
+    },
+    {
+        "file_name": "PFIZER_2020_10K.pdf",
+        "description": "This Pfizer Inc. Form 10-K report covers the year ended December 31, 2020.  It details the company's business operations, including its global reach, sales and marketing strategies, and competitive landscape.  Significant attention is given to risk factors, encompassing research & development, regulatory hurdles, competition, and the impact of the COVID-19 pandemic.  The report also presents consolidated financial statements, including income, cash flow, and balance sheets, along with notes explaining significant accounting policies and critical estimates.  Finally, it includes certifications from the CEO and CFO affirming the accuracy and completeness of the report."
+    },
+    {
+        "file_name": "PFIZER_2021_10K.pdf",
+        "description": "This Pfizer 10-K report details the company's 2021 financial performance and operations.  It covers business overview, commercial operations, R&D, international activities, and risk factors.  Significant accounting policies and a comprehensive analysis of financial statements (income, cash flow, balance sheet) are included.  The report also addresses market risks,  regulatory compliance, intellectual property, and executive compensation, concluding with auditor reports and certifications.  Extensive notes to financial statements provide detailed breakdowns of various financial aspects and subsidiaries."
+    },
+    {
+        "file_name": "PFIZER_2022_10K.pdf",
+        "description": "Pfizer Inc.'s 2022 Form 10-K annual report details the company's business overview, including R&D strategy, collaborations, global operations, and competitive landscape.  It highlights financial performance, significant accounting policies, and risk factors.  The report includes consolidated financial statements, notes,  auditor's opinion, management certifications, and information on corporate governance, executive compensation, and securities.  Significant attention is given to the performance of key products like Comirnaty and Paxlovid, alongside extensive disclosures on legal proceedings and accounting for acquisitions and other financial instruments."
+    },
+    {
+        "file_name": "PFIZER_2023Q2_10Q.pdf",
+        "description": "This is Pfizer Inc.'s Form 10-Q for the quarter ended July 2, 2023, filed with the SEC.  It includes unaudited condensed consolidated financial statements (income, balance sheet, equity, cash flow), detailed notes to the financials (covering financial instruments, intangible assets, pensions, legal proceedings, and segment information), management's discussion and analysis of financial condition and results of operations,  a discussion of risks and uncertainties, and corporate governance certifications.  The report also covers recent developments, including Pfizer's proposed acquisition of Seagen."
+    },
+    {
+        "file_name": "PFIZER_2023Q2_EARNINGS.pdf",
+        "description": "Pfizer's second-quarter 2023 report details financial performance, including revenue breakdowns by segment,  adjusted and GAAP income statements, and capital allocation strategies.  The report compares Q2 2023 results to Q2 2022, highlighting revenue changes and operational growth.  Significant corporate developments, such as the Seagen acquisition, are discussed.  The document also includes notes on financial statements, reconciliations of GAAP to non-GAAP measures,  a geographic revenue breakdown, and disclosures regarding forward-looking statements and associated risks."
+    },
+    {
+        "file_name": "PEPSICO_2015_10K.pdf",
+        "description": "This PepsiCo, Inc. 2015 Form 10-K report details the company's business operations across six segments, distribution network, R&D efforts, and regulatory compliance.  It extensively covers risk factors, including those related to reputation, acquisitions, and employee retention.  The report provides a comprehensive financial overview, including consolidated and divisional results, liquidity analysis, and critical accounting policies.  Finally, it includes disclosures on related party transactions, debt obligations, and certifications from key executives."
+    },
+    {
+        "file_name": "PEPSICO_2016_10K.pdf",
+        "description": "This PepsiCo, Inc. annual report (Form 10-K) details the company's business overview, segment performance, and financial results for 2016 and prior years.  It includes discussions of risk factors (economic, regulatory, operational, etc.),  accounting policies,  and financial statements (income, cash flow, balance sheet).  The report also covers the company's organizational structure, brands, competitive landscape, and  executive compensation, along with extensive details on various pension and compensation plans for employees and directors."
+    },
+    {
+        "file_name": "PEPSICO_2017_10K.pdf",
+        "description": "This PepsiCo, Inc. (Form 10-K) annual report details the company's 2017 business performance and financial condition.  It covers business operations across various segments (Frito-Lay, Quaker, Beverages, international), risk factors, financial statements (including cash flow and balance sheets), and critical accounting policies.  The report also includes extensive detail on PepsiCo's executive compensation plans, including deferral programs and pension equalization plans for executives and directors, along with associated plan documents.  Finally, it includes certifications and signatures from key executives."
+    },
+    {
+        "file_name": "PEPSICO_2018_10K.pdf",
+        "description": "This PepsiCo, Inc. Form 10-K filing details the company's 2018 business performance across its global segments (Frito-Lay North America, Quaker Foods North America, North America Beverages, Latin America, Europe Sub-Saharan Africa, and Asia, Middle East and North Africa).  It includes financial statements, risk factors (cybersecurity, supply chain, climate change, etc.), a discussion of financial condition and results, and detailed information on PepsiCo's executive compensation, corporate governance, and its international retirement plans (defined benefit and defined contribution).  The document also includes the independent auditor's report and required certifications."
+    },
+    {
+        "file_name": "PEPSICO_2019_10K.pdf",
+        "description": "This PepsiCo, Inc. Form 10-K (2019) details the company's business operations, financial performance, and risk factors.  It covers PepsiCo's segments, brands, distribution, competition, and regulatory environment.  Significant attention is given to financial statements, including a detailed analysis of revenue, profits, and cash flow.  The report also includes extensive disclosures on risk factors, accounting policies, and executive compensation.  Finally, it incorporates various plan documents, including details on PepsiCo's pension and executive compensation deferral programs."
+    },
+    {
+        "file_name": "PEPSICO_2020_10K.pdf",
+        "description": "This PepsiCo, Inc. 10-K report details the company's 2020 performance, including business operations across its segments (Frito-Lay, Quaker Foods, PepsiCo Beverages), the impact of COVID-19, and its distribution network.  The report analyzes competitive landscape, risk factors (financial, operational, environmental, legal), and  financial statements (income statement, cash flow, balance sheet).  It also includes information on corporate governance, executive compensation,  and detailed descriptions of PepsiCo's debt securities and pension plans (defined benefit and contribution).  The SEC's staff had no unresolved written comments on the report."
+    },
+    {
+        "file_name": "PEPSICO_2021_10K.pdf",
+        "description": "This PepsiCo 2021 10-K report details the company's business overview, including its segments, brands, and distribution network.  It extensively covers risk factors (market, operational, financial, legal), financial performance (revenue, profit, cash flow), and accounting policies.  The report also includes information on executive compensation, corporate governance, and detailed descriptions of PepsiCo's common equity, debt securities, and two pension plans (International Retirement Plan Defined Contribution Program and PepsiCo Pension Equalization Plan).  Finally, it includes the auditor's report and required certifications."
+    },
+    {
+        "file_name": "PEPSICO_2022Q4_EARNINGS.pdf",
+        "description": "This document presents PepsiCo's financial results for the fourth quarter and full year 2022, including revenue, operating profit, and earnings per share.  It details performance across different divisions, highlighting key factors influencing results.  The report also provides 2023 financial guidance, along with consolidated financial statements (income statement, cash flow statement, balance sheet).  A significant portion explains the reconciliation of GAAP and non-GAAP financial measures, and concludes with a cautionary statement regarding forward-looking information."
+    },
+    {
+        "file_name": "PEPSICO_2022_10K.pdf",
+        "description": "This is PepsiCo's 2022 10-K report, detailing its business overview, brands, distribution, and human capital.  Significant sections cover risk factors (geopolitical, consumer preference shifts, economic conditions), financial results (revenue, operating profit by division), critical accounting policies, and liquidity.  The report also includes audited financial statements, management's discussion and analysis,  corporate governance information, and descriptions of PepsiCo's securities and various pension and compensation plans (including the PepsiCo Pension Equalization Plan and Executive Income Deferral Program)."
+    },
+    {
+        "file_name": "PEPSICO_2023Q1_EARNINGS.pdf",
+        "description": "This document presents PepsiCo's first-quarter 2023 financial results.  It details net revenue growth, earnings per share, and segment performance, providing regional breakdowns and operating profit changes.  Financial statements (income, cash flow, and balance sheet) are included, along with reconciliations of GAAP and non-GAAP measures, including organic revenue growth.  The report also offers 2023 guidance and a cautionary statement regarding forward-looking information and associated risks."
+    },
+    {
+        "file_name": "PEPSICO_2023Q2_EARNINGS.pdf",
+        "description": "This document reports PepsiCo's second-quarter and year-to-date 2023 financial results.  It details revenue growth, operating profit, and earnings per share (EPS), broken down by segment.  The report includes PepsiCo's guidance for fiscal year 2023, along with  condensed financial statements (income statement, cash flow statement, and balance sheet).  Non-GAAP measures and their reconciliation to GAAP are explained, and a cautionary statement regarding forward-looking information is included."
+    },
+    {
+        "file_name": "PEPSICO_2023_8K_dated-2023-05-05.pdf",
+        "description": "This Form 8-K filing by PepsiCo reports the results of its 2023 Annual Meeting of Shareholders.  The document includes introductory information, a list of registered securities, a detailed breakdown of shareholder votes on director elections and other proposals, and concluding signatures.  It serves as official notification of the meeting's outcome and related information to regulatory bodies."
+    },
+    {
+        "file_name": "PEPSICO_2023_8K_dated-2023-05-30.pdf",
+        "description": "This document is PepsiCo's Form 8-K filing, detailing the termination of existing and establishment of new credit agreements.  It includes a 364-Day Credit Agreement and a Five-Year Credit Agreement, both outlining terms for advances, interest rates (including SOFR), repayment, default provisions,  agent responsibilities (Citibank, N.A.),  and lender obligations.  The agreements specify conditions for effectiveness, representations, warranties, and covenants.  Numerous exhibits, including promissory notes,  assignment and assumption forms, and other related documentation, are included."
+    },
+    {
+        "file_name": "PAYPAL_2022_10K.pdf",
+        "description": "This is PayPal Holdings, Inc.'s 2022 Form 10-K annual report.  It details the company's business overview, key performance metrics, financial results, and risk factors.  Significant sections cover  revenue generation, competition, strategic initiatives, regulatory compliance (including AML and data privacy),  and financial statement analysis with accompanying notes.  The report includes audited financial statements, management's discussion and analysis, and certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "PAYPAL_2023Q2_10Q.pdf",
+        "description": "This document is PayPal Holdings, Inc.'s quarterly report (Form 10-Q) for the period ended June 30, 2023.  It presents condensed consolidated financial statements (balance sheets, income statements, cash flows, and statements of stockholders' equity), detailed notes explaining key accounting policies and significant financial aspects (revenue recognition, credit losses, debt, legal matters), and management's discussion and analysis of financial performance and condition.  The report also includes certifications from the CEO and CFO.  Key topics covered include revenue, expenses, credit losses, liquidity, risks, and regulatory matters."
+    },
+    {
+        "file_name": "ORACLE_2015_10K.pdf",
+        "description": "This Oracle Corporation 10-K report covers the fiscal year ending May 31, 2015.  It details Oracle's business model encompassing software (SaaS, applications, middleware), platform technologies (database, big data), hardware systems, and cloud services (IaaS, PaaS).  The report includes financial statements, MD&A, risk factors (including competitive, economic, and security risks), executive compensation, and disclosures on accounting policies and internal controls.  Significant acquisitions' impact on financial performance is also analyzed, along with  liquidity and capital resources.  Finally, the report includes certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "ORACLE_2016_10K.pdf",
+        "description": "This document is Oracle Corporation's financial report for the fiscal year ending May 31, 2016.  It details the company's business overview, including its cloud and on-premise software, hardware, and services offerings.  Significant attention is given to financial results, including revenue breakdowns by segment, operating expenses, and accounting policies.  Risk factors, competitive landscape, and  legal proceedings are also discussed. The report concludes with audited financial statements, certifications from executive officers, and a list of subsidiaries."
+    },
+    {
+        "file_name": "ORACLE_2017_10K.pdf",
+        "description": "This Oracle Corporation 10-K report details its fiscal year 2017 performance.  It covers business operations (including cloud SaaS offerings, on-premise applications, hardware, and services), risk factors (financial, environmental, legal), financial statements (balance sheets, income statements, cash flows), and management's discussion and analysis.  The report includes disclosures on accounting policies, acquisitions (NetSuite), executive compensation, and certifications under the Sarbanes-Oxley Act, along with auditor Ernst & Young LLP's report.  Key financial data and market risk information are also presented."
+    },
+    {
+        "file_name": "ORACLE_2018_10K.pdf",
+        "description": "This Oracle Corporation 10-K annual report (fiscal year 2018) details the company's business overview, including its cloud-based offerings, sales strategy, and competitive landscape.  Significant attention is given to risk factors encompassing cybersecurity, economic conditions, international operations, acquisitions, and legal/regulatory issues.  The report extensively covers financial statements, including consolidated balance sheets, statements of operations and cash flows,  management's discussion and analysis, and critical accounting policies.  It also includes auditor's reports and certifications from executive officers."
+    },
+    {
+        "file_name": "ORACLE_2019_10K.pdf",
+        "description": "This Oracle Corporation 10-K report details its business overview, encompassing cloud services, applications, infrastructure technologies, and hardware.  It discusses the company's financial performance, including revenues, expenses, and cash flow, across various segments.  Significant attention is given to risk factors, encompassing competition, cybersecurity, economic conditions, and legal matters.  The report also includes audited financial statements, notes to the statements, and information on stock-based compensation and legal proceedings.  Finally, it contains corporate governance details and certifications from executive officers."
+    },
+    {
+        "file_name": "ORACLE_2020_10K.pdf",
+        "description": "This Oracle Corporation report (Form 10-K) details the company's fiscal year 2020 performance.  It covers business operations, including cloud services, applications, hardware, and software offerings.  The report addresses the impact of the COVID-19 pandemic, outlines risk factors (financial, operational, legal), provides financial statements and analyses (revenue by segment, expenses, liquidity), and includes disclosures regarding accounting policies, legal proceedings, and executive certifications.  Key financial data and a discussion of Oracle's cloud strategy are prominently featured."
+    },
+    {
+        "file_name": "ORACLE_2021_10K.pdf",
+        "description": "This Oracle Corporation 10-K report covers the fiscal year ending May 31, 2021.  It details the company's business overview, including its applications, infrastructure technologies, cloud services, and hardware offerings.  The report analyzes financial performance across segments (cloud, license, hardware, services), discusses risks (competition, COVID-19 impact,  regulatory issues), and includes consolidated financial statements, notes, and auditor's report.  Significant attention is given to risk factors and critical accounting policies.  Executive compensation and stock information are also presented."
+    },
+    {
+        "file_name": "ORACLE_2022_10K.pdf",
+        "description": "This is Oracle Corporation's annual report, covering business overview, financial performance, and risk factors.  It details Oracle's cloud infrastructure (OCI), applications, hardware, and services, along with its human capital resources.  Significant discussion is given to business risks, including competition, cloud strategy, and acquisitions (like Cerner).  The report includes consolidated financial statements, management's discussion and analysis, accounting policies, and disclosures regarding legal proceedings and stock-based compensation.  The independent auditor's report and executive certifications are also included."
+    },
+    {
+        "file_name": "ORACLE_2023_10K.pdf",
+        "description": "This Oracle Corporation annual report details the company's business overview, including its products, cloud services (OCI, Autonomous Database), and market strategies.  It discusses financial performance,  revenue breakdown by segment (cloud, hardware, services),  key accounting policies, and risk factors (competition, cloud execution, workforce management, acquisitions).  The report includes audited financial statements, management's discussion and analysis, and certifications by executive officers.  Significant attention is given to the Cerner acquisition's impact."
+    },
+    {
+        "file_name": "NIKE_2015_10K.pdf",
+        "description": "This Nike, Inc. 10-K report details the company's fiscal year 2015 performance and operations.  It covers business overview, sales & marketing strategies, market analysis, manufacturing, risk factors, and financial statements (including income statement, balance sheet, and cash flow statement).  Significant accounting policies are explained, along with management's discussion and analysis.  The report also includes information on legal proceedings, stock performance, executive compensation (incorporated by reference), and details of stock incentive and long-term incentive plans.  Auditor's reports and certifications conclude the document."
+    },
+    {
+        "file_name": "NIKE_2016_10K.pdf",
+        "description": "This is Nike's 10-K report, detailing its fiscal year 2016 performance.  The report covers business operations, sales and marketing strategies, international operations, competitive analysis, risk factors, and financial statements.  Key financial data, including revenues, gross profit, and earnings per share, are presented, along with analyses of regional performance, gross margin, and operating segments.  The report also includes management's discussion and analysis,  information on corporate governance, and certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "NIKE_2017_10K.pdf",
+        "description": "This document is NIKE, Inc.'s 10-K report, covering fiscal years 2015-2017.  It details NIKE's business operations, market position, competition, financial performance (including revenues, expenses, and profits), risk factors, and accounting practices.  The report includes audited financial statements, management's discussion & analysis, and certifications from the CEO and CFO, complying with Sarbanes-Oxley Act requirements.  Key financial metrics, segment performance (by geography and product), and stock information are also provided."
+    },
+    {
+        "file_name": "NIKE_2018_10K.pdf",
+        "description": "This Nike, Inc. 10-K report details the company's business operations, financial performance (fiscal years 2016-2018), and risk factors.  It covers product lines, manufacturing, international operations, competition, and financial statements (income statement, balance sheet, cash flow statement).  Significant accounting policies are explained, along with risk management and internal controls.  Executive compensation, corporate governance, and legal proceedings are also included, concluding with certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "NIKE_2019_10K.pdf",
+        "description": "This is Nike, Inc.'s annual report (Form 10-K) for the fiscal year ending May 31, 2019.  It details the company's business overview, including products, sales, marketing, international operations, and competitive landscape.  Significant risk factors are discussed, followed by a comprehensive analysis of financial performance and results, including consolidated financial statements and accompanying notes.  The report also includes information on corporate governance, executive compensation, and certifications required by the Sarbanes-Oxley Act."
+    },
+    {
+        "file_name": "NIKE_2020_10K.pdf",
+        "description": "This is NIKE, Inc.'s 10-K report, covering fiscal year 2020.  The document details NIKE's business overview, product offerings, sales performance (including geographic breakdowns), manufacturing, and competitive landscape.  Significant attention is given to risk factors, including those related to COVID-19, economic conditions, supply chain, and intellectual property.  The report also includes consolidated financial statements, notes to the statements, management's discussion and analysis, and corporate governance information.  Finally, certifications of the CEO and CFO are provided."
+    },
+    {
+        "file_name": "NIKE_2021_10K.pdf",
+        "description": "This document is Nike, Inc.'s 2021 annual report (Form 10-K).  It details the company's business overview, including sales and marketing strategies, product development, manufacturing, international operations, and competitive landscape.  Significant attention is given to risk factors encompassing various operational, legal, financial, and market-related aspects.  The report also presents Nike's fiscal 2021 financial statements, accompanied by management's discussion and analysis,  along with auditor certifications and other regulatory filings."
+    },
+    {
+        "file_name": "NIKE_2022_10K.pdf",
+        "description": "This document is Nike, Inc.'s 2022 10-K report.  It details the company's business operations, including sales and marketing strategies, product development, manufacturing, and global market analysis.  Significant attention is given to risk factors, encompassing economic conditions, competition, supply chain challenges, and regulatory compliance.  The report also presents Nike's financial statements, including consolidated income statements, balance sheets, and cash flow statements, along with accompanying notes and auditor's report.  Executive compensation and corporate governance information are included, along with required certifications."
+    },
+    {
+        "file_name": "NIKE_2023_10K.pdf",
+        "description": "This is Nike, Inc.'s 2023 Form 10-K annual report.  It details the company's business operations, including product offerings, sales strategies, manufacturing, and international operations.  Significant risks are identified, covering economic factors, competition, digital commerce, and legal/regulatory matters.  The report includes fiscal year 2023 financial statements (income, cash flow, balance sheet) and notes, along with information on management, executive compensation, and corporate governance.  Auditor's reports and exhibits are also included."
+    },
+    {
+        "file_name": "NETFLIX_2015_10K.pdf",
+        "description": "This is Netflix, Inc.'s 2015 Form 10-K annual report.  It details the company's business overview, including its streaming and DVD segments, competitive landscape, and risk factors.  The report includes key financial data, management's discussion and analysis of results,  consolidated financial statements (including balance sheets, income statements, and cash flow statements), notes to the financial statements, and auditor's reports.  Executive certifications and a list of exhibits are also provided, complying with Sarbanes-Oxley Act requirements."
+    },
+    {
+        "file_name": "NETFLIX_2016_10K.pdf",
+        "description": "This document is Netflix, Inc.'s 2016 annual report (10-K filing), detailing its financial performance and operational results.  It covers business operations, competitive landscape, risk factors (including financial obligations and employee risks), financial statements (including consolidated statements of operations, cash flows, and balance sheets), and segment results (Domestic Streaming, International Streaming, and Domestic DVD).  It also includes management's discussion and analysis, auditor's report, and corporate governance information, complying with Sarbanes-Oxley Act requirements."
+    },
+    {
+        "file_name": "NETFLIX_2017_10K.pdf",
+        "description": "This is Netflix's 2017 10-K filing, a comprehensive annual report to the SEC.  It covers business operations, including streaming services, competition, and risk factors.  Significant financial data is presented, including statements of operations, cash flows, and balance sheets, along with segment results (Domestic & International Streaming, Domestic DVD).  The report also includes management's discussion and analysis,  internal control reports, certifications from the CEO and CFO, and other regulatory disclosures."
+    },
+    {
+        "file_name": "NETFLIX_2018_10K.pdf",
+        "description": "This is Netflix, Inc.'s 2018 annual report (Form 10-K).  It details the company's business overview, including its streaming model and risk factors.  The report extensively covers financial performance, including revenue, expenses, cash flow, and segment results (domestic and international streaming, DVD).  Significant accounting policies,  market risk disclosures, and internal controls are also discussed.  The report includes audited consolidated financial statements, notes, and certifications from the CEO and CFO, complying with Sarbanes-Oxley Act requirements."
+    },
+    {
+        "file_name": "NETFLIX_2019_10K.pdf",
+        "description": "This document is Netflix, Inc.'s 2019 Form 10-K annual report.  It details the company's business model, strategy, financial performance (including statements of operations, cash flows, and balance sheets), and risk factors.  Significant sections cover competition, content acquisition costs, legal proceedings, accounting policies, internal controls, and executive compensation.  The report includes financial data for 2017-2019, audited by an independent firm, and certifications from the CEO and CFO.  Overall, it provides a comprehensive overview of Netflix's financial health and operational activities."
+    },
+    {
+        "file_name": "NETFLIX_2020_10K.pdf",
+        "description": "This Netflix 10-K report details the company's financial performance and operational highlights for 2020 and 2019.  It includes business overviews, risk factors, financial statements (income statement, cash flow, balance sheet, and statements of changes in equity), notes to financial statements, and auditor reports.  Significant accounting policies, market risk disclosures, and executive certifications are also included.  Information regarding stock options and compensation is referenced in the Proxy Statement.  The report complies with Sarbanes-Oxley Act requirements."
+    },
+    {
+        "file_name": "NETFLIX_2021_10K.pdf",
+        "description": "This Netflix 10-K filing reports 2021 financial performance, including revenue breakdowns by region and detailed expense analysis.  It discloses risk factors (competition, regulatory, etc.),  liquidity and capital resources, and critical accounting estimates.  The report also includes management discussion, financial statements (balance sheet, cash flow, income statement), auditor opinions, information on stock performance, stock options agreements, and director/executive officer details.  Finally, various exhibits and certifications ensure regulatory compliance."
+    },
+    {
+        "file_name": "NETFLIX_2022_10K.pdf",
+        "description": "This Netflix, Inc. 10-K report details the company's 2022 financial performance, including membership growth, revenue, and content acquisition strategies.  It addresses risk factors, legal proceedings, and corporate governance.  Financial statements (income statement, balance sheet, cash flow statement) and notes are included, along with information on executive compensation, stock options, and internal controls.  The report also covers significant accounting policies, notably content amortization, and includes certifications from key executives."
+    },
+    {
+        "file_name": "NETFLIX_2023Q2_10Q.pdf",
+        "description": "This Netflix Form 10-Q report (Q2 2023) details unaudited financial results, including consolidated statements of operations, comprehensive income, cash flows, and balance sheets.  Management's discussion analyzes financial performance and operational strategies, providing regional breakdowns (UCAN, EMEA, LATAM, APAC) and expense detail (cost of revenues, marketing, technology, etc.).  The report also covers liquidity, free cash flow, critical accounting estimates, market risk, internal controls, legal proceedings, stock repurchases, and certifications under Sarbanes-Oxley."
+    },
+    {
+        "file_name": "MICROSOFT_2015_10K.pdf",
+        "description": "This is Microsoft Corporation's 10-K report (Fiscal Year 2015).  It details the company's business overview, operating segments (Devices & Consumer, Commercial), competitive landscape, financial performance (revenue, expenses, cash flow), and risk factors.  Significant financial data is presented, including segment results and accounting policies.  The report also includes information on executive compensation, stock plans, legal proceedings, and certifications from the CEO and CFO.  Financial statements and auditor reports are included.  A large portion of the document focuses on detailed financial disclosures and accounting policies."
+    },
+    {
+        "file_name": "MICROSOFT_2016_10K.pdf",
+        "description": "Microsoft's 2016 10-K report details the company's business model, operating segments (Productivity and Business Processes, Intelligent Cloud, More Personal Computing), competitive landscape, and financial performance.  It includes analyses of risks (competition, cybersecurity, regulatory),  financial statements (balance sheet, cash flow, income statement),  accounting policies,  management's discussion and analysis,  and information on acquisitions (LinkedIn).  The report also covers executive compensation, stock information, and compliance certifications."
+    },
+    {
+        "file_name": "MICROSOFT_2017_10K.pdf",
+        "description": "This is Microsoft Corporation's 2017 Form 10-K report.  It details the company's business operations across three segments (Productivity & Business Processes, Intelligent Cloud, More Personal Computing), financial performance (including revenue, income, and cash flow), and risk factors.  The report includes management's discussion and analysis, audited financial statements, and certifications from the CEO and CFO, complying with Sarbanes-Oxley Act requirements.  Significant events like the LinkedIn acquisition are also discussed."
+    },
+    {
+        "file_name": "MICROSOFT_2018_10K.pdf",
+        "description": "This is Microsoft Corporation's Form 10-K annual report for fiscal year 2018.  It details the company's business overview, operating segments (Productivity and Business Processes, Intelligent Cloud, More Personal Computing), competitive landscape, financial performance (including revenue, income, and cash flow), risk factors, and accounting policies.  The report includes audited financial statements, management's discussion and analysis, and certifications from the CEO and CFO, along with information on executive compensation and corporate governance (detailed in the proxy statement).  A deferred compensation plan is also outlined."
+    },
+    {
+        "file_name": "MICROSOFT_2019_10K.pdf",
+        "description": "This Microsoft Corporation 10-K filing reports fiscal year 2019 results.  It details business operations across segments (Productivity & Business Processes, Intelligent Cloud, More Personal Computing), competitive landscape, risk factors (cybersecurity, regulatory, economic), and financial statements (income statement, balance sheet, cash flow).  The report also includes information on executive compensation (referenced), corporate governance, debt securities, indemnification agreements, and auditor reports, confirming the accuracy of financial reporting and internal controls."
+    },
+    {
+        "file_name": "MICROSOFT_2020_10K.pdf",
+        "description": "This Microsoft Corporation 10-K report covers fiscal year 2020.  It details the company's business overview, including its three operating segments (Productivity and Business Processes, Intelligent Cloud, and More Personal Computing),  ambitious strategies, and impact of COVID-19.  Significant sections address risk factors (cybersecurity, regulatory, economic), financial data (income statement, balance sheet, cash flow), accounting policies, and internal controls.  The report includes management's discussion and analysis, auditor's reports, and required certifications.  Exhibits list subsidiaries and include certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "MICROSOFT_2021_10K.pdf",
+        "description": "Microsoft's 2021 Form 10-K details the company's performance, strategy, and financial results.  It covers business operations across multiple segments (Productivity & Business Processes, Intelligent Cloud, More Personal Computing), competitive landscape,  risks, and financial statements.  The report includes management's discussion and analysis, accounting policies,  auditor's opinion, executive compensation information, and certifications of compliance with Sarbanes-Oxley Act.  The impact of COVID-19 and Microsoft's commitment to social responsibility are also highlighted."
+    },
+    {
+        "file_name": "MICROSOFT_2022_10K.pdf",
+        "description": "This Microsoft Corporation 10-K report covers fiscal year 2022.  It details the company's business overview, product offerings, strategic ambitions, and corporate social responsibility initiatives.  Financial performance is analyzed across its operating segments (Productivity and Business Processes, Intelligent Cloud, More Personal Computing), including revenue, expenses, and cash flow.  Significant risks, including legal, regulatory, and cybersecurity concerns, are discussed.  The report includes audited financial statements, management's discussion and analysis, and certifications from the CEO and CFO.  Information on executive compensation and stock ownership is referenced to the proxy statement."
+    },
+    {
+        "file_name": "MICROSOFT_2023_10K.pdf",
+        "description": "This Microsoft 10-K report details fiscal year 2023 results and company information.  It covers business operations across three segments (Productivity & Business Processes, Intelligent Cloud, More Personal Computing),  financial performance (revenue, expenses, income statements, balance sheets, cash flow),  risks and uncertainties, corporate social responsibility initiatives, executive compensation, and accounting policies.  The report includes audited financial statements, certifications from the CEO and CFO, and disclosures on internal controls and legal matters.  It also provides information on stock ownership and the company's subsidiaries."
+    },
+    {
+        "file_name": "MGMRESORTS_2015_10K.pdf",
+        "description": "This MGM Resorts International annual report (Form 10-K) details the company's business overview, resort operations, marketing strategies, social responsibility initiatives, and future projects.  Significant sections cover risk factors (financial, regulatory, operational),  financial statements (including segment information for domestic resorts and MGM China),  and critical accounting policies.  The report also includes  information on corporate governance, executive compensation, and  a detailed LLC agreement for CityCenter, a significant joint venture.  Finally, supplementary financial data and auditor reports are provided."
+    },
+    {
+        "file_name": "MGMRESORTS_2016_10K.pdf",
+        "description": "This MGM Resorts International annual report (Form 10-K) details the company's business overview, operations (including domestic and China segments), marketing strategies, and risk factors.  It covers financial performance, including segment results and key performance indicators, along with discussions of liquidity, debt, and accounting policies.  The report also includes information on management, governance, legal proceedings, and significant lease agreements (including a detailed ground lease for MGM National Harbor).  Consolidated financial statements and auditor reports are appended."
+    },
+    {
+        "file_name": "MGMRESORTS_2017_10K.pdf",
+        "description": "This document is MGM Resorts International's annual report, covering business operations, financial performance, and risk factors.  It details resort information, marketing strategies, and corporate social responsibility.  Significant sections analyze financial data, including revenue by segment (domestic resorts and MGM China),  operating results, cash flow, and debt.  The report also addresses risk factors, legal proceedings, regulatory environments, and includes audited financial statements and management certifications.  Finally, it features details on executive compensation, corporate governance, and various agreements and related party transactions."
+    },
+    {
+        "file_name": "MGMRESORTS_2018_10K.pdf",
+        "description": "This 10-K report covers MGM Resorts International's 2018 fiscal year.  It details business operations, including resort operations, customer demographics, and competitive analysis.  Significant risk factors are identified, encompassing regulatory challenges, economic conditions, and operational risks.  The report includes comprehensive financial statements, Management's Discussion & Analysis, and key performance indicators.  A substantial portion addresses various accounting policies and significant risks.  Finally,  it includes an employment agreement for a key employee and supporting exhibits."
+    },
+    {
+        "file_name": "MGMRESORTS_2019_10K.pdf",
+        "description": "This is MGM Resorts International's annual report (2019), covering business overview, operations (resort operations, marketing, and customer/competition analysis), corporate social responsibility, and employee/labor relations.  Significant sections detail risk factors (financial, regulatory, international, and weather-related), management and governance, and financial statements with detailed notes.  The report includes management's discussion and analysis, selected financial data, and exhibits/schedules, including various employment and incentive agreements.  Key financial metrics such as EBITDA and net income are presented."
+    },
+    {
+        "file_name": "MGMRESORTS_2020_10K.pdf",
+        "description": "This MGM Resorts International 10-K report details the company's 2020 performance, significantly impacted by COVID-19.  The report covers business operations, financial results, risk factors (including pandemic effects, competition, and regulatory issues),  environmental and social responsibility, and corporate governance.  Financial statements, including balance sheets, income statements, and cash flows, are presented, along with notes disclosing accounting policies and significant transactions.  The report also includes certifications from the CEO and CFO and details of various agreements and subsidiaries."
+    },
+    {
+        "file_name": "MGMRESORTS_2021_10K.pdf",
+        "description": "This MGM Resorts International 10-K filing details the company's 2021 performance and financial condition.  It covers business operations, including resort specifics, marketing, and corporate strategy, alongside a comprehensive risk assessment addressing financial obligations, COVID-19 impact, competition, and regulatory compliance (particularly in Macau).  The report includes financial statements, management's discussion and analysis, and supporting schedules, along with certifications from the CEO and CFO, and exhibits detailing subsidiaries, agreements, and regulatory information.  Significant attention is given to the continuing impact of the COVID-19 pandemic."
+    },
+    {
+        "file_name": "MGMRESORTS_2022Q4_EARNINGS.pdf",
+        "description": "MGM Resorts International's 2022 financial report details record Adjusted Property EBITDAR and significant share buybacks.  The report includes Q4 and full-year financial highlights, segmented performance data for Las Vegas Strip Resorts, Regional Operations, and MGM China (net revenues, Adjusted Property EBITDAR),  and information on the share repurchase program.  Consolidated statements of operations and balance sheets are provided, along with supplemental data and reconciliations of key metrics (net income to Adjusted EBITDAR, EPS).  A conference call announcement concludes the report."
+    },
+    {
+        "file_name": "MGMRESORTS_2022_10K.pdf",
+        "description": "This MGM Resorts International annual report (10-K filing) details the company's 2022 performance, including financial statements, operational overview (resorts, marketing, strategy), risk factors (economic, regulatory, operational), and corporate governance.  Significant attention is given to Macau operations and the impact of the new gaming law.  The report also includes executive compensation details, audited financial statements, and exhibits such as employment agreements and amendments to compensation plans.  Significant accounting policies and regulatory compliance are thoroughly addressed."
+    },
+    {
+        "file_name": "MGMRESORTS_2023Q2_10Q.pdf",
+        "description": "This is MGM Resorts International's quarterly report (Form 10-Q) for the period ending June 30, 2023.  The report includes consolidated financial statements (balance sheets, statements of operations, cash flows, and stockholders' equity), accompanying notes, management's discussion and analysis of results, segment information (Las Vegas Strip, Regional Operations, MGM China), risk factors, certifications by the CEO and CFO, and exhibits.  It details financial performance, including revenue, expenses, debt, and liquidity, and discusses significant accounting policies and legal matters."
+    },
+    {
+        "file_name": "MGMRESORTS_2023_8K_dated-2023-03-01.pdf",
+        "description": "This Form 8-K filing by MGM Resorts International announces the appointment of Ben Winston to its Board of Directors.  The document includes details of his appointment, compensation, and related party transactions.  A press release (Exhibit 99.1) further highlights Winston's background.  The filing also contains standard sections: an introduction to Form 8-K, a signature section, and a disclosure of forward-looking statements and their inherent uncertainties."
+    },
+    {
+        "file_name": "MGMRESORTS_2023_8K_dated-2023-09-12.pdf",
+        "description": "This Form 8-K filing by MGM Resorts International discloses a cybersecurity incident.  The filing includes details of the issue (Item 7.01 Regulation FD Disclosure and Exhibit 99.1), relevant financial statements and exhibits (Item 9.01), and standard information such as filing date and signatory details.  The document focuses on the company's disclosure of the cybersecurity breach and its subsequent actions, complying with Regulation FD."
+    },
+    {
+        "file_name": "MCDONALDS_2022Q4_EARNINGS.pdf",
+        "description": "This document presents McDonald's 2022 fourth-quarter and full-year financial results.  It details sales growth, earnings per share (including adjustments), comparable sales performance across segments, and a reconciliation of net income and EPS using GAAP and non-GAAP measures.  Key financial terms are defined, and the report includes condensed consolidated statements of income (quarterly and annually), a balance sheet, and a statement of cash flows, comparing 2022 and 2021 figures."
+    },
+    {
+        "file_name": "MCDONALDS_2022_10K.pdf",
+        "description": "This McDonald's Corporation 10-K filing reports 2022 financial performance, including revenue, expenses, and cash flows.  It details the company's business model, operations,  marketing strategies, and competitive landscape.  Significant accounting policies are explained, along with management's discussion and analysis.  The report also includes audited financial statements,  independent auditor opinions, risk factors,  information on executive officers, and  a description of the Officer Severance Plan.  Finally, exhibits and certifications of the CEO and CFO are included."
+    },
+    {
+        "file_name": "MCDONALDS_2023Q1_EARNINGS.pdf",
+        "description": "This document releases McDonald's Q1 2023 financial results.  It highlights comparable sales growth across various markets (US, International Operated, and International Developmental Licensed),  detailing key financial metrics and operational achievements.  The report includes a condensed consolidated statement of income and defines key financial terms such as comparable sales and free cash flow, providing a comprehensive overview of the company's first-quarter performance."
+    },
+    {
+        "file_name": "MCDONALDS_2023Q2_EARNINGS.pdf",
+        "description": "This document reports McDonald's second-quarter 2023 financial results.  It details global comparable sales growth and overall financial performance, providing a segment-by-segment comparable sales analysis.  The report includes reconciliations of net income and earnings per share, definitions of key financial terms, and condensed consolidated statements of income for both the quarter and the first six months of 2023, allowing for year-over-year comparisons."
+    },
+    {
+        "file_name": "MCDONALDS_8K_dated-2023-01-06.pdf",
+        "description": "McDonald's Corporation's Form 8-K filing announces its refreshed growth strategy, \"Accelerating the Arches 2.0.\"  The filing includes an employee communication detailing the strategy and accompanying organizational changes, effective February 1st, with new leadership appointments.  This strategic shift aims to adapt McDonald's to a rapidly evolving market and ensure future growth.  The filing also lists included exhibits, signatures, and standard Form 8-K introductory information."
+    },
+    {
+        "file_name": "MCDONALDS_8K_dated-2023-02-13.pdf",
+        "description": "This document is a corporate filing for McDonald's Corporation.  It details the company's common stock information, reports on changes in officer positions and director departures, and outlines the payout structure for the 2023 Target Incentive Plan (TIP) awards for executives.  The document concludes with the required signature section confirming its authorization.  The filing primarily focuses on corporate governance and executive compensation."
+    },
+    {
+        "file_name": "MCDONALDS_8K_dated-2023-08-14.pdf",
+        "description": "This Form 8-K filing by McDonald's Corporation reports the issuance of Medium-Term Notes.  The document details the terms of the notes, including amounts and interest rates.  It includes related legal opinions confirming the legality of the issuance and the registration statements.  Exhibits supporting the note issuance are listed, and the filing is signed by authorized representatives of McDonald's."
     }
 ]
