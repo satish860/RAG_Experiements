@@ -770,5 +770,365 @@
     {
         "file_name": "CVSHEALTH_2022_10K.pdf",
         "description": "This CVS Health Corporation 10-K filing reports 2022 financial performance across its Health Care Benefits, Pharmacy Services, and Retail/LTC segments.  It details business operations, including responses to the COVID-19 pandemic and  ESG initiatives.  Significant risk factors are outlined, encompassing regulatory compliance, competition, economic conditions, and operational challenges.  The filing includes audited consolidated financial statements, MD&A,  notes to the financials, and corporate governance information, along with required certifications."
+    },
+    {
+        "file_name": "EBAY_2015_10K.pdf",
+        "description": "This is eBay Inc.'s 2015 10-K report, covering the company's business model, financial performance, and risk factors.  Key events include the PayPal spin-off and Enterprise sale.  The report details revenue streams, competitive landscape, regulatory compliance, and financial data (income statement, balance sheet, cash flow).  Significant sections address risks (competition, security, legal), accounting policies, and liquidity.  Financial statement notes provide in-depth explanations of accounting principles and significant transactions.  Executive certifications confirm Sarbanes-Oxley Act compliance."
+    },
+    {
+        "file_name": "EBAY_2016_10K.pdf",
+        "description": "This eBay Inc. 10-K report details the company's performance in 2016, covering business operations across its Marketplace, StubHub, and Classifieds platforms.  It includes financial statements (income, cash flow, balance sheet), analyses of revenue, expenses, and risks (competition, fraud, regulatory compliance, debt).  Significant accounting policies and internal controls are discussed, alongside information on executive compensation, corporate governance, and legal proceedings.  The report also includes auditor statements and certifications required by the Sarbanes-Oxley Act."
+    },
+    {
+        "file_name": "EBAY_2017_10K.pdf",
+        "description": "This is eBay Inc.'s 2017 Form 10-K report.  It details the company's business overview, financial performance (including GMV and revenues), competitive landscape, and significant risks (including international operations, regulatory compliance, and cybersecurity).  The report also includes consolidated financial statements, management's discussion and analysis,  notes to the financial statements, and certifications required by the Sarbanes-Oxley Act.  Information on executive compensation and corporate governance is incorporated by reference from the proxy statement."
+    },
+    {
+        "file_name": "EBAY_2018_10K.pdf",
+        "description": "This eBay Inc. 10-K report covers the company's business overview, including its platforms (Marketplace, StubHub, Classifieds) and strategy.  It details financial performance, competitive landscape, risk factors (financial, legal, operational, security), and corporate governance.  Consolidated financial statements, including income statement, balance sheet, and cash flow statements, are presented along with notes and supplementary data.  Executive compensation, security ownership, and  bylaws are also included, along with various agreements and certifications required by law."
+    },
+    {
+        "file_name": "EBAY_2019_10K.pdf",
+        "description": "This is eBay Inc.'s 2019 Form 10-K filing with the SEC.  The document details eBay's business model, encompassing Marketplace, StubHub, and Classifieds platforms,  financial performance (including revenues, expenses, and cash flow),  and key operating metrics.  Significant risk factors are outlined, covering competition, economic conditions,  regulatory compliance, and security.  The filing also includes audited consolidated financial statements, notes to financial statements,  and information on debt securities, corporate governance, and executive compensation.  References are made to the Proxy Statement for further details."
+    },
+    {
+        "file_name": "EBAY_2020_10K.pdf",
+        "description": "This eBay Inc. 10-K report covers the fiscal year 2020, detailing its financial performance, business operations, and risk factors.  Key sections include a business overview highlighting the sale of StubHub and Classifieds; financial statements (income statement, balance sheet, cash flow) with analysis;  risk factors encompassing competition, regulatory matters, and  liabilities; and information on corporate governance, executive compensation, and accounting policies.  The report also includes an independent auditor's report and required exhibits."
+    },
+    {
+        "file_name": "EBAY_2021_10K.pdf",
+        "description": "This eBay Inc. Form 10-K annual report (2021) details the company's business overview, financial performance, and risk factors.  It includes discussions of market position, competition, regulatory compliance (including GDPR and CCPA),  and significant transactions.  The report presents consolidated financial statements,  management's analysis, critical accounting policies, and certifications from the CEO and CFO, complying with Sarbanes-Oxley Act requirements.  It also includes details on  discontinued operations (eBay Korea, Classifieds, StubHub),  debt, equity, and employee benefit plans."
+    },
+    {
+        "file_name": "EBAY_2022_10K.pdf",
+        "description": "This is eBay Inc.'s 2022 Form 10-K, a comprehensive annual report.  It covers business operations, including its marketplace platforms, corporate responsibility, and competitive landscape.  The report details financial performance, risk factors (like competition, fraud, and regulations), and  provides consolidated financial statements (balance sheet, income statement, cash flow statement) and accompanying notes.  Significant accounting policies, legal matters, and stock information are also included, along with required certifications under the Sarbanes-Oxley Act."
+    },
+    {
+        "file_name": "EBAY_2023Q1_8K.pdf",
+        "description": "This 8-K filing from eBay Inc. announces a corporate restructuring leading to approximately 500 job cuts.  CEO Jamie Iannone explains the rationale behind these changes in a Regulation FD disclosure.  The filing also includes standard company information, a list of attached financial exhibits (including an interactive data file), and the required signatures for authorization."
+    },
+    {
+        "file_name": "EBAY_2023Q1_EARNINGS.pdf",
+        "description": "This document is eBay Inc.'s Q1 2023 earnings report.  It details better-than-expected financial results, including revenue, gross merchandise volume, and earnings per share, exceeding expectations.  The report provides a comprehensive overview of the quarter's business highlights, strategic initiatives, and financial statements (income statement, balance sheet, cash flow statement).  eBay also offers Q2 2023 guidance and information on their upcoming earnings call, along with explanations of non-GAAP financial measures and forward-looking statements."
+    },
+    {
+        "file_name": "EBAY_2023Q2_10Q.pdf",
+        "description": "This document is eBay Inc.'s 10-Q report for the quarter ended June 30, 2023.  It includes unaudited financial statements (balance sheet, income statement, cash flow statement, and statement of stockholders' equity), notes to the statements detailing accounting policies and significant events (including the TCGplayer acquisition), management's discussion and analysis of financial condition and results of operations, and a full text of the First Amendment to the company's Credit Agreement.  The report also covers market risk disclosures, legal proceedings, and certifications required by the Sarbanes-Oxley Act."
+    },
+    {
+        "file_name": "EBAY_2023Q2_8K.pdf",
+        "description": "This document is an official filing concerning eBay Inc.  It begins with company information, including stock details.  The primary focus is on Item 5.02, announcing the appointment of Shripriya Mahesh to the eBay Board of Directors, specifying her tenure and compensation.  The document concludes with the required signatures and authorization.  In essence, it's a brief report on a significant board appointment at eBay."
+    },
+    {
+        "file_name": "EBAY_2023Q2_EARNINGS.pdf",
+        "description": "This document is eBay Inc.'s Q2 2023 earnings report.  It details better-than-expected financial results, including revenue, gross merchandise volume, and earnings per share.  The report provides key financial highlights, business initiatives, strategic updates, and Q3 2023 guidance.  Financial statements (balance sheet, income statement, cash flow statement) and supplemental operating data are included, along with explanations of non-GAAP measures and forward-looking statements.  Information on the earnings conference call is also provided."
+    },
+    {
+        "file_name": "FEDEX_2023_10K.pdf",
+        "description": "This is FedEx Corporation's 10-K filing, a comprehensive annual report to the SEC.  It covers the company's business overview, including its operating segments (Express, Ground, Freight, Services),  strategic initiatives (\"One FedEx,\" Network 2.0), sustainability efforts, and human resources.  The report also details financial performance, including Management's Discussion and Analysis, consolidated financial statements, and critical accounting estimates.  Significant risks and legal disclosures are included, along with information on executive compensation, corporate governance, and exhibits such as credit agreements and aircraft purchase agreements.  The report concludes with auditor opinions and certifications."
+    },
+    {
+        "file_name": "FEDEX_2023_annualreport.pdf",
+        "description": "FedEx's 2023 Annual Report details the company's performance, strategies, and outlook.  It covers business segment overviews (Express, Ground, Freight, Services),  the \"One FedEx\" initiative,  innovation, sustainability efforts, and risk factors.  Financial statements, including income statements, balance sheets, and cash flows, are presented along with notes and auditor reports.  Management discusses results, future expectations, and key accounting policies.  The report also includes information on corporate governance, executive compensation, and  stockholder matters."
+    },
+    {
+        "file_name": "FOOTLOCKER_2022_10K.pdf",
+        "description": "Foot Locker, Inc.'s 10-K filing details its 2021 financial performance and business operations.  The report includes business overviews, risk factors, executive information, and consolidated financial statements (income statement, balance sheet, cash flow statement).  Significant accounting policies are explained, along with details on share-based compensation,  leases, and  the impact of COVID-19 and social unrest.  The filing also contains auditor reports, certifications by the CEO and CFO, and exhibits including subsidiary lists and stock option agreements."
+    },
+    {
+        "file_name": "FOOTLOCKER_2022_10Q.pdf",
+        "description": "This is Foot Locker, Inc.'s quarterly report (Form 10-Q) for the thirteen and thirty-nine weeks ended October 29, 2022.  The report includes unaudited condensed consolidated financial statements (balance sheets, statements of operations, cash flows, and changes in equity),  management's discussion and analysis of financial condition and results of operations,  notes to the financial statements,  details on share-based compensation, legal proceedings, and subsequent events.  It also features certifications from the CEO and CFO, and an independent auditor's review.  The report provides a comprehensive overview of Foot Locker's financial performance and position during the reporting period."
+    },
+    {
+        "file_name": "FOOTLOCKER_2022_8K_dated-2022-05-20.pdf",
+        "description": "Foot Locker's Form 8-K report details the results of its May 18, 2022, shareholder meeting, including board member elections and executive compensation approvals.  The report also announces Ms. Nicosia's designation as the audit committee financial expert, replacing Mr. McKenna.  Finally, it lists included exhibits, primarily an interactive data file, and includes the required signatures."
+    },
+    {
+        "file_name": "FOOTLOCKER_2022_8K_dated_2022-08-19.pdf",
+        "description": "This SEC filing announces Richard A. Johnson's departure as Foot Locker, Inc.'s President and CEO and Mary N. Dillon's appointment as his successor.  The filing includes detailed employment and letter agreements for both individuals, covering compensation, benefits, confidentiality, non-competition, and dispute resolution.  Exhibits detail the agreements, and a press release announces the leadership transition.  The document also addresses  Section 409A compliance, indemnification, and other legal considerations."
+    },
+    {
+        "file_name": "FOOTLOCKER_2022_8K_dated_2023-02-21.pdf",
+        "description": "Foot Locker, Inc.'s Form 8-K filing announces the appointment of Robert Higginbotham as interim Chief Financial Officer, replacing Andrew E. Page.  The filing details the circumstances of both appointments and departures.  The document also includes a standard listing of exhibits, primarily an interactive data file, and the required signature section confirming the filing with the Securities and Exchange Commission."
+    },
+    {
+        "file_name": "FOOTLOCKER_2023Q3_10Q.pdf",
+        "description": "This Foot Locker, Inc. 10-Q report (October 29, 2022) presents unaudited condensed consolidated financial statements, including balance sheets, statements of operations and cash flows.  It details recent acquisitions (WSS, atmos), revenue by channel and geography, segment performance, share-based compensation, and legal proceedings.  Management's discussion analyzes financial condition and results, including sales, gross margin, SG&A expenses, and liquidity.  The report includes certifications from the CEO and CFO, and a review by KPMG LLP.  Non-GAAP measures are reconciled, and accounting policies are addressed."
+    },
+    {
+        "file_name": "FOOTLOCKER_2023_10K.pdf",
+        "description": "This document is Foot Locker, Inc.'s 2023 10-K annual report.  It covers the company's business overview, financial performance (including a discussion and analysis of financial condition and results of operations, and consolidated financial statements), risk factors, and significant accounting policies.  The report also includes information on corporate governance, legal proceedings, internal controls, and certifications from the CEO and CFO, along with auditor reports and supporting exhibits.  Key financial data for the past five years is presented."
+    },
+    {
+        "file_name": "FOOTLOCKER_2023_annualreport.pdf",
+        "description": "Foot Locker, Inc.'s 2023 Form 10-K details the company's performance, strategy, and financial results for the fiscal year ending January 28, 2023.  The report covers strategic highlights, financial performance (including regional sales and segment reporting), organizational changes, ESG initiatives, risk factors, and audited financial statements.  Key areas addressed include operational simplifications, brand diversification,  financial performance analysis, and future growth plans in preparation for the company's 50th anniversary.  The document also includes management's discussion and analysis, along with the required certifications and disclosures."
+    },
+    {
+        "file_name": "GENERALMILLS_2015_10K.pdf",
+        "description": "This 10-K report details General Mills' fiscal year 2015 performance and financial position.  It covers business operations, competition, research and development, executive leadership, risk factors, financial results (including segment performance and cash flows), accounting policies, and internal controls.  Significant accounting estimates, pension plans, and tax information are also included, along with auditor's and management's reports and certifications under the Sarbanes-Oxley Act.  The report provides detailed financial statements and supporting notes."
+    },
+    {
+        "file_name": "GENERALMILLS_2016_10K.pdf",
+        "description": "This General Mills, Inc. 10-K report details the company's fiscal year 2016 performance.  It covers business overview, competition, risk factors, financial statements (including income statement, balance sheet, and cash flow statement), accounting policies, and management's discussion and analysis.  Significant attention is given to net sales decline, restructuring charges, segment performance, liquidity, and risk management.  The report also includes certifications by the CEO and CFO, auditor's report, and a list of subsidiaries and joint ventures."
+    },
+    {
+        "file_name": "GENERALMILLS_2017_10K.pdf",
+        "description": "This is General Mills' 2017 Form 10-K annual report.  It covers company overview, financial performance (fiscal years 2017 and 2016, including segment breakdowns), risk factors,  properties, legal proceedings, executive compensation, and shareholder information.  Detailed financial statements, including balance sheets and cash flow statements, are included, along with notes and supplementary data.  The report also addresses internal controls, compliance certifications (Sarbanes-Oxley Act), and auditor opinions."
+    },
+    {
+        "file_name": "GENERALMILLS_2018_10K.pdf",
+        "description": "This document is General Mills' 2018 10-K report, covering the company's performance, financial condition, and risk factors.  It details business operations, including the Blue Buffalo acquisition, financial results (sales, profits, debt), segment performance, accounting policies, risk management, and corporate governance.  Significant accounting estimates and non-GAAP measures are explained. The report includes audited financial statements, management's discussion and analysis, and exhibits such as the auditor's report and supplemental retirement plans."
+    },
+    {
+        "file_name": "GENERALMILLS_2019_10K.pdf",
+        "description": "This document is General Mills, Inc.'s annual report, covering fiscal year 2019.  It details the company's business overview, including operations, competition, and financial performance.  Key sections include management's discussion and analysis of financial condition and results of operations, consolidated financial statements, significant accounting policies, and risk factors.  The report also includes certifications from the CEO and CFO regarding the accuracy of the financial information and the effectiveness of internal controls.  The Blue Buffalo acquisition significantly impacted the fiscal year's results."
+    },
+    {
+        "file_name": "GENERALMILLS_2020_10K.pdf",
+        "description": "This is General Mills' 10-K annual report for fiscal year 2020.  It details the company's business overview, including risk factors and segment performance (North America Retail, Europe & Australia, Convenience Stores & Foodservice, Pet, Asia & Latin America).  The report includes consolidated financial statements (income statement, balance sheet, cash flow statement), notes to the financials, information on accounting policies and estimates, executive compensation, and disclosures related to debt and internal controls, all in compliance with Sarbanes-Oxley Act requirements.  The impact of COVID-19 on the business and liquidity is also addressed."
+    },
+    {
+        "file_name": "GENERALMILLS_2021_10K.pdf",
+        "description": "This document is General Mills' annual report, covering fiscal year 2021.  It details the company's business operations, including segment performance (North America Retail, Europe & Australia, etc.), financial results (revenue, profits, cash flow), risk factors, and accounting policies.  Executive officer information, financial statements (including notes and auditor's report), and disclosures related to debt, stock plans, and market risk are also included.  The report complies with Sarbanes-Oxley Act requirements and includes certifications from key executives."
+    },
+    {
+        "file_name": "GENERALMILLS_2022_10K.pdf",
+        "description": "This is General Mills' annual report (Form 10-K), covering fiscal year 2022.  It details the company's business overview, including operations, risks, and financial performance across its segments (North America Retail, Pet, International, and North America Foodservice).  The report includes audited consolidated financial statements, notes,  management's and auditor's reports,  information on executive compensation and corporate governance, and disclosures regarding debt and securities.  The report also includes certifications under the Sarbanes-Oxley Act."
+    },
+    {
+        "file_name": "GENERALMILLS_2023_10K.pdf",
+        "description": "This is General Mills' Form 10-K filing for fiscal year 2023.  The report details the company's business overview, including operations, segments, customers, and risks.  It includes management's discussion and analysis of financial condition and results of operations, along with consolidated financial statements, notes, and auditor's report.  Significant accounting estimates, risk factors (operating, legal, financial), and executive compensation are also disclosed.  Finally, the filing includes a five-year credit agreement with various financial institutions."
+    },
+    {
+        "file_name": "GENERALMILLS_2023_annualreport.pdf",
+        "description": "This is General Mills' 2023 Annual Report (Form 10-K), detailing the company's performance and financial condition.  It covers business operations, including segment performance (North America Retail, International, Pet, Foodservice),  raw materials, and human capital.  Significant risks, financial statements (income statement, balance sheet, cash flow), critical accounting estimates, and debt are discussed.  The report also includes information on corporate governance, shareholder details, and a discussion of significant items impacting comparability of results between fiscal years.  Finally, it includes auditor's report and compliance information."
+    },
+    {
+        "file_name": "INTEL_2015_10K.pdf",
+        "description": "This Intel Corporation 10-K filing for 2015 details the company's business overview, including its organizational structure, market segments, competitive landscape, and manufacturing processes.  It discloses significant risk factors,  presents audited financial statements (income, balance sheet, cash flow, and equity),  analyzes financial performance across operating segments (CCG, DCG, IOTG, SSG), discusses accounting policies and estimates,  and includes management's discussion and analysis.  The filing also covers executive compensation, corporate governance, and legal proceedings.  Finally, it includes certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "INTEL_2016_10K.pdf",
+        "description": "This Intel Corporation 10-K report details the company's 2016 performance and financial condition.  It covers business overview, strategy across segments (Client Computing Group, Data Center Group, etc.), competitive landscape, risk factors (financial, operational, legal), and financial statements (income, balance sheet, cash flow).  Significant accounting policies and estimates are explained, along with management's discussion and analysis.  The report also includes details on stock repurchase programs, executive compensation, and various  exhibits related to equity incentive and stock purchase plans."
+    },
+    {
+        "file_name": "INTEL_2017_10K.pdf",
+        "description": "Intel Corporation's 2017 Form 10-K report details its financial performance, business strategy, and operational overview.  The report highlights a shift towards data-centric businesses, strong revenue growth, and capital allocation strategies.  It includes segment-specific analyses (Client Computing Group, Data Center Group, etc.), financial statements,  risk factors, and disclosures related to accounting estimates,  legal proceedings, and executive compensation.  The document also contains the auditor's report and various exhibits, including indentures and  executive employment agreements."
+    },
+    {
+        "file_name": "INTEL_2018_10K.pdf",
+        "description": "This Intel Corporation Form 10-K report details the company's 2018 performance and financial condition.  It covers business strategy, including a data-centric transformation,  financial results for each operating segment (CCG, DCG, IOTG, NSG, PSG),  risk factors, accounting policies, and statements of income, cash flow, and balance sheets.  Auditor's reports, executive certifications, and a comprehensive list of exhibits are also included.  The report emphasizes Intel's shift from a PC-centric to a data-centric business model."
+    },
+    {
+        "file_name": "INTEL_2019_10K.pdf",
+        "description": "This is Intel Corporation's 2019 annual report (Form 10-K), detailing its financial performance and strategic direction.  It highlights a transition to data-centric businesses,  reviews key financial data across segments (Data Center, IoT, Mobileye, Non-Volatile Memory, Programmable Solutions, and Client Computing Groups),  discusses operational and financial strategies,  risk factors, and includes audited financial statements.  The report also covers corporate social responsibility initiatives, intellectual property, human capital, and  management certifications."
+    },
+    {
+        "file_name": "INTEL_2020_10K.pdf",
+        "description": "This Intel Corporation 10-K filing details its 2020 financial performance and business strategies.  It covers key segments (Data Center, IoT, Mobileye, PC, etc.),  revenue growth, and operating results.  The report also addresses the impact of COVID-19,  strategic initiatives (AI, 5G), capital deployment, sustainability efforts, risk factors, and corporate governance.  Consolidated financial statements, including income statements, balance sheets, and cash flows, are included along with auditor reports and exhibits."
+    },
+    {
+        "file_name": "INTEL_2021_10K.pdf",
+        "description": "This Intel Corporation 10-K report details its 2021 financial performance and business strategy.  It covers the appointment of Pat Gelsinger as CEO and the IDM 2.0 strategy.  The report analyzes financial results across segments (Client Computing Group, Data Center Group, IoT Group, Mobileye, NSG, and PSG),  discusses capital deployment,  risk factors (including COVID-19's impact and litigation), and includes consolidated financial statements,  notes to the statements,  and auditor's report.  The document also addresses Intel's commitment to environmental sustainability and social responsibility."
+    },
+    {
+        "file_name": "INTEL_2022Q4_EARNINGS.pdf",
+        "description": "This document reports Intel's Q4 2022 and full-year financial results, including revenue, earnings, and cash flow.  It details performance across business units (Client Computing Group, Data Center and AI, etc.), highlights key achievements, and provides Q1 2023 guidance.  The report includes GAAP and non-GAAP financial measures, reconciliations, and consolidated statements (income, balance sheet, cash flow).  Forward-looking statements and a disclaimer regarding uncertainties are also included."
+    },
+    {
+        "file_name": "INTEL_2022_10K.pdf",
+        "description": "This is Intel Corporation's 2022 Form 10-K annual report.  It details Intel's business strategy, focusing on product leadership and manufacturing expansion (IDM 2.0).  The report includes a financial overview (revenue by segment, cash flow, etc.), discussion of key risks (competition, supply chain, legal),  management's discussion and analysis,  consolidated financial statements, and auditor reports.  Significant attention is given to environmental, social, and governance (ESG) initiatives and  litigation matters.  The report concludes with certifications and exhibits."
+    },
+    {
+        "file_name": "INTEL_2023Q1_EARNINGS.pdf",
+        "description": "This document reports Intel's Q1 2023 financial results, including revenue, earnings, and business unit performance.  It provides management commentary, Q2 2023 guidance (with revised depreciation policy), and a discussion of forward-looking risks.  Detailed financial statements (income statement, balance sheet, cash flow statement) are included, along with supplemental data on operating segments, product revenue breakdown, and reconciliations of GAAP to non-GAAP financial measures.  The report concludes with an overview of Intel Corporation."
+    },
+    {
+        "file_name": "INTEL_2023_8K_dated-2022-11-22.pdf",
+        "description": "This document details the Amended and Restated Limited Liability Company Agreement for Arizona Fab LLC, resulting from an acquisition by Intel Corporation.  It outlines the company's formation, membership structure, capital contributions, intellectual property rights, profit and loss distribution, transfer of units, dissolution procedures, member duties, and various legal representations and covenants.  Key provisions cover Intel's call rights, Brookfield's restrictions, and tax implications.  Exhibits define key terms and include schedules with further details.  The agreement is governed by Delaware law."
+    },
+    {
+        "file_name": "INTEL_2023_8K_dated-2023-02-10.pdf",
+        "description": "This Intel Corporation Form 8-K filing documents the issuance of senior notes due in various years.  The filing includes the underwriting agreement, detailing representations, warranties, conditions, indemnification, and default procedures.  It also includes supplemental indentures specifying note terms, redemption rights, events of default, and remedies.  Numerous exhibits detail the notes' forms and terms for each maturity date (2026, 2028, 2030, 2033, 2043, 2053, and 2063), along with a legal opinion from Gibson Dunn.  The document confirms Intel's compliance and the agreement's execution."
+    },
+    {
+        "file_name": "INTEL_2023_8K_dated-2023-08-16.pdf",
+        "description": "This Form 8-K filing announces Intel Corporation's termination of its merger agreement with Tower Semiconductor.  The filing includes a press release detailing the decision and statements from Intel executives.  It also includes standard sections such as the filing overview, a list of exhibits (including the press release), signatures, and disclaimers regarding forward-looking statements and associated risks.  The document concludes with brief information about Intel."
+    },
+    {
+        "file_name": "JOHNSON_JOHNSON_2015_10K.pdf",
+        "description": "This is Johnson & Johnson's 2015 Form 10-K annual report.  It details the company's business segments (Consumer, Pharmaceutical, Medical Devices), geographic operations, intellectual property, risk factors, and financial performance.  Significant sections cover  Management's Discussion & Analysis,  consolidated financial statements, accounting policies, legal proceedings (including extensive detail on product liability and opioid litigation), executive compensation, and internal controls.  The report includes audited financial statements, certifications from executive officers, and various exhibits."
+    },
+    {
+        "file_name": "JOHNSON_JOHNSON_2016_10K.pdf",
+        "description": "This is Johnson & Johnson's 2016 Form 10-K annual report.  It details the company's business overview, including its segments (Consumer, Pharmaceutical, Medical Devices), risk factors, financial performance (with consolidated financial statements and analyses of results of operations), legal proceedings, and executive compensation.  The report includes audited financial statements, management's discussion and analysis, and certifications required by the Sarbanes-Oxley Act.  Significant accounting policies and market risk disclosures are also provided."
+    },
+    {
+        "file_name": "JOHNSON_JOHNSON_2017_10K.pdf",
+        "description": "This is Johnson & Johnson's 2017 Form 10-K annual report.  It details the company's financial performance across its Consumer, Pharmaceutical, and Medical Devices segments, including sales analysis, earnings, and research & development expenses.  Significant risks, legal proceedings, and accounting policies are disclosed.  The report includes audited consolidated financial statements,  management's discussion & analysis, and certifications under the Sarbanes-Oxley Act.  It also covers executive compensation, security ownership, and other corporate governance information."
+    },
+    {
+        "file_name": "JOHNSON_JOHNSON_2018_10K.pdf",
+        "description": "This Johnson & Johnson 10-K report details the company's 2018 financial performance and operational overview.  It covers business segments (Consumer, Pharmaceutical, Medical Devices), risk factors (including international, manufacturing, and cybersecurity risks), financial statements (balance sheets, income statements, cash flows), and legal proceedings (product liability, patent infringement).  Key accounting policies, executive compensation, and shareholder information are also included, along with required certifications under the Sarbanes-Oxley Act."
+    },
+    {
+        "file_name": "JOHNSON_JOHNSON_2019_10K.pdf",
+        "description": "This Johnson & Johnson 10-K report details the company's 2019 performance across its Consumer, Pharmaceutical, and Medical Devices segments.  It includes financial statements, management's discussion and analysis, risk factors (legal proceedings, product safety), executive compensation and corporate governance information.  Significant accounting policies,  research and development expenditures, and liquidity are also discussed.  The report concludes with certifications complying with the Sarbanes-Oxley Act."
+    },
+    {
+        "file_name": "JOHNSON_JOHNSON_2020_10K.pdf",
+        "description": "This is Johnson & Johnson's 2020 Form 10-K annual report.  It details the company's financial performance across its Consumer Health, Pharmaceutical, and Medical Devices segments, including sales, earnings, and risk factors.  The report also covers operational aspects like geographic reach, regulatory compliance, intellectual property, and legal proceedings,  along with significant accounting policies and internal controls.  Executive compensation, shareholder information, and audited financial statements are included, along with details on subsidiaries and the company's excess benefit plan.  The report concludes with certifications by the CEO and CFO."
+    },
+    {
+        "file_name": "JOHNSON_JOHNSON_2021_10K.pdf",
+        "description": "This Johnson & Johnson 2021 Form 10-K filing details the company's financial performance, business operations across Consumer Health, Pharmaceutical, and Medical Devices segments, and significant risks.  It includes audited consolidated financial statements, management's discussion and analysis, risk factors (including those related to a planned separation and litigation), information on executive compensation, and certifications under the Sarbanes-Oxley Act.  The report also covers legal proceedings, particularly those related to talc litigation, and details on accounting policies and procedures."
+    },
+    {
+        "file_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS.pdf",
+        "description": "This document details Johnson & Johnson's 2022 Q4 and full-year financial results.  It includes GAAP and non-GAAP financial measures, segment performance analysis (Consumer Health, Pharmaceutical, MedTech), regulatory announcements, and 2023 guidance.  Detailed breakdowns of sales, earnings, and costs are provided, along with reconciliations of non-GAAP measures.  The report also highlights key product performance and growth drivers within each segment, acknowledging uncertainties like legal proceedings."
+    },
+    {
+        "file_name": "JOHNSON_JOHNSON_2022_10K.pdf",
+        "description": "This Johnson & Johnson 10-K filing covers fiscal year 2022.  It details the company's business overview across Consumer Health, Pharmaceutical, and MedTech segments, including financial performance, risk factors (product development, market conditions, planned Consumer Health separation), and legal proceedings.  The report includes consolidated financial statements, accounting policies, executive compensation, and disclosures on stock ownership and internal controls.  Significant accounting policies, debt obligations, and various litigation matters are also addressed.  Finally, certifications from the CEO and CFO are included."
+    },
+    {
+        "file_name": "JOHNSON_JOHNSON_2023Q1_EARNINGS.pdf",
+        "description": "This document presents Johnson & Johnson's Q1 2023 financial results.  It details overall financial performance, including sales growth and earnings per share, broken down by region and business segment (Consumer Health, Pharmaceutical, MedTech).  Key product contributions and regional sales are analyzed.  The report includes full-year 2023 guidance,  a discussion of notable announcements, and supplementary data including reconciliations of non-GAAP measures and detailed sales information.  Finally,  investor information regarding a webcast and cautionary statements about forward-looking information are provided."
+    },
+    {
+        "file_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS.pdf",
+        "description": "This document reports Johnson & Johnson's second-quarter 2023 financial results.  It details sales, net earnings, and EPS, broken down by region (U.S. and international) and segment (Consumer Health, Pharmaceutical, MedTech).  Key product performance, new announcements, and full-year guidance are included.  Comprehensive financial statements (condensed consolidated statements of earnings and supplemental sales data) are provided, along with reconciliations of non-GAAP financial measures.  The report also offers a summary of the company's mission and forward-looking statements."
+    },
+    {
+        "file_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-23.pdf",
+        "description": "This Form 8-K current report from Johnson & Johnson details the completion of a split-off exchange offer for shares of Kenvue Inc.  The report specifies the number of shares exchanged and includes the required signatures for compliance with the Securities Exchange Act of 1934.  Accompanying exhibits, formatted in Inline XBRL, are also listed.  The document primarily focuses on reporting the successful completion of the Kenvue Inc. share exchange."
+    },
+    {
+        "file_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30.pdf",
+        "description": "Johnson & Johnson's Form 8-K reports Q2 2023 financial results, updated full-year guidance, and details on the Kenvue separation.  The report includes a press release, condensed financial statements (2022 & 2023), reconciliations of GAAP to non-GAAP measures, and supplementary sales data.  Updated guidance reflects sales growth expectations and adjusted earnings per share.  The document also features a note on forward-looking statements and information about an investor webinar.  Key financial metrics are provided for various periods, including detailed segment breakdowns."
+    },
+    {
+        "file_name": "JPMORGAN_2021Q1_10Q.pdf",
+        "description": "This JPMorgan Chase & Co. Form 10-Q for Q1 2021 reports financial results and key metrics.  It details consolidated financial highlights, segment performance (Consumer & Community Banking, Corporate & Investment Bank, Commercial Banking, Asset & Wealth Management), and risk management practices (credit, market, liquidity, operational).  The report includes unaudited financial statements, disclosures on fair value measurements,  derivatives, and regulatory capital, along with certifications from the CEO and CFO.  It also addresses the impact of COVID-19 and forward-looking statements."
+    },
+    {
+        "file_name": "JPMORGAN_2021Q2_10Q.pdf",
+        "description": "This is JPMorgan Chase & Co.'s Form 10-Q for the second quarter of 2021.  The report details the company's financial performance, including consolidated financial highlights, Management\u2019s Discussion and Analysis (MD&A) covering firmwide and segment results, and a comprehensive review of its financial condition and risks.  It includes consolidated financial statements, notes to the statements, risk management discussions (market, credit, liquidity, operational), and disclosures on accounting policies, fair value measurements, and significant events.  The report is certified by the CEO and CFO."
+    },
+    {
+        "file_name": "JPMORGAN_2021Q3_10Q.pdf",
+        "description": "This JPMorgan Chase & Co. report (Q3 2021) details financial results, including consolidated income statements, balance sheets, and cash flows.  Management discusses operational performance across business segments (Consumer & Community Banking, Corporate & Investment Bank, Commercial Banking, Asset & Wealth Management), highlighting key metrics and the impact of COVID-19.  The report also covers risk management, including credit, market, and operational risks, regulatory capital, and liquidity.  Financial statement notes provide detailed accounting policies and disclosures.  Unaudited financial statements and certifications are included."
+    },
+    {
+        "file_name": "JPMORGAN_2021_10K.pdf",
+        "description": "This JPMorgan Chase & Co. 10-K filing for fiscal year 2021 details the company's business overview, human capital strategies, and regulatory environment.  It extensively covers risk factors, including operational, liquidity, credit, and cybersecurity risks.  The report includes management's discussion and analysis of financial condition and results of operations across four business segments,  consolidated financial statements, notes to the statements, and information on executive compensation and corporate governance.  Finally, it describes the company's securities and incentive plans."
+    },
+    {
+        "file_name": "JPMORGAN_2022Q1_10Q.pdf",
+        "description": "This is JPMorgan Chase & Co.'s Form 10-Q for the first quarter of 2022.  The report details the company's financial performance, including consolidated financial statements (income, comprehensive income, balance sheets, cash flows), segment results (Consumer & Community Banking, Corporate & Investment Bank, etc.), and risk management discussions (credit, market, liquidity, operational).  It also includes disclosures on critical accounting estimates, regulatory capital, and off-balance sheet activities.  The report is certified by the CEO and CFO."
+    },
+    {
+        "file_name": "JPMORGAN_2022Q2_10Q.pdf",
+        "description": "This is JPMorgan Chase & Co.'s Form 10-Q for the quarter ending June 30, 2022.  The report details the company's financial performance, including consolidated financial highlights, Management's Discussion and Analysis (MD&A), and segment results for its four lines of business.  It covers key metrics, credit quality, risk management (market, credit, liquidity, operational), capital adequacy, accounting policies, and fair value measurements.  Unaudited financial statements (income, comprehensive income, balance sheets, cash flows) and accompanying notes are included, along with certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "JPMORGAN_2022Q3_10Q.pdf",
+        "description": "This is JPMorgan Chase & Co.'s Form 10-Q report for the third quarter of 2022.  The report details the company's financial performance across its four business segments (Consumer & Community Banking, Corporate & Investment Bank, Commercial Banking, and Asset & Wealth Management), including income statements, balance sheets, and cash flow analyses.  It also covers risk management, accounting policies, and significant events, such as acquisitions and litigation.  The report includes audited financial statements and certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "JPMORGAN_2022_10K.pdf",
+        "description": "This is JPMorgan Chase & Co.'s 2022 Form 10-K, detailing its financial performance and condition.  The report covers business segments (Consumer & Community Banking, Corporate & Investment Bank, Commercial Banking, Asset & Wealth Management), significant risks (market, credit, liquidity, operational, legal),  financial statements (income, cash flow, balance sheet), and extensive notes explaining accounting policies and fair value measurements.  It also includes information on executive compensation, corporate governance, and stock information.  The document concludes with exhibits and certifications."
+    },
+    {
+        "file_name": "JPMORGAN_2023Q1_10Q.pdf",
+        "description": "This is JPMorgan Chase & Co.'s Form 10-Q for the first quarter of 2023.  The report details the company's financial performance, including consolidated financial highlights, results of operations, and balance sheet analysis across its four business segments: Consumer & Community Banking, Corporate & Investment Bank, Commercial Banking, and Asset & Wealth Management.  It also covers risk management, regulatory capital, liquidity, credit quality, and accounting information.  The report includes audited financial statements, management's discussion and analysis, and certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "JPMORGAN_2023Q2_10Q.pdf",
+        "description": "This is JPMorgan Chase & Co.'s Form 10-Q for the quarter ended June 30, 2023.  The report details the company's financial performance, including consolidated financial highlights, Management's Discussion and Analysis (MD&A), segment results (Consumer & Community Banking, Corporate & Investment Bank, Commercial Banking, Asset & Wealth Management), and risk management.  Significant events, such as the First Republic Bank acquisition, are discussed, along with financial statements, accounting policies, and disclosures regarding credit risk, market risk, and liquidity.  The report includes certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "KRAFTHEINZ_2015_10K.pdf",
+        "description": "This 10-K report for Kraft Heinz Company (year ended January 3, 2016) details the company's financial performance post-2015 merger with a focus on  business operations, financial statements, and risk factors.  It includes discussions of  revenue, expenses, debt,  legal proceedings (including a CFTC complaint),  pension plans,  accounting policies, and  the integration process.  The report also features management's discussion and analysis,  consolidated financial statements,  and auditor's report, along with supporting exhibits and certifications."
+    },
+    {
+        "file_name": "KRAFTHEINZ_2016_10K.pdf",
+        "description": "This document is Kraft Heinz Company's 2016 Form 10-K annual report.  It details the company's business operations, financial performance (including consolidated financial statements and segment analysis), risk factors (competitive landscape, regulatory environment, indebtedness), executive compensation, and corporate governance.  Significant accounting policies, legal proceedings, and  descriptions of stock incentive plans are also included, along with auditor's reports and executive certifications.  The report provides a comprehensive overview of Kraft Heinz's financial status and operations for the fiscal year."
+    },
+    {
+        "file_name": "KRAFTHEINZ_2017_10K.pdf",
+        "description": "This Kraft Heinz Company 10-K filing (2017) details the company's financial performance and operational overview.  Key sections cover business operations, risk factors (including sales volatility and internal control weaknesses), financial statements (income, cash flow, balance sheets), accounting policies, segment performance, and the impact of the 2015 merger.  Significant attention is given to the company's liquidity, debt, and tax implications of US tax reform.  The report also includes executive certifications and exhibits related to compensation plans and agreements."
+    },
+    {
+        "file_name": "KRAFTHEINZ_2018_10K.pdf",
+        "description": "This Kraft Heinz Company 10-K report details the company's 2018 financial performance, significantly impacted by a restatement due to accounting misstatements in procurement.  The report covers business operations, risk factors (industry, business, and financial),  a management discussion and analysis of results, and audited financial statements (including restatements).  It also includes extensive information on executive compensation, corporate governance, and various agreements and disclosures related to securities, compensation plans, and restrictive covenants for employees, particularly concerning non-U.S. participants."
+    },
+    {
+        "file_name": "KRAFTHEINZ_2019_10K.pdf",
+        "description": "This Kraft Heinz Company 10-K report covers the fiscal year 2019, detailing business operations, financial performance, and risks.  It includes a business overview, risk factors (including regulatory and financial risks), financial statements, accounting policies, executive compensation, and disclosures related to internal controls and legal proceedings.  Significant accounting estimates and non-GAAP measures are explained.  The report also contains details on acquisitions, divestitures, restructuring, and executive compensation, along with certifications from the CEO and CFO.  Amendments to licensing agreements and an executive separation agreement are included as exhibits."
+    },
+    {
+        "file_name": "KRAFTHEINZ_2020_10K.pdf",
+        "description": "This Kraft Heinz Company 2020 Form 10-K filing details the company's financial performance and operations.  It includes business overviews, product sales data, risk factors (financial, operational, regulatory),  human capital management, and audited financial statements (income, cash flow, balance sheets).  Significant accounting policies,  goodwill impairment testing, pension plans, and debt are discussed.  Non-GAAP measures are reconciled, and executive compensation information is referenced.  The filing concludes with required certifications and exhibits."
+    },
+    {
+        "file_name": "KRAFTHEINZ_2021_10K.pdf",
+        "description": "This Kraft Heinz Company 10-K report details its fiscal year 2021 performance.  It covers business operations, including sales,  research & development, and human capital, alongside risk factors (financial, regulatory, market).  Significant accounting policies and estimates are explained, followed by consolidated financial statements (income, cash flow, balance sheet), and notes providing further detail on items such as debt, pensions, and equity compensation.  Finally, certifications from the CEO and CFO are included, affirming the report's accuracy and internal control effectiveness."
+    },
+    {
+        "file_name": "KRAFTHEINZ_2022_10K.pdf",
+        "description": "This Kraft Heinz 2022 10-K report details the company's business overview, including operations, competition, and human capital.  Significant sections cover risk factors (business, financial, regulatory), financial results (with segment and liquidity analyses), accounting policies, and significant accounting estimates.  The report includes audited consolidated financial statements, disclosures on debt, equity, and executive compensation (with references to the proxy statement), and extensive details on stock option and RSU plans for employees, including numerous country-specific provisions.  Finally, it includes certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "LOCKHEEDMARTIN_2015_10K.pdf",
+        "description": "This Lockheed Martin Corporation 2015 Form 10-K report details the company's financial performance and business operations.  It covers business segments (Aeronautics, IS&GS, MFC, MST, Space Systems), strategic actions (Sikorsky acquisition), risk factors (government contracts, legal proceedings), financial data (net sales, profit, cash flow), accounting policies, and governance.  The report includes audited financial statements, executive biographies, and disclosures on various legal and environmental matters.  A nonqualified capital accumulation plan is also described."
+    },
+    {
+        "file_name": "LOCKHEEDMARTIN_2016_10K.pdf",
+        "description": "This Lockheed Martin Corporation 2016 Form 10-K report details the company's global security and aerospace business, including its four segments (Aeronautics, Missiles and Fire Control, Rotary and Mission Systems, Space Systems).  It covers business overview, competition, government contracts, risk factors, financial data (statements, results of operations, cash flow), accounting policies, legal proceedings, acquisitions (Sikorsky), and pension plans.  The report also includes certifications from executive officers and details on corporate governance and ethics."
+    },
+    {
+        "file_name": "LOCKHEEDMARTIN_2017_10K.pdf",
+        "description": "This is Lockheed Martin Corporation's 2017 Form 10-K report.  It details the company's financial performance, including segment breakdowns (Aeronautics, Missiles & Fire Control, Rotary & Mission Systems, Space),  government contracts, competitive landscape, and risk factors.  The report also covers  acquisitions (Sikorsky), divestitures (IS&GS),  accounting policies,  cash flow,  and  stockholder information.  Finally, it includes  independent auditor reports,  executive certifications, and  details of the company's retirement and incentive compensation plans."
+    },
+    {
+        "file_name": "LOCKHEEDMARTIN_2018_10K.pdf",
+        "description": "This Lockheed Martin Corporation 2018 Form 10-K annual report details the company's business operations across four segments (Aeronautics, Missiles and Fire Control, Rotary and Mission Systems, Space), financial performance (including consolidated statements and segment results), risk factors, legal proceedings, executive compensation, and corporate governance.  Significant attention is given to the F-35 program and financial data, along with accounting policies and internal controls.  The report also includes details on the company's retirement plans and numerous exhibits and certifications."
+    },
+    {
+        "file_name": "LOCKHEEDMARTIN_2019_10K.pdf",
+        "description": "This Lockheed Martin Corporation 2019 Form 10-K report details the company's performance across four business segments (Aeronautics, Missiles and Fire Control, Rotary and Mission Systems, Space).  It includes financial statements, segment overviews, risk factors (including government contract reliance and geopolitical issues),  legal proceedings, executive compensation, and governance information.  The report also covers accounting policies,  internal controls, and significant accounting estimates, along with details on the company's deferred compensation plan and various other employee benefits."
+    },
+    {
+        "file_name": "LOCKHEEDMARTIN_2020_10K.pdf",
+        "description": "This Lockheed Martin Corporation 2020 Form 10-K report details the company's business overview, including its segments (Aeronautics, Missiles and Fire Control, Rotary and Mission Systems, Space), competitive landscape, and government contracts.  It analyzes financial performance, including results of operations, cash flows, and balance sheets, highlighting the impact of COVID-19.  Significant risks, such as reliance on government contracts and cybersecurity threats, are discussed.  The report also includes critical accounting policies, certifications, and audited financial statements.  Finally, it covers executive compensation, corporate governance, and the proposed Aerojet Rocketdyne acquisition."
+    },
+    {
+        "file_name": "LOCKHEEDMARTIN_2021_10K.pdf",
+        "description": "This Lockheed Martin Corporation 10-K report details the company's 2021 performance across its four business segments (Aeronautics, Missiles and Fire Control, Rotary and Mission Systems, Space), including financial results, risks, and future outlook.  It covers business operations, competitive landscape, government contracts, intellectual property, human resources, and financial statements with accompanying notes and auditor reports.  Significant attention is given to the proposed Aerojet Rocketdyne acquisition and associated risks.  The report also includes certifications from the CEO and CFO."
+    },
+    {
+        "file_name": "LOCKHEEDMARTIN_2022Q2_10Q.pdf",
+        "description": "This Lockheed Martin Corporation 10-Q report (quarter ended June 26, 2022) details financial performance, including key metrics, consolidated statements (balance sheet, cash flow, equity), segment reporting (Aeronautics, Missiles & Fire Control, Rotary & Mission Systems, Space), and earnings per share.  It also covers legal proceedings,  accounting policies, risk factors,  market risk disclosures,  and certifications by CEO and CFO in accordance with Sarbanes-Oxley Act requirements.  The report analyzes the impacts of COVID-19, inflation, and geopolitical factors on the company\u2019s performance."
+    },
+    {
+        "file_name": "LOCKHEEDMARTIN_2022_10K.pdf",
+        "description": "This Lockheed Martin Corporation 2022 Form 10-K report details the company's business overview, including its four segments (Aeronautics, Missiles and Fire Control, Rotary and Mission Systems, Space),  intellectual property, human capital, and competitive environment.  Significant attention is given to risk factors, particularly those related to government contracts (especially the F-35 program), economic conditions, and international sales.  The report also includes consolidated financial statements, management's discussion and analysis,  and certifications in accordance with Sarbanes-Oxley Act requirements."
+    },
+    {
+        "file_name": "LOCKHEEDMARTIN_2023Q1_10Q.pdf",
+        "description": "This document presents Lockheed Martin's first-quarter 2023 financial results.  It details financial performance across all segments (Aeronautics, Missiles & Fire Control, Rotary & Mission Systems, Space), including net sales, operating profit, earnings, and cash flow.  The report provides a comparison to Q1 2022,  includes a 2023 outlook,  explains non-GAAP measures, and offers consolidated financial statements (earnings, balance sheets, cash flows).  Finally, it provides investor contact information and forward-looking statements with cautionary notes."
+    },
+    {
+        "file_name": "LOCKHEEDMARTIN_2023Q2_10Q.pdf",
+        "description": "This document presents Lockheed Martin's second quarter 2023 financial results.  It details net sales, earnings, cash flow, and shareholder returns, providing a summary of financial performance for both the quarter and the first six months of the year.  The report includes a 2023 financial outlook, segment results (Aeronautics, Missiles & Fire Control, Rotary & Mission Systems, Space), and explanations of non-GAAP measures and forward-looking statements.  Consolidated financial statements (earnings, balance sheets, cash flows) and other operational data are also included.  Finally,  contact information for media and investors is provided."
+    },
+    {
+        "file_name": "LOCKHEEDMARTIN_2023_8K_dated-2023-05-25.pdf",
+        "description": "This Form 8-K filing details Lockheed Martin Corporation's issuance and sale of senior unsecured notes due 2028, 2034, and 2055.  The document includes the underwriting agreement, specifying terms, conditions, obligations, and indemnities for both Lockheed Martin and the underwriters (including Barclays Capital Inc. and Credit Agricole Securities (USA) Inc.).  It also contains the forms of the notes, legal opinions from Hogan Lovells US LLP and in-house counsel, and  related exhibits.  The filing confirms the issuance and sale, outlining the notes' features and associated legal frameworks."
+    },
+    {
+        "file_name": "LOCKHEEDMARTIN_2023_8K_dated-2023-08-24.pdf",
+        "description": "This Form 8-K Current Report from Lockheed Martin Corporation announces an extension to their Revolving Credit Agreement.  The document details the extension agreement itself, including an overview, and exhibits such as the agreement and interactive data file.  The bulk of the report comprises multiple pages of signatures from participating lenders and Lockheed Martin, confirming their acceptance of the extended terms.  The report concludes with the final signatures and acceptance of the agreement."
     }
 ]
